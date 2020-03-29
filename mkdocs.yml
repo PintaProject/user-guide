@@ -1,0 +1,17 @@
+site_name: Pinta Pals
+nav:
+  - Home: home.md
+  - General Overview: overview.md
+  - Getting Started: start.md
+  - Quick Start Tutorial: tutorial.md
+  - Images & Photos:
+    - 'Edit Images & Photos': 'edit.md'
+    - 'Edit': 
+      - 'Nest': 'page.md'
+  - Save Project: save.md
+  - Print Project: print.md
+  - Shortcuts: shortcuts.md
+  - Glossary: glossary.md
+  - Index: index.md
+  - Test: index_test.md
+theme: readthedocs
