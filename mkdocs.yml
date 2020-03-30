@@ -1,17 +1,44 @@
 site_name: Pinta Pals
 nav:
-  - Home: home.md
-  - General Overview: overview.md
-  - Getting Started: start.md
-  - Quick Start Tutorial: tutorial.md
-  - Images & Photos:
-    - 'Edit Images & Photos': 'edit.md'
-    - 'Edit': 
-      - 'Nest': 'page.md'
+  - Home: index.md
+  - First Steps:
+    - 'General Overview': overview.md
+    - 'Getting Started': start.md
+  - Tutorial: tutorial.md
+  - Images:
+    - 'Add & Remove Images': images.md
+    - 'Select & Edit Images': edit_images.md
+  - Layers:
+    - 'Add & Remove Layers': layers.md
+    - 'View & Edit': edit_layers.md
+  - Shapes: 
+    - 'Add & Remove Shapes': shapes.md
+    - 'Select & Edit Shapes': edit_shapes.md
+  - Text:
+    - 'Add & Remove Text': text.md
+    - 'Select & Edit Text': edit_text.md
+  - Items:
+    - 'Add & Remove Items': items.md
+    - 'Select & Edit Items': edit_items.md
+  - Tool Effects:
+    - 'Ink': ink.md
+    - 'Paint': paint.md
+    - 'Pencil': pencil.md
+    - 'Clone Stamp': clone.md
+  - Image Effects: 
+    - 'Sepia': sepia.md
+    - 'Black and White': bw.md
+    - 'Blur': blur.md
+    - 'Distort': distort.md
+    - 'Red-Eye Reduction': redeye.md
+    - 'Noise Reduction': noise.md
+    - 'Posterize': posterize.md
+  - Colour Level: 
+    - 'Auto Level': auto.md
+    - 'Manual Level': manual.md
   - Save Project: save.md
   - Print Project: print.md
   - Shortcuts: shortcuts.md
   - Glossary: glossary.md
-  - Index: index.md
-  - Test: index_test.md
+  - Test: test.md
 theme: readthedocs
