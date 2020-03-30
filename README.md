@@ -1,2 +1,2 @@
 # Pinta Pals
-https://jeneira94.github.io/pintapals_test/
+https://jeneira94.github.io/pintapals/
