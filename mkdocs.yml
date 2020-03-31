@@ -44,4 +44,4 @@ nav:
     - 'Shortcuts': shortcuts.md
     - 'Glossary': glossary.md
     - 'Test': test.md
-theme: ivory
+theme: readthedocs
