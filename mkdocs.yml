@@ -9,37 +9,45 @@ nav:
     - 'Setting Up New Project': setup.md
     - 'Project Tutorial': tutorial.md
   - Layering on Images:
-    - 'Add & Remove Images': images.md
+    - 'Introduction to Layered Images': images.md
     - 'Creating Layers': layers.md
     - 'Edit Layers': edit_layers.md
     - 'Remove Layers': remove_layers.md
-  - Modifier Tools:
-    - 'Selection': select.md
-    - 'Zooming': zoom.md
-    - 'Paintbrush': paintbrush.md
-    - 'Pencil': pencil.md
-    - 'Inking': ink.md
-    - 'Eraser': erase.md
-    - 'Clone Stamp': clone.md
-    - 'Colour Picker': picker.md
-    - 'Colour Palette': palette.md
-    - 'Creating Shapes': shapes.md
-    - 'Text Management': text.md
-  - Image Enhancement: 
-    - 'Sepia Filter': sepia.md
-    - 'Black and White Filter': bw.md
-    - 'Blurring Image': blur.md
-    - 'Image Distortion': distort.md
-    - 'Photo Red-Eye Reduction': redeye.md
-    - 'Image Noise Reduction': noise.md
-    - 'Posterize': posterize.md
-    - 'Gradient': gradient.md
-  - Colour Level Management: 
-    - 'Auto Level': auto.md
-    - 'Manual Level': manual.md
+  - Creating with Pinta:
+    - 'Decorating': 
+      - 'Introduction to Decorations': decorate.md
+      - 'Customize Paintbrush': paintbrush.md
+      - 'Using Pencil': pencil.md
+      - 'Inking': ink.md
+      - 'Erasing': erase.md
+      - 'Clone Stamping': clone.md
+      - 'Creating Shapes': shapes.md
+      - 'Drawing Lines': lines.md
+      - 'Text Management': text.md
+    - 'Modifying': 
+      - 'Selection': select.md
+      - 'Zooming': zoom.md
+      - 'Colour Picker': picker.md
+      - 'Colour Palette': palette.md
+  - Enhancing Images: 
+    - 'Enhancement Introduction': enchance.md
+    - 'Improving Colours': 
+      - 'Introduction to Colour Improvement': colours.md
+      - 'Sepia Filter': sepia.md
+      - 'Black and White Filter': bw.md
+      - 'Posterize': posterize.md
+      - 'Gradient': gradient.md
+      - 'Auto Level': auto.md
+      - 'Manual Level': manual.md
+    - 'Adjusting Sharpness': 
+      - 'Blurring Image': blur.md
+      - 'Image Noise Reduction': noise.md
+    - 'Removing Impurities': 
+      - 'Image Distortion': distort.md
+      - 'Photo Red-Eye Reduction': redeye.md
   - Exporting Project:
-    - 'Save': save.md
-    - 'Print': print.md
+    - 'Save Image Project': save.md
+    - 'Print Final Image': print.md
   - Appendix:
     - 'Shortcuts': shortcuts.md
     - 'Glossary': glossary.md
