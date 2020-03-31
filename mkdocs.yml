@@ -2,12 +2,15 @@ site_name: Pinta Pals
 nav:
   - Home: index.md
   - First Steps:
-    - 'General Overview': overview.md
     - 'Getting Started': start.md
-  - Tutorial: tutorial.md
+    - 'Pinta Overview': overview.md
+    - 'Basic Concepts': concept.md
+  - Quick Start: 
+    - 'Setting Up Project': setup.md
+    - 'Project Tutorial': tutorial.md
   - Layering on Images:
     - 'Add & Remove Images': images.md
-    - 'Add & View Layers': layers.md
+    - 'Creating Layers': layers.md
     - 'Edit Layers': edit_layers.md
     - 'Remove Layers': remove_layers.md
   - Modifier Tools:
@@ -23,20 +26,22 @@ nav:
     - 'Creating Shapes': shapes.md
     - 'Text Management': text.md
   - Image Enchancement: 
-    - 'Sepia': sepia.md
-    - 'Black and White': bw.md
-    - 'Blurring': blur.md
-    - 'Distortion': distort.md
-    - 'Red-Eye Reduction': redeye.md
-    - 'Noise Reduction': noise.md
+    - 'Sepia Filter': sepia.md
+    - 'Black and White Filter': bw.md
+    - 'Blurring Image': blur.md
+    - 'Image Distortion': distort.md
+    - 'Photo Red-Eye Reduction': redeye.md
+    - 'Image Noise Reduction': noise.md
     - 'Posterize': posterize.md
     - 'Gradient': gradient.md
   - Colour Level Management: 
     - 'Auto Level': auto.md
     - 'Manual Level': manual.md
-  - Save Project: save.md
-  - Print Project: print.md
-  - Shortcuts: shortcuts.md
-  - Glossary: glossary.md
-  - Test: test.md
+  - Exporting Project:
+    - 'Save': save.md
+    - 'Print': print.md
+  - Appendix:
+    - 'Shortcuts': shortcuts.md
+    - 'Glossary': glossary.md
+    - 'Test': test.md
 theme: readthedocs
