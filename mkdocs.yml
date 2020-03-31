@@ -32,16 +32,18 @@ nav:
     - Colour Adjustments': colours.md
     - Filtering Image': filter.md
   - Image Repair & Restoration:
-    - 'Reduce Red-Eye': redeye.md
-    - 'Noise Reduction': noise.md
-    - 'Remove Objects from Photo': remove.md
-    - 'Clone Stamp Tool': clone.md
-    - 'Image Distortion': distort.md
+    - Reduce Red-Eye: redeye.md
+    - Noise Reduction: noise.md
+    - Remove Objects from Photo: remove.md
+    - Clone Stamp Tool: clone.md
+    - Image Distortion: distort.md
   - Exporting Project:
-    - 'Save Project': save.md
-    - 'Print Project': print.md
+    - Save Project: save.md
+    - Print Project: print.md
   - Appendix:
-    - 'Shortcuts': shortcuts.md
-    - 'Glossary': glossary.md
-    - 'Test': test.md
-theme: readthedocs
+    - Shortcuts: shortcuts.md
+    - Glossary: glossary.md
+    - Test: test.md
+theme: 
+  name: readthedocs
+  extra_css: css/extra.css
