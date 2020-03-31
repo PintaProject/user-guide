@@ -44,4 +44,8 @@ nav:
     - 'Shortcuts': shortcuts.md
     - 'Glossary': glossary.md
     - 'Test': test.md
-theme: readthedocs
+theme: 
+  name: readthedocs
+  highlightjs: true
+  hljs_style: zenburn
+  nav_style: dark
