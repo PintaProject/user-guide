@@ -6,7 +6,7 @@ nav:
     - 'Pinta Overview': overview.md
     - 'Basic Concepts': concept.md
   - Quick Start: 
-    - 'Setting Up Project': setup.md
+    - 'Setting Up New Project': setup.md
     - 'Project Tutorial': tutorial.md
   - Layering on Images:
     - 'Add & Remove Images': images.md
@@ -25,7 +25,7 @@ nav:
     - 'Colour Palette': palette.md
     - 'Creating Shapes': shapes.md
     - 'Text Management': text.md
-  - Image Enchancement: 
+  - Image Enhancement: 
     - 'Sepia Filter': sepia.md
     - 'Black and White Filter': bw.md
     - 'Blurring Image': blur.md
@@ -44,4 +44,4 @@ nav:
     - 'Shortcuts': shortcuts.md
     - 'Glossary': glossary.md
     - 'Test': test.md
-theme: readthedocs
+theme: ivory
