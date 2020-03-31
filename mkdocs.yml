@@ -28,15 +28,15 @@ nav:
     - 'Adjust Canvas Size': adjust.md
     - 'Move': move.md
   - Image Adjustments:
-    - Blurring Image: blur.md
-    - Colour Adjustments: colours.md
-    - Filtering Image:
+    - 'Blurring Image': blur.md
+    - 'Colour Adjustments': colours.md
+    - 'Filtering Image':
   - Image Repair & Restoration:
-    - Reduce Red-Eye: redeye.md
-    - Noise Reduction: noise.md
-    - Remove Objects from Photo: remove.md
-    - Clone Stamp Tool: clone.md
-    - Image Distortion: distort.md
+    - 'Reduce Red-Eye': redeye.md
+    - 'Noise Reduction': noise.md
+    - 'Remove Objects from Photo': remove.md
+    - 'Clone Stamp Tool': clone.md
+    - 'Image Distortion': distort.md
   - Exporting Project:
     - 'Save Project': save.md
     - 'Print Project': print.md
