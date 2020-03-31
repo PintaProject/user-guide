@@ -3,51 +3,43 @@ nav:
   - Home: index.md
   - First Steps:
     - 'Getting Started': start.md
-    - 'Pinta Overview': overview.md
+    - 'General Overview': overview.md
     - 'Basic Concepts': concept.md
   - Quick Start: 
-    - 'Setting Up New Project': setup.md
-    - 'Project Tutorial': tutorial.md
-  - Layering on Images:
-    - 'Introduction to Layered Images': images.md
+    - 'Setting Up Project': setup.md
+    - 'Tutorial': tutorial.md
+  - Image Layers:
     - 'Creating Layers': layers.md
     - 'Edit Layers': edit_layers.md
     - 'Remove Layers': remove_layers.md
-  - Creating with Pinta:
-    - 'Decorating': 
-      - 'Introduction to Decorations': decorate.md
-      - 'Customize Paintbrush': paintbrush.md
-      - 'Using Pencil': pencil.md
-      - 'Inking': ink.md
-      - 'Erasing': erase.md
-      - 'Clone Stamping': clone.md
-      - 'Creating Shapes': shapes.md
-      - 'Drawing Lines': lines.md
-      - 'Text Management': text.md
-    - 'Modifying': 
-      - 'Selection': select.md
-      - 'Zooming': zoom.md
-      - 'Colour Picker': picker.md
-      - 'Colour Palette': palette.md
-  - Enhancing Images: 
-    - Enhancement Introduction: enchance.md
-    - Improving Colours: 
-      - 'Introduction to Colour Improvement': colours.md
-      - 'Sepia Filter': sepia.md
-      - 'Black and White Filter': bw.md
-      - 'Posterize': posterize.md
-      - 'Gradient': gradient.md
-      - 'Auto Level': auto.md
-      - 'Manual Level': manual.md
-    - Adjusting Sharpness: 
-      - 'Blurring Image': blur.md
-      - 'Image Noise Reduction': noise.md
-    - Removing Impurities: 
-      - Image Distortion: distort.md
-      - Photo Red-Eye Reduction: redeye.md
+  - Drawing & Painting:
+    - 'About': pencil.md
+    - 'Selection Tool': select.md
+    - 'Selecting Pencil and Brush': paintbrush.md
+    - 'Add Shapes': shapes.md
+    - 'Add Lines & Curves': lines.md
+    - 'Removing Items': items.md
+    - 'Text Management': text.md
+  - Image Transformations:
+    - 'Rotate': rotate.md
+    - 'Flip': flip.md
+    - 'Resize': resize.md
+    - 'Crop and Straighten': crop.md
+    - 'Adjust Canvas Size': adjust.md
+    - 'Move': move.md
+  - Image Adjustments:
+    - Blurring Image: blur.md
+    - Colour Adjustments: colours.md
+    - Filtering Image:
+  - Image Repair & Restoration:
+    - Reduce Red-Eye: redeye.md
+    - Noise Reduction: noise.md
+    - Remove Objects from Photo: remove.md
+    - Clone Stamp Tool: clone.md
+    - Image Distortion: distort.md
   - Exporting Project:
-    - 'Save Image Project': save.md
-    - 'Print Final Image': print.md
+    - 'Save Project': save.md
+    - 'Print Project': print.md
   - Appendix:
     - 'Shortcuts': shortcuts.md
     - 'Glossary': glossary.md
@@ -56,6 +48,4 @@ theme:
   name: readthedocs
   highlightjs: true
   hljs_style: zenburn
-  collapse_navigation: true
-  navigation_depth: 6
   extra_css: css/extra.css
