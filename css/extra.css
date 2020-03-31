@@ -1,13 +1,5 @@
-h2 {
-    color: red;
-  }
-strong {
-    color:yellow;
-}
-h3 {
-    color: green;
-}
-
 .wy-nav-side {
     color: #2980B9;
+    font-size: 16px;
+    font-weight: bold;
 }
