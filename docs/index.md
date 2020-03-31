@@ -5,7 +5,7 @@ Pinta is a free, open source drawing/editing program modeled after Paint.NET. It
 
 Originally created and maintained by Jonathan Pobst, until version 1.0, a new community has taken the reins to fly this program to the heights of Paint.Net and beyond!
 
-(basic.png)
+![Image Sample](https://raw.githubusercontent.com/jeneira94/pintapals/master/img/basic.png)
 
 Pinta is a bitmap image editor with many features typical of image editing software including drawing tools, image filters and colour adjustment tools. The focus on usability is reflected in several of the main features of the program:
 
