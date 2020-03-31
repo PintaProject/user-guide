@@ -48,4 +48,4 @@ theme:
   name: readthedocs
   highlightjs: true
   hljs_style: zenburn
-  nav_style: dark
+  extra_css: [extra.css]
