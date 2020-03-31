@@ -13,7 +13,7 @@ nav:
     - Edit Layers: edit_layers.md
     - Remove Layers: remove_layers.md
   - Drawing & Painting:
-    - About: pencil.md
+    - About Drawing: pencil.md
     - Selection Tool: select.md
     - Selecting Pencil and Brush: paintbrush.md
     - Add Shapes: shapes.md
