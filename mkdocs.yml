@@ -15,8 +15,8 @@ nav:
     - 'Remove Layers': remove_layers.md
   - Creating with Pinta:
     - 'Decorating': 
-      - 'Introduction to Decorations': decorate.md
-      - 'Customize Paintbrush': paintbrush.md
+      - Introduction to Decorations: decorate.md
+      - Customize Paintbrush: paintbrush.md
       - 'Using Pencil': pencil.md
       - 'Inking': ink.md
       - 'Erasing': erase.md
