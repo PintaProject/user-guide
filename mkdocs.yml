@@ -25,8 +25,8 @@ nav:
   - Image Enchancement: 
     - 'Sepia': sepia.md
     - 'Black and White': bw.md
-    - 'Blur': blur.md
-    - 'Distort': distort.md
+    - 'Blurring': blur.md
+    - 'Distortion': distort.md
     - 'Red-Eye Reduction': redeye.md
     - 'Noise Reduction': noise.md
     - 'Posterize': posterize.md
