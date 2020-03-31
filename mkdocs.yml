@@ -30,8 +30,8 @@ nav:
       - 'Colour Picker': picker.md
       - 'Colour Palette': palette.md
   - Enhancing Images: 
-    - 'Enhancement Introduction': enchance.md
-    - 'Improving Colours': 
+    - Enhancement Introduction: enchance.md
+    - Improving Colours: 
       - 'Introduction to Colour Improvement': colours.md
       - 'Sepia Filter': sepia.md
       - 'Black and White Filter': bw.md
@@ -39,10 +39,10 @@ nav:
       - 'Gradient': gradient.md
       - 'Auto Level': auto.md
       - 'Manual Level': manual.md
-    - 'Adjusting Sharpness': 
+    - Adjusting Sharpness: 
       - 'Blurring Image': blur.md
       - 'Image Noise Reduction': noise.md
-    - 'Removing Impurities': 
+    - Removing Impurities: 
       - Image Distortion: distort.md
       - Photo Red-Eye Reduction: redeye.md
   - Exporting Project:
@@ -56,4 +56,6 @@ theme:
   name: readthedocs
   highlightjs: true
   hljs_style: zenburn
+  collapse_navigation: true
+  navigation_depth: 6
   extra_css: css/extra.css
