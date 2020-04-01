@@ -2,35 +2,35 @@ site_name: Pinta Pals
 nav:
   - Home: index.md
   - First Steps:
-    - 'Getting Started': start.md
-    - 'General Overview': overview.md
-    - 'Basic Concepts': concept.md
+    - Getting Started: start.md
+    - General Overview: overview.md
+    - Basic Concepts: concept.md
   - Quick Start: 
-    - 'Setting Up Project': setup.md
-    - 'Tutorial': tutorial.md
+    - Setting Up Project: setup.md
+    - Tutorial: tutorial.md
   - Image Layers:
-    - 'Creating Layers': layers.md
-    - 'Edit Layers': edit_layers.md
-    - 'Remove Layers': remove_layers.md
+    - Creating Layers: layers.md
+    - Edit Layers: edit_layers.md
+    - Remove Layers: remove_layers.md
   - Drawing & Painting:
-    - 'About': pencil.md
-    - 'Selection Tool': select.md
-    - 'Selecting Pencil and Brush': paintbrush.md
-    - 'Add Shapes': shapes.md
-    - 'Add Lines & Curves': lines.md
-    - 'Removing Items': items.md
-    - 'Text Management': text.md
+    - About Drawing: pencil.md
+    - Selection Tool: select.md
+    - Selecting Pencil and Brush: paintbrush.md
+    - Add Shapes: shapes.md
+    - Add Lines & Curves: lines.md
+    - Removing Items: items.md
+    - Text Management: text.md
   - Image Transformations:
-    - 'Rotate': rotate.md
-    - 'Flip': flip.md
-    - 'Resize': resize.md
-    - 'Crop and Straighten': crop.md
-    - 'Adjust Canvas Size': adjust.md
-    - 'Move': move.md
+    - Rotate: rotate.md
+    - Flip: flip.md
+    - Resize: resize.md
+    - Crop and Straighten: crop.md
+    - Adjust Canvas Size: adjust.md
+    - Move: move.md
   - Image Adjustments:
-    - 'Blurring Image': blur.md
-    - 'Colour Adjustments': colours.md
-    - 'Filtering Image':
+    - Blurring Image': blur.md
+    - Colour Adjustments': colours.md
+    - Filtering Image': filter.md
   - Image Repair & Restoration:
     - 'Reduce Red-Eye': redeye.md
     - 'Noise Reduction': noise.md
@@ -38,14 +38,12 @@ nav:
     - 'Clone Stamp Tool': clone.md
     - 'Image Distortion': distort.md
   - Exporting Project:
-    - 'Save Project': save.md
-    - 'Print Project': print.md
+    - Save Project: save.md
+    - Print Project: print.md
   - Appendix:
-    - 'Shortcuts': shortcuts.md
-    - 'Glossary': glossary.md
-    - 'Test': test.md
+    - Shortcuts: shortcuts.md
+    - Glossary: glossary.md
+    - Test: test.md
 theme: 
   name: readthedocs
-  highlightjs: true
-  hljs_style: zenburn
   extra_css: css/extra.css
