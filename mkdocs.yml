@@ -46,8 +46,9 @@ nav:
   - Exporting Project:
     - Save Project: save.md
     - Print Project: print.md
-  - Shortcuts: shortcuts.md
-  - Glossary: glossary.md
-  - Test: test.md
+  - Reference:
+    - Shortcuts: shortcuts.md
+    - Glossary: glossary.md
+    - Test: test.md
 theme: 
   name: readthedocs
