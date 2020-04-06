@@ -6,20 +6,27 @@ nav:
     - General Overview: overview.md
     - Basic Concepts: concept.md
   - Quick Start: 
-    - Setting Up Project: setup.md
+    - Setting Up Workspace: setup.md
     - Tutorial: tutorial.md
   - Image Layers:
     - Creating Layers: layers.md
-    - Edit Layers: edit_layers.md
+    - Edit Layers: edit.md
     - Remove Layers: remove_layers.md
-  - Drawing & Painting:
-    - About Drawing: pencil.md
-    - Selection Tool: select.md
-    - Selecting Pencil and Brush: paintbrush.md
-    - Add Shapes: shapes.md
-    - Add Lines & Curves: lines.md
-    - Removing Items: items.md
-    - Text Management: text.md
+  - Selecting Objects:
+    - Magic Wand: wand.md
+    - Ellipse: ellipse.md
+    - Lasso: lasso.md
+    - Rectangle: rectangle.md
+  - Illustrating:
+    - Choose Pencil and Brush: choose.md
+    - Creating Simple Objects: objects.md
+    - Coloring: coloring.md
+    - Removing Items: remove_items.md
+  - Text Management:
+    - Choose Font & Size: text.md
+    - Text Style: style.md
+    - Insert Text: insert.md
+    - Remove Text: remove_text.md
   - Image Transformations:
     - Rotate: rotate.md
     - Flip: flip.md
@@ -27,22 +34,20 @@ nav:
     - Crop and Straighten: crop.md
     - Adjust Canvas Size: adjust.md
     - Move: move.md
-  - Image Adjustments:
-    - Blurring Image: blur.md
-    - Colour Adjustments: colours.md
-    - Filtering Image: filter.md
+  - Image Enhancements:
+    - Improving Colors: colors.md
+    - Image Effects: effects.md
+    - Filtering: filter.md
   - Image Repair & Restoration:
     - Reduce Red-Eye: redeye.md
     - Noise Reduction: noise.md
-    - Remove Objects from Photo: remove.md
+    - Remove Objects from Photos: remove_photos.md
     - Clone Stamp Tool: clone.md
-    - Image Distortion: distort.md
   - Exporting Project:
     - Save Project: save.md
     - Print Project: print.md
-  - Appendix:
-    - Shortcuts: shortcuts.md
-    - Glossary: glossary.md
-    - Test: test.md
+  - Shortcuts: shortcuts.md
+  - Glossary: glossary.md
+  - Test: test.md
 theme: 
   name: readthedocs
