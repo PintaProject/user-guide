@@ -1,1 +1,0 @@
-Manual Levels of Colour

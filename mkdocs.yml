@@ -46,4 +46,3 @@ nav:
     - Test: test.md
 theme: 
   name: readthedocs
-  extra_css: css/extra.css
