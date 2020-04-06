@@ -7,7 +7,7 @@ https://www.mkdocs.org/#installation.
 
 Once you have installed the necessary packages and fully setup the environment, you can build and deploy the repository to a branch.
 
-## Deploy
+## Deploying "Site" Contents
 
 The documentation site that you just built only uses static files so you'll be able to host it from pretty much anywhere. Upload the contents of the entire `site` directory after you have built the site to wherever you're setting as your local repository. Specific instructions will be posted soon.
 
