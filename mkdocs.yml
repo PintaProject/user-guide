@@ -13,6 +13,7 @@ nav:
     - Edit Layers: edit.md
     - Remove Layers: remove_layers.md
   - Selecting Objects:
+    - Select Objects Overview: select_overview.md
     - Magic Wand: wand.md
     - Ellipse: ellipse.md
     - Lasso: lasso.md
