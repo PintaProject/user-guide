@@ -18,16 +18,14 @@ nav:
     - Ellipse: ellipse.md
     - Lasso: lasso.md
     - Rectangle: rectangle.md
+  - Coloring:
+    - Customize Color: coloring.md
+    - Creating Palette: palette.md
   - Illustrating:
     - Choose Pencil and Brush: choose.md
     - Creating Simple Objects: objects.md
-    - Coloring: coloring.md
+    - Text Management: text.md
     - Removing Items: remove_items.md
-  - Text Management:
-    - Choose Font & Size: text.md
-    - Text Style: style.md
-    - Insert Text: insert.md
-    - Remove Text: remove_text.md
   - Image Transformations:
     - Rotate: rotate.md
     - Flip: flip.md
