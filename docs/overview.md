@@ -5,31 +5,31 @@ When the Pinta workspace first loads, you'll notice it has an uncluttered layout
 ![workspace](img/overview/workspace.png)
 
 ### Pinta Workspace: ###
-1. [Menu Bar](#menu-bar-features) - at the top, below the Title bar, contains drop-down menus.
+[Menu Bar](#menu-bar-features) - at the top, below the Title bar, contains drop-down menus.
 
 ![menubar](img/overview/menubar.png)
 
-2. [Toolbar](#toolbar-features) - under the Menu bar, contains buttons and other elements which can be used to perform some of the more common operations.
+[Toolbar](#toolbar-features) - under the Menu bar, contains buttons and other elements which can be used to perform some of the more common operations.
 
 ![toolbar](img/overview/toolbar.png)
 
-3. [Tools Menu](#tools-menu-features) - in the upper-left under the Toolbar, contains a group of icons or buttons grouped together that provide you with a quick way to select commonly used functions by pointing and clicking. It works in conjunction to the Tools Preview(?) just right above it.
+[Tools Menu](#tools-menu-features) - in the upper-left under the Toolbar, contains a group of icons or buttons grouped together that provide you with a quick way to select commonly used functions by pointing and clicking. It works in conjunction to the Tools Preview(?) just right above it.
 
 ![tools](img/overview/tools.png)
 
-4. Palette Menu - in the lower-left under the Tools Menu, provides you with quick access to a preset of colors. You can select your primary and secondary color by left-clicking or right-clicking on the color of choice.
+Palette Menu - in the lower-left under the Tools Menu, provides you with quick access to a preset of colors. You can select your primary and secondary color by left-clicking or right-clicking on the color of choice.
 
 ![palette](img/overview/palette.png)
 
-5. Layers Window - in the upper-right corner under the Toolbar, displays the number of layers and the active window. Layers in Pinta can be transparent, translucent, or opaque.
+Layers Window - in the upper-right corner under the Toolbar, displays the number of layers and the active window. Layers in Pinta can be transparent, translucent, or opaque.
 
 ![layers](img/overview/layers.png)
 
-6. Images Window - in the middle-right size under the Layers Window, displays the opened images that you can use as part of your layers and base image. 
+Images Window - in the middle-right size under the Layers Window, displays the opened images that you can use as part of your layers and base image. 
 
 ![images](img/overview/images.png)
 
-7. History Window - in the lower-right corner, displays a list of commands or operations performed. Can be undone or redone by selecting a command that was performed.
+History Window - in the lower-right corner, displays a list of commands or operations performed. Can be undone or redone by selecting a command that was performed.
 
 ![history](img/overview/history.png)
 
@@ -37,43 +37,43 @@ When the Pinta workspace first loads, you'll notice it has an uncluttered layout
 
 ![menu](img/overview/menubar.png)
 
-1. File - 
+File - 
 
 ![file](img/overview/file.png)
 
-2. Edit - 
+Edit - 
 
 ![edit](img/overview/edit.png)
 
-3. View - 
+View - 
 
 ![view](img/overview/view.png)
 
-4. Image - 
+Image - 
 
 ![image](img/overview/image_menu.png)
 
-5. Layers - 
+Layers - 
 
 ![layers](img/overview/layers_menu.png)
 
-6. Adjustments - 
+Adjustments - 
 
 ![adjustments](img/overview/adjustments.png)
 
-7. - Effects - 
+Effects - 
 
 ![effects](img/overview/effects.png)
 
-8. Add-ins - 
+Add-ins - 
 
 ![addins](img/overview/addins.png)
 
-9. Window - 
+Window - 
 
 ![window](img/overview/window.png)
 
-10. Help - 
+Help - 
 
 ![help](img/overview/help.png)
 
