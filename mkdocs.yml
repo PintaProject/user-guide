@@ -30,7 +30,7 @@ nav:
     - Rotate: rotate.md
     - Flip: flip.md
     - Resize: resize.md
-    - Crop and Straighten: crop.md
+    - Crop: crop.md
     - Adjust Canvas Size: adjust.md
     - Move Image: move.md
   - Image Enhancements:
