@@ -1,4 +1,4 @@
-# Rectangle Select
+ Rectangle Select
 The *Rectangle* Select Tool can be used to select rectangular areas (including squares). For example, you can use it  to select boxed shaped objects such as bricks. 
 
 ## How to use the Rectangle Selection Tool
@@ -14,9 +14,9 @@ The *Rectangle* Select Tool can be used to select rectangular areas (including s
 
     &nbsp;
 
-3. Click and hold the mouse button (along with the shift butoon if you want to constrain the rectangle to a square) while you then drag to the right hand bottom corner (**B**) of your desired element. While you drag, the rectangle dotted line selection shape appears. 
+3. Click and hold the mouse button (along with the shift button if you want to constrain the rectangle to a square) while you then drag to the right hand bottom corner (**B**) of your desired element. While you drag, the rectangle dotted line selection shape appears. 
  
-     ![Rectangle Example](img/rectangleexample.png) 
+     ![Rectangle Example](img/rectanglecreate.png) 
 
      &nbsp;
 
