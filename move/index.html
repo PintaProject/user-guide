@@ -9,7 +9,7 @@
   
   
   <link rel="shortcut icon" href="../img/favicon.ico">
-  <title>Move - Pinta Pals</title>
+  <title>Move Image - Pinta Pals</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
 
   <link rel="stylesheet" href="../css/theme.css" />
@@ -18,7 +18,7 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Move";
+    var mkdocs_page_name = "Move Image";
     var mkdocs_page_input_path = "move.md";
     var mkdocs_page_url = null;
   </script>
@@ -88,6 +88,8 @@
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../rectangle/">Rectangle</a>
                     </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../select_location/">Move Select Location</a>
+                    </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Coloring</span></p>
                 <ul>
@@ -119,7 +121,9 @@
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../adjust/">Adjust Canvas Size</a>
                     </li>
-                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Move</a>
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Move Image</a>
+    <ul class="current">
+    </ul>
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Image Enhancements</span></p>
@@ -183,7 +187,7 @@
         
       
     
-    <li>Move</li>
+    <li>Move Image</li>
     <li class="wy-breadcrumbs-aside">
       
     </li>
@@ -194,7 +198,44 @@
           <div role="main">
             <div class="section">
               
-                
+                <h1 id="move-image"><a class="toclink" href="#move-image">Move Image</a><a class="headerlink" href="#move-image" title="Permanent link">&para;</a></h1>
+<p>To move and rotate a selected portion of your image using the <em>Move Selected Pixels</em> Tool follow the following steps.</p>
+<ol>
+<li>
+<p>Select the image that you would like to work with under the <em>Image Window</em>.</p>
+<p><img alt="Image Window select image" src="../img/selectimageflower.png" />  </p>
+<p>&nbsp; </p>
+</li>
+<li>
+<p>Select a portion of the image using the <a href="../wand/">magic wand</a>, <a href="../lasso/">lasso</a>, <a href="../rectangle/">rectangle</a> or <a href="../ellipse/">ellipse</a> tools. If no selection is active, the tool moves the entire active layer.</p>
+<p>&nbsp; </p>
+</li>
+<li>
+<p>Select the <em>Move Selected Pixels</em> Tool <img alt="Move Selection Tool" src="../img/moveselectedpixels.png" /> from the <strong>Tools</strong> Menu.</p>
+<p><img alt="Select Move Selection Tool" src="../img/selectmoveselectedpixels.png" />  </p>
+<p>&nbsp;</p>
+</li>
+<li>
+<p>Left Click the mouse and hold the button and drag the selected image portion from its original location (example position <strong>A</strong>) to a new location (example position <strong>B</strong>). Once the pixels have been moved an area of transparency (dnoted by the grey and white checkerboard pattern) will be left in place of the moved pixels. Refer to the example below.</p>
+<p><img alt="Move selected image" src="../img/movepixelsa.png" /></p>
+<p><img alt="Move selected image partly" src="../img/movepixelsb.png" />  </p>
+<p>&nbsp;</p>
+</li>
+</ol>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The checkerboard pattern that remains after pixels are moved indicates that the region is transparent and serves as a visual cue (is not actually part of the image).</p>
+</div>
+<ol>
+<li>
+<p>Right Click the mouse and hold the button to rotate the image (Example position <strong>C</strong>) the desired rotation amount.</p>
+<p><img alt="Move selected image final" src="../img/movepixelsc.png" />  </p>
+</li>
+</ol>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The Right Mouse button always accesses rotation - regardless of the location of the cursor.</p>
+</div>
               
             </div>
           </div>

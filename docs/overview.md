@@ -77,7 +77,7 @@ Help -
 
 ![help](img/overview/help.png)
 
-### Toolbar Features ###
+### [Toolbar Features](#general-overview) ###
 
 ![toolbar](img/overview/toolbar.png)
 
