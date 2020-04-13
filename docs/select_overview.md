@@ -7,5 +7,5 @@ Pinta provides the following *Selection Tools*:
   - [**Lasso**](lasso.md):  Use to select a freeform border shaped portion of an image.
   - [**Ellipse**](ellipse.md):  Use to select an ellipse portion of an image.
   - [**Rectangle**](rectangle.md): Use to select a rectangular portion of an image.
-  - [**Move Selection**](moveselection.md): Use to change the selected outline location (position and orientation) that is created from one of the above selection tools.
+  - [**Move Selection**](select_location.md): Use to change the selected outline location (position and orientation) that is created from one of the above selection tools.
 
