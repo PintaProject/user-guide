@@ -1,8 +1,5 @@
 ## __Setting Up Workspace__ ##
+Setup New ProjectCanvas sizeOrientationOpen saved projectImport(View Menu)
 
-Setup New Project
-Canvas size
-Orientation
-Open saved project
-Import
-(View Menu)
+*If you haven't installed the program yet, please [click here](start.md) to get started.*
+

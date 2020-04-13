@@ -1,3 +1,3 @@
- ## __Add & Remove Layers__ ##
+## __Creating & Removing Layers__ ##
 
 How to add and remove layers.

@@ -9,9 +9,8 @@ nav:
     - Setting Up Workspace: setup.md
     - Tutorial: tutorial.md
   - Image Layers:
-    - Creating Layers: layers.md
-    - Edit Layers: edit.md
-    - Remove Layers: remove_layers.md
+    - Creating & Removing Layers: layers.md
+    - Edit Layer Properties: edit.md
   - Selecting Objects:
     - Select Objects Overview: select_overview.md
     - Magic Wand: wand.md
