@@ -1,6 +1,6 @@
 ## __Getting Started__ ##
 
-To get started, you must download the correct installation file for your system from the [Downloads](https://pinta-project.com/pintaproject/pinta/releases) page.
+Download the correct installation file for your system from the [Downloads](https://pinta-project.com/pintaproject/pinta/releases) page on the Pinta Project Release site.
 
 ### __Windows__ ###
 

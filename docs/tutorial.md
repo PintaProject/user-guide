@@ -1,5 +1,7 @@
 ## __Tutorial__ ##
 
+*Before we begin, please make sure you have setup your workspace. If you have trouble setting up, please click [here](setup.md) for a quick workspace setup.*
+
 In this tutorial, we will learn how to create a final image by using these key ingredients and techniques:
 
 - Working with layers;
