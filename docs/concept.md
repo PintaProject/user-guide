@@ -23,5 +23,3 @@ You can draw on each paper, but still see the content of the other sheets throug
 When modifying an image, you only want a part of the image to be affected. The “selection” mechanism makes this possible. Each image has its own selection, which you normally see as a moving dashed line separating the selected parts from the unselected parts. As with the idea of images, selections are done by layers to manipulate selected objects or areas.
 
 A large component of learning how to use Pinta effectively is acquiring the art of making good selections — selections that contain exactly what you need and nothing more. Because selection-handling is so centrally important, you can treat the selection tool as though it were a channel for color, placement, sizing, cloning, etc.
-
-### __Color__ ###
