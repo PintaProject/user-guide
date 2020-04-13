@@ -18,6 +18,7 @@ nav:
     - Ellipse: ellipse.md
     - Lasso: lasso.md
     - Rectangle: rectangle.md
+    - Move Select Location: select_location.md
   - Coloring:
     - Customize Color: coloring.md
     - Creating Palette: palette.md
@@ -32,7 +33,7 @@ nav:
     - Resize: resize.md
     - Crop and Straighten: crop.md
     - Adjust Canvas Size: adjust.md
-    - Move: move.md
+    - Move Image: move.md
   - Image Enhancements:
     - Improving Colors: colors.md
     - Image Effects: effects.md
@@ -51,3 +52,10 @@ nav:
     - Test: test.md
 theme: 
   name: readthedocs
+markdown_extensions:
+  - admonition
+  - toc:
+        permalink: True
+        anchorlink: True
+     
+
