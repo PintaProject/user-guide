@@ -1,6 +1,7 @@
 ## __Tutorial__ ##
 
-__*Before we begin, please make sure you have setup and understood your workspace. If you have trouble setting up or understanding how to start, please click [here](setup.md) for a quick workspace guide.*__
+!!! Note
+    Before we begin, please make sure you have setup and understood your workspace. If you have trouble setting up or understanding how to start, please click [here](setup.md) for a quick workspace guide.
 
 In this tutorial, we will learn how to create a final image by using these key ingredients and techniques:
 
@@ -19,13 +20,12 @@ Although this is a tutorial on creating an image, this is not a drawing tutorial
 ### __Sketching__ ###
 The tools we'll use for sketching are:  
 
-    - Pencil 
-    - Eraser  
+    - Pencil  
+    - Eraser 
     - Lasso Select 
-    - Optional: 
-        - Shapes 
-        - Lines 
-        - Text 
+    - Shapes  
+    - Lines  
+    - Text
 
 Now we can get started on sketching our little secret burger!
 
@@ -63,10 +63,9 @@ As you can see in the Layers Window, the Color Burn layer is fully colored in, b
 The tools we'll use for inking are:  
 
     - Pencil  
-    - Eraser  
-    - Optional:  
-        - Shapes  
-        - Lines  
+    - Eraser 
+    - Shapes  
+    - Lines
 
 This part of the process, we'll be inking the rough sketch itself so that all the lines needed are more distinct.
 
@@ -159,9 +158,9 @@ This area is optional so you can skip to the next [section](#adding-texts-&-shap
 ### __Adding Texts & Shapes__ ###
 The tools we'll use for adding texts and shapes are:  
  
-    - Shapes  
+    - Shapes 
     - Lines 
-    - Eraser
+    - Eraser 
 
 1. Create a layer called "Text" and place it __below__ layer "Ink".
 2. Check the box for the Sketch layer in the Layers Window to unhide the sketch.

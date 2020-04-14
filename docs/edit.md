@@ -1,1 +1,3 @@
 ## __Edit Layer Properties__ ##
+
+As we have touched upon the basic concept about layers [here](concept.md), we will introduce how to use it in this section. But before we dive in, we need more context relating to layers. As we know, there is an arrangement or order of layers in the Layers Window. In that Layers Window, we work on each single layer. The layer we currently work on is called an active layer.

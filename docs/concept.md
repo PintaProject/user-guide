@@ -14,7 +14,7 @@ Pinta uses layers to create a composite image. Think of layers as a stack of tra
 
 ![Stacked Layer](img/stacked.png)
 
-The stacked layers in Pinta are organized as if they are viewed from above. Therefore, the arrangement or order of the layers in the Layers Window is important. An opaque image on a layer higher up the stack will block or obscure the image or images in the layers lower in the stack.
+The stacked layers in Pinta are organized as if they are viewed from above. Therefore, the arrangement or order of the layers is important. An opaque image on a layer higher up the stack will block or obscure the image or images in the layers lower in the stack.
 
 You can draw on each paper, but still see the content of the other sheets through the transparent areas. Intermediate users often deal with images containing many layers. Layers do not need to be opaque, and they do not cover the entire extent of an image, so when you look at an image's display, you may see more than just the top layer: you may see elements of many layers. 
 
