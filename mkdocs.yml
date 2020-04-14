@@ -21,6 +21,7 @@ nav:
   - Coloring:
     - Customize Color: coloring.md
     - Creating Palette: palette.md
+    - Coloring Areas: coloringarea.md
   - Illustrating:
     - Choose Pencil and Brush: choose.md
     - Creating Simple Objects: objects.md
