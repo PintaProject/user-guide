@@ -23,4 +23,5 @@ As we have touched upon the basic concept about layers [here](concept.md), we wi
 
 ### __Import File into Layer__ ###
 
-- Select the *Import From File...* [button](img/layer/addmenu.png) from the Layers Menu.
+1. Select the layer you want to apply the imported image into
+2. Select the *Import From File...* [button](img/layer/addmenu.png) from the Layers Menu.
