@@ -30,7 +30,7 @@ To perform any of these selection options:
 
   After using the  **Select All** a dotted line selection encompases the outter edge of the whole image.  
 
-  If you originally had selected a sq portion of the image and you select **Invert Selection** everything except the ellipse portion would be selected as can be seen in the example below.   
+  If you originally had selected a rectangle portion of the image and you select **Invert Selection** everything except the rectangle portion would be selected as can be seen in the example below.   
 
   ![Before invert](img/invertbefore.png)
 
