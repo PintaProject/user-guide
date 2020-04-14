@@ -22,5 +22,6 @@ Pinta comes with a default palette of 48 Colors that you can use to quickly sele
 
 
     ![Resize Palette](img/color/resizepalette.png)
+    
 
 
