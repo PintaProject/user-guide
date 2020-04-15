@@ -9,7 +9,7 @@
     - [Line/curve with *Form* tool](objects.md#lines-and-curves-with-a-form-tool) ![line curve icon](img/linecurve.png)
 -  [**Rectangles** with *Rectangle* tool](objects.md#rectangles-rounded-rectangles-or-ellipses) ![rectangle icon](img/rectangle.png) 
 -  [**Rounded Rectangles** with *Rounded Rectangle* tool](objects.md#rectangles-rounded-rectangles-or-ellipses) ![rounded rectangle icon](img/roundedrectangle.png)
--  [**Ellipses** with *Ellipse* tool](objects.md#rectangles-rounded-rectangles-or-ellipses) ![rectangle icon](img/rectangle.png) ![Ellipse icon](img/ellipseshape.png)
+-  [**Ellipses** with *Ellipse* tool](objects.md#rectangles-rounded-rectangles-or-ellipses) ![Ellipse icon](img/ellipseshape.png)
 -  [**Freeform Shapes** with *Freeform Shapes* tool](objects.md#freeform-shapes) ![freeform icon](img/freeform.png)
 
 &nbsp;
