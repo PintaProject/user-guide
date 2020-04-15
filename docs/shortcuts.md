@@ -17,6 +17,11 @@ Name | Shortcut
 
 
 
+
+
+
+
+
 ### Edit Menu ###
 
 
@@ -42,6 +47,11 @@ Name | Shortcut
 
 
 
+
+
+
+
+
 ### View Menu ###
 
 
@@ -51,6 +61,11 @@ Name | Shortcut
 **Zoom In** 	|	Ctrl +
 **Zoom Out**		|	Ctrl  -
 **Actual Size**		|	Ctrl + 0
+
+
+
+
+
 
 
 
@@ -69,6 +84,11 @@ Name | Shortcut
 **Rotate 90° (counter-cw)** |	Ctrl + G
 **Rotate 180°**	|	Ctrl + J
 **Flatten**		|	Ctrl + Shift + F
+
+
+
+
+
 
 
 
@@ -94,6 +114,10 @@ Name | Shortcut
 
 
 
+
+
+
+
 ### Adjustments and Effects Menu ###
 
 
@@ -110,6 +134,10 @@ Name | Shortcut
 **Levels**		|	Ctrl + L
 **Posterize**		|	Ctrl + Shift + P
 **Sepia**	|		Ctrl + Shift + E
+
+
+
+
 
 
 
@@ -138,6 +166,10 @@ Name | Shortcut
 **Color Picker**	|	K
 **Recolor**	|		R
 **Line / Curve**	|	O
+
+
+
+
 
 
 
