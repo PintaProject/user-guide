@@ -34,6 +34,7 @@ Each of these color points of an image may be adjusted independently using Level
 #### Brightness/contrast ####
 
 ![bcbox](img/bcbox.PNG)
+
 A dialogue box with two sliders appears with one option for brightness and a second option for contrast. 
 The **Brightness** control is used to make an image lighter or darker. 
 
