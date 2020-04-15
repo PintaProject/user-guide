@@ -22,9 +22,9 @@ In addition to the above selection tools, Pinta also provides the capability to 
    - **Deselect All**: Deselects all pixels in the active window that were selected whether all the pixels were originally selected or just a particular portion of the image was selected. 
    - **Invert Selection**: All the active pixels that are selected will be deselected and all the pixels that were not selected will become selected  
 
-To perform any of these selection options:
+To perform these selection options:
 
-1.  Go to the **Edit** in the *Main Bar* menu and select either **Select All**, **Deselect All** or **Invert Selection**
+1.  Go to **Edit>Select All**, **Edit>Deselect All** or **Edit>Invert Selection**.  
 
      ![Select All Commands](img/selectall.png)
 
