@@ -1,6 +1,5 @@
 ## Glossary ##
 
-###### _Disclaimer: Some definitions take from getpaint.net_ ######
 
 **Active layer**
 The layer which has the editing focus. It is highlighted in the Layers Window.
@@ -226,5 +225,6 @@ Reverse the last editing operation.
 **Zoom in / out**
 Expand or contract the view size of an image.
 
-
+##### _______________________________________________________________________________________________________________ #####
+###### Some definitions take from getpaint.net ######
 
