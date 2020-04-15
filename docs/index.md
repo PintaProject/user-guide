@@ -4,7 +4,7 @@ This user guide was developed to help you speed up your learning curve for Pinta
 
 [![button](img/firststepsicon.png)](start.md) [![button](img/quickstarticon.png)](setup.md) [![button](img/imagelayericon.png)](layers.md) [![button](img/selectingobjectsicon.png)](objects.md)
 
-[![button](img/coloringicon.png)](coloringoverview.md) [![button](img/illustratingicon.png)](illustratingoverview.md) [![button](img/imagetransformationsicon.png)](imagetransform.md) [![button](img/imageenhancementicon.png)](color.md)
+[![button](img/coloringicon.png)](coloringoverview.md) [![button](img/illustratingicon.png)](illustratingoverview.md) [![button](img/imagetransformationsicon.png)](imagetransform.md) [![button](img/imageenhancementscon.png)](color.md)
 
 [![button](img/imagerepairicon.png)](redeye.md) [![button](img/exporticon.png)](save.md)[![button](img/referenceicon.png)](shortcuts.md)
 
