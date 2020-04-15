@@ -1,6 +1,6 @@
 ## Improving Colors ##
 
-Pinta has to options to improve color levels in an image. Poor expore, bad lighting, and various other elements can render a perfectly good photo unusable. You can use the auto level adjustment or manually adjust the image yourself to make your pictures pretty again
+Pinta has to options to improve color levels in an image. Poor exposure, bad lighting, and various other elements can render a perfectly good photo unusable. You can use the auto level adjustment or manually adjust the image yourself to make your pictures pretty again
 
 We will be using this photo to demonstrate the different color adjustments.
 ![kfcoriginal](img/kfcoriginal.PNG)
@@ -17,6 +17,14 @@ The Auto-Level feature equalizes the range of colors in an image. This adjustmen
 If you aren’t satisfied with the results of the auto level adjustment, you can manually adjust levels, brightness and contrast, and hue and saturation. 
 
 #### Levels ####
+
+Levels refers to the color or tonal range of an image. Using level adjustments, users can adjust brightness, contrast, the range of tones within an image. 
+This adjustment is used to alter the color range of the image, including gamma adjustments, on a channel-by-channel basis.
+The most common adjustments made using Levels consist of changing a picture's input and output white point, black point, and grey point.
+The white point of an image is the brightest color that appears in the image. Conversely, the black point is the darkest color that appears in the image.
+The grey point represents the average color across the entire image and is only found on the right-hand side (Output) of the dialog.
+Each of these color points of an image may be adjusted independently using Levels.
+
 
 ![levelsbox](img/levelsbox.PNG)
 
