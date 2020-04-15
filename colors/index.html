@@ -95,6 +95,8 @@
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../palette/">Creating Palette</a>
                     </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../coloringarea/">Coloring Areas</a>
+                    </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Illustrating</span></p>
                 <ul>
@@ -126,9 +128,17 @@
                 <ul class="current">
                     <li class="toctree-l1 current"><a class="reference internal current" href="./">Improving Colors</a>
     <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#auto-level">Auto level</a>
+    <li class="toctree-l2"><a class="reference internal" href="#auto-level">Auto level:</a>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#manual-level">Manual level</a>
+    <li class="toctree-l2"><a class="reference internal" href="#manual-level">Manual level:</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#levels">Levels</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#brightnesscontrast">Brightness/contrast</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#huesaturation">Hue/Saturation</a>
+    </li>
+        </ul>
     </li>
     </ul>
                     </li>
@@ -200,15 +210,35 @@
           <div role="main">
             <div class="section">
               
-                <h1 id="improving-colors"><a class="toclink" href="#improving-colors">Improving Colors</a><a class="headerlink" href="#improving-colors" title="Permanent link">&para;</a></h1>
+                <h2 id="improving-colors"><a class="toclink" href="#improving-colors">Improving Colors</a><a class="headerlink" href="#improving-colors" title="Permanent link">&para;</a></h2>
 <p>Pinta has to options to improve color levels in an image. Poor expore, bad lighting, and various other elements can render a perfectly good photo unusable. You can use the auto level adjustment or manually adjust the image yourself to make your pictures pretty again</p>
-<h4 id="auto-level"><a class="toclink" href="#auto-level">Auto level</a><a class="headerlink" href="#auto-level" title="Permanent link">&para;</a></h4>
+<h3 id="auto-level"><a class="toclink" href="#auto-level">Auto level:</a><a class="headerlink" href="#auto-level" title="Permanent link">&para;</a></h3>
 <p>The Auto-Level feature equalizes the range of colors in an image. This adjustment is used to normalize the color range of under exposed (dark) or over exposed (bright) images. It doesn’t have any configurable options, if you want to further adjust the tonal range, consider doing it manually using the levels tool. </p>
-<h4 id="manual-level"><a class="toclink" href="#manual-level">Manual level</a><a class="headerlink" href="#manual-level" title="Permanent link">&para;</a></h4>
-<p>If you aren’t satisfied with the results of the auto level adjustment, you can manually adjust:
-* <a href="levels.md">Levels</a>
-* <a href="../BrightnessContrast/">Brightness and Contrast</a>
-* <a href="../HueSaturation/">Hue and Saturation</a> </p>
+<h3 id="manual-level"><a class="toclink" href="#manual-level">Manual level:</a><a class="headerlink" href="#manual-level" title="Permanent link">&para;</a></h3>
+<p>If you aren’t satisfied with the results of the auto level adjustment, you can manually adjust levels, brightness and contrast, and hue and saturation. </p>
+<h4 id="levels"><a class="toclink" href="#levels">Levels</a><a class="headerlink" href="#levels" title="Permanent link">&para;</a></h4>
+<h4 id="brightnesscontrast"><a class="toclink" href="#brightnesscontrast">Brightness/contrast</a><a class="headerlink" href="#brightnesscontrast" title="Permanent link">&para;</a></h4>
+<p>A dialogue box with two sliders appears with one option for brightness and a second option for contrast. 
+The <strong>Brightness</strong> control is used to make an image lighter or darker. </p>
+<pre><code>-   Drag slider to the right to increase brightness
+-   Drag slider to the left to decrease brightness
+</code></pre>
+<p>The <strong>Contrast</strong> control is used or to make an image more vivid or dull, it’s the difference between dark colors and light colors. Low contrast images have very muted tones or colors, whereas high contrast images have vibrant tones. </p>
+<pre><code>-   Drag slider to the right to increase contrast
+-   Drag slider to the left to decrease contrast
+</code></pre>
+<h4 id="huesaturation"><a class="toclink" href="#huesaturation">Hue/Saturation</a><a class="headerlink" href="#huesaturation" title="Permanent link">&para;</a></h4>
+<p>A dialogue box with three sliders populates with one option for hue, a second option for saturation, and a third option for lightness.</p>
+<p>The <strong>Hue</strong> slider is used as a tool to correct color. The Hue slider rotates the colors used in an image as if they were on a color wheel, allowing the current palette to be cycled around. The Hue slider will only affect the colored parts of an image, it does not affect anything in black and white.</p>
+<p>The <strong>Saturation</strong> slider is used to control the vibrancy of color tones in an image. The slider rests at an initial value of 100, if dragged above 100, the image becomes more vibrant, if dragged below 100, the image becomes less vibrant and dull. </p>
+<pre><code>-   Drag slider to the right to increase vibrancy
+-   Drag slider to the left to decrease vibrancy
+</code></pre>
+<p>The <strong>Lightness</strong> slider is very similar to the <strong>Brightness</strong> adjustment, it is used to alter the exposure of an image. The slider rests at an initial value of 0, if dragged above 0 the image becomes brighter, if dragged below 0, the image looks dimmer.</p>
+<pre><code>-   Drag slider to the right to increase lightness
+-   Drag slider to the left to decrease lightness
+</code></pre>
+<p>The green arrow can be used to reset each slider to its original value. </p>
               
             </div>
           </div>

@@ -9,7 +9,7 @@
   
   
   <link rel="shortcut icon" href="../img/favicon.ico">
-  <title>Customize Color - Pinta Pals</title>
+  <title>Coloring Areas - Pinta Pals</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
 
   <link rel="stylesheet" href="../css/theme.css" />
@@ -18,8 +18,8 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Customize Color";
-    var mkdocs_page_input_path = "coloring.md";
+    var mkdocs_page_name = "Coloring Areas";
+    var mkdocs_page_input_path = "coloringarea.md";
     var mkdocs_page_url = null;
   </script>
   
@@ -91,11 +91,13 @@
                 </ul>
                 <p class="caption"><span class="caption-text">Coloring</span></p>
                 <ul class="current">
-                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Customize Color</a>
-    <ul class="current">
-    </ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../coloring/">Customize Color</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../palette/">Creating Palette</a>
+                    </li>
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Coloring Areas</a>
+    <ul class="current">
+    </ul>
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Illustrating</span></p>
@@ -185,7 +187,7 @@
         
       
     
-    <li>Customize Color</li>
+    <li>Coloring Areas</li>
     <li class="wy-breadcrumbs-aside">
       
     </li>
@@ -196,41 +198,28 @@
           <div role="main">
             <div class="section">
               
-                <h1 id="customize-colors"><a class="toclink" href="#customize-colors">Customize Colors</a><a class="headerlink" href="#customize-colors" title="Permanent link">&para;</a></h1>
-<p>To add color to an object/text/image/layer you will need to select a primary and in some cases a secondary color.  </p>
-<p>You can quickly select a color from the <a href="../palette/">color palette</a> (left click on chosen color in palette to select primary and right click to select secondary) or in some cases you may want to choose a more customized color.</p>
-<p>To select a customize color:</p>
+                <h1 id="coloring-areas"><a class="toclink" href="#coloring-areas">Coloring Areas</a><a class="headerlink" href="#coloring-areas" title="Permanent link">&para;</a></h1>
+<p>The <em>Paint Bucket</em> <img alt="paint bucket" src="../img/color/paintbucket.png" /> tool can be used to fill an area with a single specific color or hue. You can fill a <a href="select.md">selected portion</a> of the image, a simple object or text.</p>
 <ol>
 <li>
-<p>Click on the <em>Primary Color</em> or <em>Secondary Color</em> boxes in the Palette. You can click the switch double arrow symbol to switch between the primary and secondary colors.</p>
-<p><img alt="Select Primary or Secondary Color" src="../img/color/selectprimarysecondarycolor.png" />  </p>
-<p>The corresponding <strong>Choose Primary Color</strong> or <strong>Choose Secondary</strong> menu window will then appear on your screen. </p>
-<p><img alt="Primary Color Window" src="../img/color/primarycolorwindow.png" /> <img alt="Secondary Color Window" src="../img/color/secondarycolorwindow.png" /></p>
-</li>
-</ol>
-<p>&nbsp;</p>
-<ol>
-<li>
-<p>From the <strong>Choose Primary</strong> or <strong>Choose Secondary</strong> Menu you have the following options to set the color:</p>
-<ul>
-<li>
-<p><strong>Triangle Dial Selector</strong>:</p>
-<p>&nbsp;
-1.  Click on the <em>selection marker</em> on the ring and drag it around to select a color
-    <img alt="Triangle Dial Color Selector" src="../img/color/triangledialcolor.png" /></p>
-<p>&nbsp;
-2.  Select the darkness or lightness of the ring color by clicking on a shade of the color in the inner triangle.</p>
-<p><img alt="Triangle Dial Selector Shade" src="../img/color/triangledialshade.png" /></p>
+<p>Select the <em>Paint bucket</em> <img alt="paint bucket" src="../img/color/paintbucket.png" /> from the <strong>Tools</strong> menu.</p>
+<p><img alt="select paint bucket" src="../img/color/selectpaintbucket.png" /></p>
+<p>The paint bucket menu options will then be displayed on the menu bar.</p>
+<p><img alt="paint menu" src="../img/color/paintbucketmenu.png" /></p>
 <p>&nbsp;      </p>
 </li>
 <li>
-<p><strong>Hue</strong>, <strong>Saturation</strong>, <strong>Value</strong>: Enter in the desired values. The triangle dial selector will move automatically to the corresponding values selected.</p>
-</li>
-<li><strong>Red</strong>, <strong>Green</strong>, <strong>Blue</strong>: Enter the RGB Color. The triangle dial selector will move then to the selected RGB value.</li>
-<li><strong>Opacity</strong>: Enter in the value desired (0 - 255). The lower the number chosen the more translucent the color will be.</li>
-<li><strong>Color Name</strong>: If you know the color name you want you can directly input the value. Entering in a number will change the RGB color and move dial selector settings to the corresponding color. If the RGB color or the triangle dial selector was used to select a color this color name value will be updated.  </li>
-<li><strong>Eye Dropper</strong>: Click on the eyedropper <img alt="eye dropper" src="../img/color/eyedropper.png" /> and then click a color anywhere on your screen to seclect that color.  </li>
+<p>Select from the paint bucket menu option displayed on the menu bar:</p>
+<ul>
+<li><strong>Flood Mode</strong>: Select <strong>Contiguous</strong> and the 'fill' will continue to bleed outwards from the click point until neighboring pixels fail to satisfy the Tolerance setting. Otherwise select <strong>Global</strong> and the 'fill' will fill all the pixels in the layer which satisfy the Tolerance setting.</li>
+<li><strong>Tolerance</strong>: Select the desired level of color tolerance (0-100). A low setting means that colors must be closely matched to the clicked point pixel location for them to be filled. Whereas a higher setting means that a high variance of pixels will be included in the fill operation.</li>
 </ul>
+<p>&nbsp;</p>
+</li>
+<li>
+<p>Position the <em>paint bucket</em> cursor over the area to be filled and click with the Left mouse button to fill with the <a href="../coloring/">Primary color</a>.  Use the Right mouse button to fill the area with the <a href="../coloring/">Secondary color</a>.</p>
+<p>The following example with the Primary color set to yellow, shows how the setting of the <strong>Tolerance</strong> level can affect what region is filled with the color.</p>
+<p><img alt="Tolerance settings" src="../img/color/tolerancesettings.png" /></p>
 </li>
 </ol>
               
@@ -240,10 +229,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../palette/" class="btn btn-neutral float-right" title="Creating Palette">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../choose/" class="btn btn-neutral float-right" title="Choose Pencil and Brush">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="../select_location/" class="btn btn-neutral" title="Move Select Location"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../palette/" class="btn btn-neutral" title="Creating Palette"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -269,10 +258,10 @@
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
-        <span><a href="../select_location/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href="../palette/" style="color: #fcfcfc;">&laquo; Previous</a></span>
       
       
-        <span style="margin-left: 15px"><a href="../palette/" style="color: #fcfcfc">Next &raquo;</a></span>
+        <span style="margin-left: 15px"><a href="../choose/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>
