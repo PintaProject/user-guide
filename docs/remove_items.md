@@ -41,7 +41,7 @@ If you save items on separate layers than if you remove a layer you will remove 
 
 The following shows an example of how this would be done.
 
-1. [Create a layer](create_layer.md) that is blank or [import a file to a layer](create_layer.md)
+1. [Create a layer](layers.md) that is blank or [import a file to a layer](layers.md)
 
 
 2. Add any objects to the layer 
