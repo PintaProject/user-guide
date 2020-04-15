@@ -50,7 +50,10 @@
 
 3. From the **Rotate/Zoom Layer** Menu:  
 
-    1. Select the amount of degrees that you would like to rotate the layer from the Rotate/Zoom Layer pop up window  (click the dial stick and hold the mouse button while using the cursor to move the dial stick until you set the desire degrees or use the degrees number setting directly by typing in the degree value or using the up and down arrows).
+    1. Select the amount of degrees that you would like to rotate the layer from the Rotate/Zoom Layer window with any of the following methods:
+        -  Click the dial stick and hold the mouse button while using the cursor to move the dial stick until you set the desire degrees
+        -  Enter in the degrees number setting directly in the degrees box by typing in the degree value
+        -  Enter in the degrees number by using the up and down arrows of the degrees box
     
     ![Rotate Zoom Layer](img/rotatewindow.png)  
 
