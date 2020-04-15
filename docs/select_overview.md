@@ -28,7 +28,7 @@ To perform these selection options:
 
      ![Select All Commands](img/selectall.png)
 
-  After using the  **Select All** a dotted line selection encompases the outter edge of the whole image. Now you can perform image transformations (such as [rotate](rotate.md), [flip](flip.md), [resize](resize.md) and [crop](crop.md)) to all parts of the image at the same time or [remove all items](remove.md).
+  After using the  **Select All** a dotted line selection encompases the outter edge of the whole image. Now you can perform image transformations (such as [rotate](rotate.md), [flip](flip.md), [resize](resize.md) and [crop](crop.md)) to all parts of the image at the same time or [remove all items](remove_items.md).
   
   If **Deselect All** is selected all pixels are deselected and all the dotted line selections will no longer appear on the image. 
 
