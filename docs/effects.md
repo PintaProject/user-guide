@@ -299,7 +299,7 @@ The **Quality** slider controls the amount of detail in the fractal. Higher valu
 
 The **Zoom** slider controls the scale, allowing you to zoom in or out. 
 
-     -  	Drag slider to the right to zoom in
+     -  Drag slider to the right to zoom in
      -  Drag slider to the left to zoom out
 
 The **Angle** circle slider controls the angle at which the fractal sits. It can be rotated 360 degrees. 
