@@ -4,24 +4,25 @@ As we have touched upon the basic concept about layers [here](concept.md), we wi
 
 ### __Add Layer__ ###
 
-1. Select the *Add New Layer* [button](img/layer/addwin.png) from the Layers Window [window](img/layer/window.png) or [button](img/layer/addmenu.png) from the Layers Menu [menu](img/layer/menu.png).
+1. Select the *Add New Layer* ![button](img/layer/addwin.png) from the Layers Window ![window](img/layer/window.png) or ![button](img/layer/addmenu.png) from the Layers Menu ![menu](img/layer/menu.png).
 
 ### __Delete Layer__ ###
 
 1. Highlight the layer to be removed from the Layers Window.
-2. Select the *Delete Layer* [button](img/layer/delwin.png) from the Layers Window [window](img/layer/window.png) or [button](img/layer/delmenu.png) from the Layers Menu [menu](img/layer/menu.png).
+2. Select the *Delete Layer* ![button](img/layer/delwin.png) from the Layers Window ![window](img/layer/window.png) or ![button](img/layer/delmenu.png) from the Layers Menu ![menu](img/layer/menu.png).
 
 ### __Duplicate Layer__ ###
 
 1. Highlight the layer to be duplicated from the Layers Window.
-2. Select the *Duplicate Layer* [button](img/layer/dupwin.png) from the Layers Window [window](img/layer/window.png) or [button](img/layer/dupmenu.png) from the Layers Menu [menu](img/layer/menu.png).
+2. Select the *Duplicate Layer* ![button](img/layer/dupwin.png) from the Layers Window ![window](img/layer/window.png) or ![button](img/layer/dupmenu.png) from the Layers Menu ![menu](img/layer/menu.png).
 
 ### __Merge Layer Down__ ###
 
-1. Order the layers according to which layer you want to merge into the one below it.
-2. Select the *Merge Layer Down* [button](img/layer/merwin.png) from the Layers Window [window](img/layer/window.png) or [button](img/layer/mermenu.png) from the Layers Menu [menu](img/layer/menu.png).
+1. Order the layers according to which layer you want to merge into the one below it by using the arrow buttons in the Layers Window.
+2. Select the *Merge Layer Down* ![button](img/layer/merwin.png) from the Layers Window ![window](img/layer/window.png) or ![button](img/layer/mermenu.png) from the Layers Menu ![menu](img/layer/menu.png).
 
 ### __Import File into Layer__ ###
 
-1. Select the layer you want to apply the imported image into
-2. Select the *Import From File...* [button](img/layer/addmenu.png) from the Layers Menu.
+1. Highlight the layer you want to apply the imported image into in the Layers Window.
+2. Select the *Import From File...* ![button](img/layer/addmenu.png) from the Layers Menu.
+3. Choose your file and click Open to apply.
