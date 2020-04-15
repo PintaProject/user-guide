@@ -34,3 +34,34 @@ You can create a project with a screenshot of your screen(s) as well too. If you
 1. Click on *New Screenshot...* ![screenshot](img/setup/screenshot.png) under the File menu
 2. Customize how long of a delay you require for the capture to start.
 3. Click OK to begin the countdown and it will create a canvas the size of your screen(s).
+
+### __Customizing the Workspace__ ###
+
+Before you begin to work on your project, you can customize how your workspace looks to make the area easier for you to use. Using the [View menu](overview.md#Menu-Bar-Features), you can:
+- Check or uncheck the Toolbar to hide or view it.
+- Check or uncheck the Pixel Grid to turn on or off the pixel-sized gridlines (mainly used for pixel editing).
+- Check or uncheck the Rulers to hide or view the workspace pixel-sized rulers.
+- Change your ruler measurement in case you needed to use inch or centimeters instead of pixels.
+- Use the zooming function if you need to take a closer look at your work area.
+- Use Normal Size to view your image at 100% zoom.
+- Use Best Fit to view the image in its entirety.
+- Check or uncheck your workspace tools and windows to hide or view any features your may need.
+
+### __Saving the New Project__ ###
+
+Once you have created your project in the workspace, you would want to save your progress as an ORA file so that you can continue it the next time you are editing the same project. ORA stands for OpenRaster Image. The purpose of this file type is to save the images with the [layers](concept.md#layers) still intact so you can utilize the file in any raster graphic editor. If the file is saved as a PNG, JPEG, or TIFF as an example, it becomes a final compostion of the image and the visible layers will be flatten together to export to a final image file. To export the file as an [image](concept.md#image), please see the exporting information under the Exporting Project [pages](save.md).
+
+1. Click on *Save As...* under the File menu.
+2. Select the directory to save the project in.
+3. Select "OpenRaster image (*.ora, *.ORA)" under the bottom drop-down list.
+4. Click Save to save the new project.
+
+### __Using Undo or Redo Functions__ ###
+
+You can undo and redo any actions taken in Pinta by going into:
+- The Edit menu.
+- The Toolbar buttons.
+- Using keyboard shortcuts for undo (`CTRL` + `Z`) and redo (`CTRL` + `Y`).
+- Using the list of actions in the History Window (skip back to undo a row of actions and skip ahead to redo those actions). 
+
+Your actions are unlimited so you can undo the whole history if you wanted to. Just take note, those actions will disappear once you close the Pinta application, even if the project file was saved as an .ora file.
