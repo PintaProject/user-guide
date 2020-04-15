@@ -91,7 +91,7 @@ The tools we'll use for coloring are:
     - Gradient
 
 This is now the fun part: coloring! For the purposes of this tutorial, we also added in this burger image for you to download as a color image reference for when we pick colors. Go ahead and save the image down below:
-![burger reference](img/burger/burger_color.jpg)
+![burger reference](img/burger/burger_color.png)
 
 #### Bun ####
 Now let's begin with the bun:
