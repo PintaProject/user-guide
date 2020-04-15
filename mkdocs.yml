@@ -49,7 +49,6 @@ nav:
   - Reference:
     - Shortcuts: shortcuts.md
     - Glossary: glossary.md
-    - Test: test.md
 theme: 
   name: readthedocs
 markdown_extensions:
