@@ -185,7 +185,7 @@ The **Amount** slider controls how strong the blur appears. A higher value yield
 The **Offset** option box is used to configure where the effect will be interpreted from, setting the focus or center of the blur. 
 
 
-#### Distort 
+### Distort: ###
 The **Distort** submenu is made up of six distortion options: bulge, frosted glass, pixelate, polar inversion, tile reflection, and twist. These can be applied to the whole image or a selected area.
 
 #### Bulge ####
@@ -437,7 +437,7 @@ The **Zoom** slider controls the scale, allowing you to zoom in or out.
 
 The **Angle** circle slider controls the angle at which the fractal sits. It can be rotated 360 degrees. 
 
-### Stylize: ### 
+### Stylize:
 
 The Stylize menu is made up of four options: Edge Detect, Emboss, Outline, and Relief to change the image or selected area based on edge detection.
      
