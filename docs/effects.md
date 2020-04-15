@@ -13,7 +13,7 @@ Pinta offers a wide range of effects that can be applied to images or selected a
      
 To illustrate all of the effects we will be using this photo of KFC.
 
-![kfcoriginal](img/kfcoriginal.png)
+![kfcoriginal](img/kfcoriginal.PNG)
 
 
 ### Glow: ###
@@ -41,11 +41,11 @@ The **Contrast** slider controls the color range, making an image appear more vi
 ### Sharpen: ###
 To access the Sharpen effect go, to **Effects>Photo Effects>Sharpen**
 
-![kfcsharpen](img/kfcsharpen.png)
+![kfcsharpen](img/kfcsharpen.PNG)
 
 The **Sharpen** effect is used to reduce softness and emphasize texture in an image to draw in viewer focus. A dialogue box populates with a strength slider. The strength slider controls how pronounced the edges in an image appear, increasing the contrast of edges.
 
-![sharpenbox](img/sharpenbox.png)
+![sharpenbox](img/sharpenbox.PNG)
 
      -  	Drag slider to the right to increase sharpness
      -  	Drag slider to the left to decrease sharpness
@@ -78,11 +78,11 @@ The **Blur** submenu is made up of six blurring options: fragment, gaussian, mot
 
 #### Fragment ####
 
-![kfcfragmentblur](img/kfcfragmentblur.png)
+![kfcfragmentblur](img/kfcfragmentblur.PNG)
 
 The **Fragment Blur** effect superimposes copies or “fragments” of the image or selected area. copies or "fragments" of the image are superimposed over the original. This blur can be useful when creating an unfocussed multi-viewed version of an image. The effect is not unlike modern interpretations of insect-like vision and could be used to fake "drunken" or "semi-conscious" vision. A dialogue box populates with three sliders for fragments, distance, and rotation.
 
-![fragmentblurbox](img/fragmentblurbox.png)
+![fragmentblurbox](img/fragmentblurbox.PNG)
 
 The **Fragments** slider controls how many fragments appear. A higher value yields more fragments.
 
@@ -98,11 +98,11 @@ The **Rotation** circle slider controls the angle at which the fragments sit. It
 
 #### Gaussian ###
 
-![kfcgaussianblur](img/kfcgaussianblur.png)
+![kfcgaussianblur](img/kfcgaussianblur.PNG)
 
 The **Gaussian Blur** effect applies a defocusing blur to the image or selected area. A dialogue box populates with one slider for radius.
 
-![gaussianblurbox](img/gaussianblurbox.png)
+![gaussianblurbox](img/gaussianblurbox.PNG)
 
 The **Radius** slider controls how widely and how strongly the blur is applied. A higher value yields a stronger effect.
 
@@ -111,11 +111,11 @@ The **Radius** slider controls how widely and how strongly the blur is applied. 
 
 #### Motion ####
 
-![kfcmotionblur](img/kfcmotionblur.png)
+![kfcmotionblur](img/kfcmotionblur.PNG)
 
 The **Motion Blur** effect creates the illusion of motion in an image or selected area. A dialogue box populates with two sliders, for angle and distance.
 
-![motionblurbox](img/motionblurbox.png)
+![motionblurbox](img/motionblurbox.PNG)
 
 The **Angle** circle slider controls the angle at which the motion blur appears It can be rotated 360 degrees.
 
@@ -128,11 +128,11 @@ The **Distance** slider controls the width of the blur, how far the effect shift
 
 #### Radial ####
 
-![kfcradialblur](img/kfcradialblur.png)
+![kfcradialblur](img/kfcradialblur.PNG)
 
 The **Radial Blur** effect is like the motion blur, but rather than following a linear path, it follows a circular one. A dialogue box populates with configurable options for angle, offset, and quality. 
 
-![radialblurbox](img/radialblurbox.png)
+![radialblurbox](img/radialblurbox.PNG)
 
 The **Angle** circle slider controls the angle at which the blur appears It can be rotated 360 degrees.
 
@@ -145,11 +145,11 @@ The **Quality** slider is used to define the quality of the blur. A higher value
 
 #### Unfocus ####
 
-![kfcunfocusblur](img/kfcunfocusblur.png)
+![kfcunfocusblur](img/kfcunfocusblur.PNG)
 
 The **Unfocus Blur** effect is like the Gaussian blur but yields a more dreamy or unfocused look to the image or selected area. A dialogue box populates with a slider for radius.
 
-![unfocusblurbox](img/unfocusblurbox.png)
+![unfocusblurbox](img/unfocusblurbox.PNG)
 
 The **Radius** slider controls the strength of the effect. A higher value yields a stronger blur effect. 
 
@@ -158,11 +158,11 @@ The **Radius** slider controls the strength of the effect. A higher value yields
 
 #### Zoom ####
 
-![kfczoomblur](img/kfczoomblur.png)
+![kfczoomblur](img/kfczoomblur.PNG)
 
 The **Zoom Blur** effect is used to give the appearance of motion towards the focal point of an image, as if the viewer were closing in on the focal point. It is like the Motion blur but applied outwards from a central point. A dialogue box populated with two configurable options, amount and offset.
 
-![zoomblurbox](img/zoomblurbox.png)
+![zoomblurbox](img/zoomblurbox.PNG)
 
 The **Amount** slider controls how strong the blur appears. A higher value yields a stronger effect. 
 
@@ -181,11 +181,11 @@ The **Artistic Medium** submenu is made up of Ink Sketch, Oil Painting, and Penc
 
 ##### Ink Sketch ####
 
-![inksketch](img/kfcinksketch.png)
+![inksketch](img/kfcinksketch.PNG)
 
 The **Ink Sketch** effect makes the image appear as if it were drawn using a pen. A dialogue box populates with two sliders, ink outline and coloring.
 
-![inksketchbox](img/inksketchbox.png)
+![inksketchbox](img/inksketchbox.PNG)
 
 The **Ink Outline** slider controls the weight of the outline or edging. 
 
@@ -199,12 +199,12 @@ The **Coloring** slider controls how much of the original image’s color bleeds
 
 ##### Oil Painting ####
 
-![kfcoilpainting](img/kfcoilpainting.png)
+![kfcoilpainting](img/kfcoilpainting.PNG)
 
 The **Oil Painting** effect makes the image appears as if it were painted with oil paints. A dialogue box populates with two sliders,
 brush size and coarseness. 
 
-![oilpaintingbox](img/oilpaintingbox.png)
+![oilpaintingbox](img/oilpaintingbox.PNG)
 
 The **Brush Size** slider controls the size of the paintbrush tip, larger values yield larger strokes and smaller values yield finer strokes.
 
@@ -218,11 +218,11 @@ The **Coarseness** slider controls how much detail is captured in the transforma
 
 ##### Pencil Sketch ####
 
-![kfcpencilsketch](img/kfcpencilsketch.png)
+![kfcpencilsketch](img/kfcpencilsketch.PNG)
 
 The **Pencil Sketch** effect makes the image appear as though it were sketched with a pencil. A dialogue box populates with two sliders, pencil tip and range.
 
-![pencilsketchbox](img/pencilsketchbox.png)
+![pencilsketchbox](img/pencilsketchbox.PNG)
 
 The **Pencil Tip** slider controls the sharpness of the virtual pencil. A larger value yields a blunter tip, making lines thicker and heavier. A smaller value yields a sharper tip, making lines finer, and the image appear lighter. 
 
@@ -239,11 +239,11 @@ The **Render** submenu is made up of Clouds, Julia Fractal, and Mandelbrot Fract
 
 ##### Clouds ####
 
-![cloudrender](img/cloudrender.png)
+![cloudrender](img/cloudrender.PNG)
 
 The **Clouds** effect renders a randomized cloud pattern to the layer or desired selection. A dialogue box with two sliders, for scale and power, and a dropdown selection for blend mode will populate.
 
-![cloudbox](img/cloudbox.png)
+![cloudbox](img/cloudbox.PNG)
 
 The **Scale** slider controls the size of clouds. Higher values yield larger clouds and lower values yield finer clouds. 
 
@@ -281,11 +281,11 @@ The **Coloring** of the rendered clouds depends on the two colors selected in th
 
 #### Julia Fractal ####
 
-![juliafractalrender](img/juliafractalrender.png)
+![juliafractalrender](img/juliafractalrender.PNG)
 
 The **Julia Fractal** effect renders a Julia Fractal on the layer or desired selection. A dialogue box with four sliders, for factor, quality, zoom, and angle will populate. The colors of this fractal are not configurable.
 
-![juliafractalbox](img/juliafractalbox.png)
+![juliafractalbox](img/juliafractalbox.PNG)
 
 The **Factor** slider controls the color saturation. Higher values yield more vivid colors and lower values yield duller colors, with 1 rendering a greyscale fractal. 
 
@@ -306,11 +306,11 @@ The **Angle** circle slider controls the angle at which the fractal sits. It can
 
 #### Mandelbrot Fractal ####
 
-![mandelbrotfractalrender](img/mandelbrotfractalrender.png)
+![mandelbrotfractalrender](img/mandelbrotfractalrender.PNG)
 
 The **Mandelbrot Fractal** effect renders a Mandelbrot Fractal on the layer or desired selection. A dialogue box with four sliders, for factor, quality, zoom, and angle will populate. 
 
-![mandebrotfractalbox](img/mandelbrotfractalbox.png)
+![mandebrotfractalbox](img/mandelbrotfractalbox.PNG)
 
 The colors of this fractal are not configurable but can be inverted. Checking the ☑ Invert Colors checkbox has the same effect as applying **Adjustments > Invert Colors.** 
  
