@@ -1,5 +1,5 @@
 # Select Objects Overview
-Pinta provides a number of **Selection Tools** and **All Edit Options** to select images.
+Pinta provides a number of **Selection Tools** and **Select All Options** to select images.
 
 
 ## Selection Tools
@@ -14,7 +14,7 @@ Pinta provides the following selection *Tools*:
   - [**Rectangle**](rectangle.md): Use to select a rectangular portion of an image.
   - [**Move Selection**](select_location.md): Use to change the selected outline location (position and orientation) that is created from one of the above selection tools.
 
-## All Edit Options
+## Select All Options
 
 In addition to the above selection tools, Pinta also provides the capability to perform a number selection tasks on all pixels on an active layer:
 
@@ -24,11 +24,13 @@ In addition to the above selection tools, Pinta also provides the capability to 
 
 To perform any of these selection options:
 
-1.  Go to the **Edit** Menu ![one](img/one.png) and select either **Select All**, **Deselect All** or **Invert Selection** ![two](img/two.png)
+1.  Go to the **Edit** in the *Main Bar* menu and select either **Select All**, **Deselect All** or **Invert Selection**
 
      ![Select All Commands](img/selectall.png)
 
-  After using the  **Select All** a dotted line selection encompases the outter edge of the whole image.  
+  After using the  **Select All** a dotted line selection encompases the outter edge of the whole image. Now you can perform image transformations (such as [rotate](rotate.md), [flip](flip.md), [resize](resize.md) and [crop](crop.md)) to all parts of the image at the same time or [remove all items](remove.md).
+  
+  If **Deselect All** is selected all pixels are deselected and all the dotted line selections will no longer appear on the image. 
 
   If you originally had selected a rectangle portion of the image and you select **Invert Selection** everything except the rectangle portion would be selected as can be seen in the example below.   
 
