@@ -50,7 +50,7 @@ Recommended for Ubuntu/Ubuntu MATE 18.04
 1. Press the shortcut `Ctrl` + `Alt` + `T` on your keyboard to open the Terminal.
 2. Type the following command: `sudo apt-get update`.
 3. Press `Enter` on your keyboard.
-4. Type in your computer user password.  
+4. Type in your computer user password and press `Enter`.  
 ![Linux Install](img/linuxinstall.jpg) 
 5. Type the following command: `sudo apt-get install pinta`.
 6. Press `Y` and press `Enter` on your keyboard.  
@@ -63,4 +63,7 @@ You may also download and install the program via the `.deb` file: `pinta_1.6-2_
 
 1. Press the shortcut `Ctrl` + `Alt` + `T` on your keyboard to open the Terminal.
 2. Type the following command: `sudo apt-get remove pinta`.
-3. Close the Terminal.
+3. Press `Enter` on your keyboard.
+4. Type in your computer user password and press `Enter`.  
+5. Press `Y` and press `Enter` on your keyboard.  
+6. Close the Terminal.
