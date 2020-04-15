@@ -20,9 +20,12 @@ If you aren’t satisfied with the results of the auto level adjustment, you can
 
 Levels refers to the color or tonal range of an image. Using level adjustments, users can adjust brightness, contrast, the range of tones within an image. 
 This adjustment is used to alter the color range of the image, including gamma adjustments, on a channel-by-channel basis.
-The most common adjustments made using Levels consist of changing a picture's input and output white point, black point, and grey point.
-The white point of an image is the brightest color that appears in the image. Conversely, the black point is the darkest color that appears in the image.
-The grey point represents the average color across the entire image and is only found on the right-hand side (Output) of the dialog.
+The most common adjustments made using Levels include changing a picture's input and output white point, black point, and grey point.
+
+* The white point of an image is the brightest color that appears in the image. 
+* The black point is the darkest color that appears in the image.
+* The grey point represents the average color across the entire image and is only found on the right-hand side (Output) of the dialog.
+
 Each of these color points of an image may be adjusted independently using Levels.
 
 
