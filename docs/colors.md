@@ -2,7 +2,14 @@
 
 Pinta has to options to improve color levels in an image. Poor exposure, bad lighting, and various other elements can render a perfectly good photo unusable. You can use the auto level adjustment or manually adjust the image yourself to make your pictures pretty again
 
+
+All of the color adjustment options can be found in the adjustment menu:
+
+![adjustmentmenu](img/overview/adjustments.png)
+
+
 We will be using this photo to demonstrate the different color adjustments.
+
 ![kfcoriginal](img/kfcoriginal.PNG)
 
 
