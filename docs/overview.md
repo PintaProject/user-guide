@@ -41,7 +41,7 @@ __File__ - contains commands that allows you to create a new image, take a scree
 
 ![file](img/overview/file.png)
 
-__Edit__ - contains commands relating to the handling of information within an image and the manipulation of an image. Each of the commands have a set of [shortcut keys](shortcut.md) assigned to them (except Palette), to help provide a quicker method of navigating and executing these commands.
+__Edit__ - contains commands relating to the handling of information within an image and the manipulation of an image. Each of the commands have a set of [shortcut keys](shortcuts.md) assigned to them (except Palette), to help provide a quicker method of navigating and executing these commands.
 
 ![edit](img/overview/edit.png)
 

@@ -20,12 +20,12 @@ Although this is a tutorial on creating an image, this is not a drawing tutorial
 ### __Sketching__ ###
 The tools we'll use for sketching are:  
 
-    - Pencil  
-    - Eraser 
-    - Lasso Select 
-    - Shapes  
-    - Lines  
-    - Text
+- Pencil  
+- Eraser 
+- Lasso Select 
+- Shapes  
+- Lines  
+- Text
 
 Now we can get started on sketching our little secret burger!
 
@@ -62,10 +62,10 @@ As you can see in the Layers Window, the Color Burn layer is fully colored in, b
 ### __Inking__ ###
 The tools we'll use for inking are:  
 
-    - Pencil  
-    - Eraser 
-    - Shapes  
-    - Lines
+- Pencil  
+- Eraser 
+- Shapes  
+- Lines
 
 This part of the process, we'll be inking the rough sketch itself so that all the lines needed are more distinct.
 
@@ -83,12 +83,12 @@ This part of the process, we'll be inking the rough sketch itself so that all th
 ### __Coloring__ ###
 The tools we'll use for coloring are:  
 
-    - Burger image reference  
-    - Palette  
-    - Color Picker  
-    - Paint Brush  
-    - Eraser  
-    - Gradient
+- Burger image reference  
+- Palette  
+- Color Picker  
+- Paint Brush  
+- Eraser  
+- Gradient  
 
 This is now the fun part: coloring! For the purposes of this tutorial, we also added in this burger image for you to download as a color image reference for when we pick colors. Go ahead and save the image down below:
 ![burger reference](img/burger/burger_color.png)
@@ -158,10 +158,12 @@ This area is optional so you can skip to the next [section](#adding-texts-&-shap
 ### __Adding Texts & Shapes__ ###
 The tools we'll use for adding texts and shapes are:  
  
-    - Shapes 
-    - Lines 
-    - Eraser 
+- Shapes 
+- Lines 
+- Eraser
 
+From here, we can start to add these elements against the sketch layer again.
+  
 1. Create a layer called "Text" and place it __below__ layer "Ink".
 2. Check the box for the Sketch layer in the Layers Window to unhide the sketch.
 3. Use the Ellipse tool to create a text bubble over the sketched bubble.
@@ -180,5 +182,4 @@ The tools we'll use for adding texts and shapes are:
 Your little secret burger is now complete! You can change the Background layer to whatever color you want. Just make sure you select it as an active layer before you begin. What we did here was apply a primary blue with secondary light-blue gradient.
 ![finish](img/burger/finish.png)
 
-You can now save your image as any image file format besides .ORA and use it externally now.
-(have to redo this last line, can't think of anything else better)
+You can now [save](save.md) your image as any image file format besides [.ORA](setup.md#saving-the-new-project) and use it externally now.

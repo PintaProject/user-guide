@@ -4,8 +4,10 @@ In the Layers Window, we work on each single layer. The layer we currently work 
 
 Layers Window:  
 ![window](img/layer/window.png)  
+
 Layers Menu:  
 ![menu](img/layer/menu.png)  
+
 Layer Properties:  
 ![menu](img/layer/layerproperties.png)  
 

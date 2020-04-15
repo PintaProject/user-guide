@@ -9,7 +9,7 @@ If you aren't familiar with the tools and the menus, we recommend to check out t
 
 ### __Default Setup__ ###
 
-Open the Pinta application if you haven't already, and you will see a blank workspace that looks like this:
+Open the Pinta application if you haven't already, and you will see a blank workspace that looks like this:  
 ![workspace](img/setup/workspace.png)
 
 As you can see from the Layers Window, you have one layer called *Background*. When you want to work on an illustration or a photograph, you will need to create another layer to work on because you want to keep the background layer for any background elements that will show in your final image. To create a new layer, see *Add Layer* under Creating & Removing Layers page [here](layers.md#add-layer).
@@ -24,7 +24,7 @@ When you open the Pinta application, it starts up with a default canvas size of 
 You can create a new image and select the desired sizing of your canvas.
 
 1. Click on *New...* ![new](img/setup/new.png) in the Toolbar or under the File menu.
-2. Customize the canvas size using the preset or the options listed to modify the width, height, orientation, and the type of background. You can see a preview of it in the window when you are making the modifications.
+2. Customize the canvas size using the preset or the options listed to modify the width, height, orientation, and the type of background. You can see a preview of it in the window when you are making the modifications.  
 ![canvas change](img/setup/canvaschange.png)
 3. Click OK to apply the change.
 

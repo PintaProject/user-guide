@@ -4,6 +4,7 @@ As we have touched upon the basic concept about layers [here](concept.md), we wi
 
 Layers Window:  
 ![window](img/layer/window.png)  
+
 Layers Menu:  
 ![menu](img/layer/menu.png)
 
