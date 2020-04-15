@@ -26,14 +26,14 @@ If you aren’t satisfied with the results of the auto level adjustment, you can
 A dialogue box with two sliders appears with one option for brightness and a second option for contrast. 
 The **Brightness** control is used to make an image lighter or darker. 
 
-    -  	Drag slider to the right to increase brightness
-    -  	Drag slider to the left to decrease brightness
+* Drag slider to the right to increase brightness
+* Drag slider to the left to decrease brightness
 
 
 The **Contrast** control is used or to make an image more vivid or dull, it’s the difference between dark colors and light colors. Low contrast images have very muted tones or colors, whereas high contrast images have vibrant tones. 
 
-    -  	Drag slider to the right to increase contrast
-    -  	Drag slider to the left to decrease contrast
+* Drag slider to the right to increase contrast
+* Drag slider to the left to decrease contrast
 
 #### Hue/Saturation ####
 
@@ -46,13 +46,13 @@ The **Hue** slider is used as a tool to correct color. The Hue slider rotates th
 
 The **Saturation** slider is used to control the vibrancy of color tones in an image. The slider rests at an initial value of 100, if dragged above 100, the image becomes more vibrant, if dragged below 100, the image becomes less vibrant and dull. 
 
-    -  	Drag slider to the right to increase vibrancy
-    -  	Drag slider to the left to decrease vibrancy
+* Drag slider to the right to increase vibrancy
+* Drag slider to the left to decrease vibrancy
 
 
 The **Lightness** slider is very similar to the __Brightness__ adjustment, it is used to alter the exposure of an image. The slider rests at an initial value of 0, if dragged above 0 the image becomes brighter, if dragged below 0, the image looks dimmer.
 
-    -  	Drag slider to the right to increase lightness
-    -  	Drag slider to the left to decrease lightness
+* Drag slider to the right to increase lightness
+* Drag slider to the left to decrease lightness
   
 The green arrow can be used to reset each slider to its original value. 
