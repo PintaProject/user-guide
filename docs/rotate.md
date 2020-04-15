@@ -63,6 +63,7 @@
     The following example shows what would happen if Rotate 127 degrees was selected:
 
     ![Rotate one hundred twenty seven degrees](img/rotatelarge.png)
+    
 ##  Rotate Using The Move Selection Tool
 
     If you only want to rotate a portion of an image you can use the *Move Selected Pixels* tool.
