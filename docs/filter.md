@@ -1,6 +1,10 @@
 # Filters Overview
 Pinta offers a wide variety of filters that can be applied to your image/photograph, or to an isolated area using any one of the [**selection tools.**](select_overview.md)
 
+All of the filters can be found in the adjustment menu:
+
+![adjustmentmenu](img/overview/adjustments.png)
+
 We will be using this photo of KFC to demonstrate the filters. 
 
 ![kfcoriginal](img/kfcoriginal.PNG)
