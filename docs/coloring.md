@@ -5,7 +5,7 @@ You can quickly select a color from the [color palette](palette.md) (left click 
 
 To select a customize color:
 
-2. Click on the *Primary Color* or *Secondary Color* boxes in the Palette. You can click the switch double arrow symbol to switch between the primary and secondary colors.
+1. Click on the *Primary Color* or *Secondary Color* boxes in the Palette. You can click the switch double arrow symbol to switch between the primary and secondary colors.
 
      ![Select Primary or Secondary Color](img/color/selectprimarysecondarycolor.png)  
 
@@ -13,9 +13,9 @@ To select a customize color:
 
      ![Primary Color Window](img/color/primarycolorwindow.png) ![Secondary Color Window](img/color/secondarycolorwindow.png)
 
-&nbsp;
-
-3. From the **Choose Primary** or **Choose Secondary** Menu you have the following options to set the color:
+    &nbsp;  
+  
+2. From the **Choose Primary** or **Choose Secondary** Menu you have the following options to set the color:  
 
 
     -  **Triangle Dial Selector**:
@@ -24,8 +24,8 @@ To select a customize color:
         1.  Click on the *selection marker* on the ring and drag it around to select a color
             ![Triangle Dial Color Selector](img/color/triangledialcolor.png)
 
-        &nbsp;
-        2.  Select the darkness or lightness of the ring color by clicking on a shade of the color in the inner triangle.
+        &nbsp;  
+        2.  Select the darkness or lightness of the ring color by clicking on a shade of the color in the inner triangle.  
 
         ![Triangle Dial Selector Shade](img/color/triangledialshade.png)
 

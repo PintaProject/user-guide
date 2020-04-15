@@ -19,12 +19,20 @@ Pinta provides the following selection *Tools*:
 In addition to the above selection tools, Pinta also provides the capability to perform a number selection tasks on all pixels on an active layer:
 
    - **Select All**: Selects an entire active layer
-   - **Deselect All**: Deselects all pixels in the active window that were selected 
+   - **Deselect All**: Deselects all pixels in the active window that were selected whether all the pixels were originally selected or just a particular portion of the image was selected. 
    - **Invert Selection**: All the active pixels that are selected will be deselected and all the pixels that were not selected will become selected  
 
 To perform any of these selection options:
 
 1.  Go to the **Edit** Menu ![one](img/one.png) and select either **Select All**, **Deselect All** or **Invert Selection** ![two](img/two.png)
 
-     ![Select All Commands](img/selectall.png)     
+     ![Select All Commands](img/selectall.png)
+
+  After using the  **Select All** a dotted line selection encompases the outter edge of the whole image.  
+
+  If you originally had selected a rectangle portion of the image and you select **Invert Selection** everything except the rectangle portion would be selected as can be seen in the example below.   
+
+  ![Before invert](img/invertbefore.png)
+
+  ![After invert](img/invertafter.png)
 

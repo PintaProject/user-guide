@@ -1,4 +1,5 @@
-#### Reduce red-eye
+## Reduce red-eye ##
+
 To access the red-eye removal feature, go to **Effects > Photo > Red Eye Removal**
 
 The **Red eye removal** function recolors the red eyes caused by flash photography. 
