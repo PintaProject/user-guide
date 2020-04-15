@@ -66,8 +66,8 @@
     
 ##  Rotate Using The Move Selection Tool
 
-    If you only want to rotate a portion of an image you can use the *Move Selected Pixels* tool.
+If you only want to rotate a portion of an image you can use the *Move Selected Pixels* tool.
     
-    For step by step instructions go to the [**Image Transformations>Move**](move.md) section of this guide.
+For step by step instructions go to the [**Image Transformations>Move**](move.md) section of this guide.
 
     
