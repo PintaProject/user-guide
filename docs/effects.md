@@ -19,7 +19,13 @@ To illustrate all of the effects we will be using this photo of KFC.
 ### Glow: ###
 To access the Glow effect, go to **Effects>Photo Effects>Glow**
 
-The **Glow** effect is used to give images an inner glow by brightening lighter tones and muting color saturation, making the image appear as though it were strongly back-lit. A dialogue box populates with three sliders, radius, brightness, and contrast
+![kfcglow](img/kfcglow.PNG)
+
+
+The **Glow** effect is used to give images an inner glow by brightening lighter tones and muting color saturation, making the image appear as though it were strongly back-lit. A dialogue box populates with three sliders, radius, brightness, and contrast.
+
+![glowbox](img/glowbox.PNG)
+
 
 The **Radius** slider controls the strength of the effect. Higher values yield stronger results.
 
@@ -50,11 +56,13 @@ The **Sharpen** effect is used to reduce softness and emphasize texture in an im
 * Drag slider to the right to increase sharpness
 * Drag slider to the left to decrease sharpness
 
-### Soften Portrait: ###
+### Soften Portrait: 
 
 To access the Soften Portrait effect go, to **Effects>Photo Effects>Soften Portrait**
 
 The **Soften Portrait** effect is used to soften images as if the lighting were diffused, adding a subtle glow. A dialogue box populates with three sliders, softness, lighting, and warmth.
+
+![softenportraitbox](img/softenportraitbox.PNG)
 
 The **Softness** slider controls the strength of the effect. Higher values yield a softer, more blurred image. 
 
@@ -71,6 +79,11 @@ The **Warmth** slider controls the color of the lighting. Higher values yield mo
 
 * Drag slider to the right to increase warmth
 * Drag slider to the left to decrease warmth
+
+Here's a before and after the Soften Portrait effect:
+
+![redeyeafter](img/redeye%20after.PNG)   ![softenportraitafter](img/softenportraitafter.PNG)
+
 
 ### Blur: ###
 
