@@ -11,6 +11,11 @@ Pinta offers a wide range of effects that can be applied to images or selected a
 * [__Stylize__](#stylize): Changes the image based on edge detection
      
      
+     
+All of the effects can be found in the effects menu:
+
+![effectsmenu](img/overview/effects.png)
+
 To illustrate all of the effects we will be using this photo of KFC.
 
 ![kfcoriginal](img/kfcoriginal.PNG)
