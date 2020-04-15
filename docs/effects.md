@@ -2,13 +2,13 @@
 Pinta offers a wide range of effects that can be applied to images or selected areas of an image.
 
 * [__Glow__](#glow): Overlays an illuminating glow as if the image were strongly backlit
-* [__Sharpen__](#sharpen): Sharpens the image
+* [__Sharpen__](#sharpen): Sharpens the image by removing softness
 * [__Soften Portrait__](#soften-portrait): Makes the portrait lighting appear more diffused
-* [__Blur__](#blur)
-* [__Distort__](#distort)
+* [__Blur__](#blur): Makes the image appear blurred
+* [__Distort__](#distort): Warps, twists, transforms or convolutes an image.
 * [__Artistic Medium__](#artistic-medium): Makes the image appear as if it were painted or sketched
 * [__Render__](#render): Renders clouds or fractals
-* [__Stylize__](#stylize)
+* [__Stylize__](#stylize): Changes the image based on edge detection
      
      
 To illustrate all of the effects we will be using this photo of KFC.
@@ -172,7 +172,100 @@ The **Amount** slider controls how strong the blur appears. A higher value yield
 The **Offset** option box is used to configure where the effect will be interpreted from, setting the focus or center of the blur. 
 
 
-### Distort: ###
+#### Distort 
+The **Distort** submenu is made up of six distortion options: bulge, frosted glass, pixelate, polar inversion, tile reflection, and twist. These can be applied to the whole image or a selected area.
+
+#### Bulge ####
+
+![kfcbulge](img/kfcbulge.PNG)
+
+The **Bulge** effect makes the image or selected area swell or shrink, similar to a fisheye or reverse fisheye effect. A dialogue box populates with configurations for amount and offset.
+
+![bulgebox](img/buldgebox.PNG)
+
+The **Amount** slider controls how strong the swelling or shrinking appears. A higher value yields a stronger effect. 
+
+* Drag slider to the right to increase swelling
+* Drag slider to the left to decrease swelling 
+
+The **Offset** option box is used to configure where the effect will be interpreted from, setting the focus or center of the bulge. 
+
+#### Frosted Glass ####
+
+![kfcfrostedglass](img/kfcfrostedglass.PNG)
+
+The **Frosted Glass** effect makes the image or selected area look as though it were being viewed through frosted glass. A dialogue box will populate with an amount slider.
+
+![frostedglassbox](img/frostedglassbox.PNG)
+
+The **Amount** slider controls the harshness and number of displaced pixels giving off the frosted effect. A higher value yields a more frosted, pixelated look. 
+
+* Drag slider to the right to increase frosted appearance
+* Drag slider to the left to decrease frosted appearance 
+
+#### Pixelate ####
+
+![kfcpixelate](img/kfcpixelate.PNG)
+
+The **Pixelate** effect gives the image or selected area a pixelated look, reducing detail by enlarging regularly sampled pixels. A dialogue box populates with a slider for cell size.
+
+![pixelatebox](img/pixelatebox.PNG)
+
+The **Cell Size** slider controls the size of the pixels. A higher value yields larger pixels, and lower values yield smaller, finer pixels. 
+
+* Drag slider to the right to increase pixel size
+* Drag slider to the left to decrease pixel size 
+
+#### Polar Inversion ####
+
+![kfcpolarinversion](img/kfcpolarinversion.PNG)
+
+The **Polar Inversion** effect applies a transformation between Cartesian and Polar coordinate systems, resulting in a positional transformation which recursively wraps the image around itself in an endlessly repeating pattern. A dialogue box populates with multiple configurations.
+
+![polarinversionbox](img/polarinversionbox.PNG)
+
+The **Amount** slider controls the strength of the effect. A higher value yields a stronger inversion.
+
+* Drag slider to the right to increase strength
+* Drag slider to the left to decrease strength 
+
+The **Offset** option box is used to configure where the effect will be interpreted from, setting the focus or center of the inversion. 
+The **Edge Behavior** dropdown selection defines how the effect behaves as the transformation reaches then exceeds the edge of the canvas.
+
+#### Tile Reflection ####
+
+![kfctilereflection](img/kfctilereflection.PNG)
+
+The **Tile Reflection** effect makes the image or selection appear as if it were reflected in a wall of mirrored tiles. A dialogue box populates with configuration options for rotation, tile size, and intensity. 
+
+![tilereflectionbox](img/tilereflectionbox.PNG)
+
+The **Rotation** circle slider controls the angle at which the tiles appear. It can be rotated 360 degrees.
+
+The **Tile Size** slider controls how big or how small the tiles appear, they always remain square. A higher value yields larger tiles.
+
+* Drag slider to the right to increase tile size
+* Drag slider to the left to decrease tile size
+
+The **Intensity** slider controls the curvature of each tile, determining how much of the surrounding are reflected in each tile. A higher value yields curvier tiles, making the image appear more abstracted. 
+
+* Drag slider to the right to increase tile curvature
+* Drag slider to the left to decrease tile curvature 
+
+#### Twist ####
+
+![kfctwist](img/kfctwist.PNG)
+
+The **Twist** effect mimics winding the image around the center point of the image. A dialogue box populates with two sliders for amount and antialias.
+
+![twistbox](img/twistbox.PNG)
+
+The **Amount** slider controls the intensity of the twist. Numbers closer to 0 make the effect less intense, with 0 leaving the image unaltered.
+The **Antialias** slider controls the amount of detail. A higher value yields a smoother appearance, while lower values yield a more jagged, pixelated appearance. 
+
+* Drag slider to the right to increase smoothness
+* Drag slider to the left to decrease smoothness
+
 
 
 ### Artistic Medium: ###
@@ -331,5 +424,57 @@ The **Zoom** slider controls the scale, allowing you to zoom in or out.
 
 The **Angle** circle slider controls the angle at which the fractal sits. It can be rotated 360 degrees. 
 
-### Stylize: ###
+### Stylize: ### 
+
+The Stylize menu is made up of four options: Edge Detect, Emboss, Outline, and Relief to change the image or selected area based on edge detection.
+     
+#### Edge Detect ####
+
+![kfcedgedetect](img/kfcedgedetect.PNG)
+
+The **Edge Detect** effect highlights the edges of an image or selected area, creating an almost embossed effect. A dialogue box populates with a circle slider for the angle. 
+
+![edgedetectbox](img/edgedetectbox.PNG)
+
+The **Angle** circle slider controls the angle at which the edges appear, controlling the direction of the light source. It can be rotated 360 degrees.
+
+#### Emboss ####
+
+![kfcemboss](img/kfcemboss.PNG)
+
+The **Emboss** effect is similar to the edge effect. It generates a black and white rendering of the image where the edges have been given a 3D highlight as though they were physically embossed. A dialogue box populates with a circle slider for the angle.
+
+![embossbox](img/embossbox.PNG)
+
+The **Angle** circle slider controls the angle at which the edges appear, controlling the direction of the light source. It can be rotated 360 degrees.
+
+#### Outline ####
+
+![kfcoutline](img/kfcoutline.PNG)
+
+The **Outline** effect enhances edges found in an image by tracing around them with an outline of requested radius.  A dialogue box populates with two sliders for thickness and intensity.
+
+![outlinebox](img/outlinebox.PNG)
+
+The **Thickness** slider controls how thick the outline appears. Higher values yield thicker outlines and lower values yield finer outline.
+
+* Drag slider to the right to increase thickness
+* Drag slider to the left to decrease thickness
+
+The **Intensity** slider controls the strength of the effect, or the number of pixels that the effect is applied to. Higher values yield a stronger effect. 
+
+* Drag slider to the right to increase intensity
+* Drag slider to the left to decrease intensity
+
+#### Relief ####
+
+![kfcrelief](img/kfcrelief.PNG)
+
+The **Relief** effect is similar to the edge detect effect, but instead it blends the raised edges back into the original image, giving it a full colored embossed look. A dialogue box populates with a circle slider for the angle. 
+
+![reliefbox](img/reliefbox.PNG)
+
+The **Angle** circle slider controls the angle at which the edges appear, controlling the direction of the light source. It can be rotated 360 degrees.
+
+
 
