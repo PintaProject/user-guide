@@ -1,6 +1,6 @@
 ## Improving Colors ##
 
-Pinta has to options to improve color levels in an image. Poor expore, bad lighting, and various other elements can render a perfectly good photo unusable. You can use the auto level adjustment or manually adjust the image yourself to make your pictures pretty again
+Pinta has to options to improve color levels in an image. Poor exposure, bad lighting, and various other elements can render a perfectly good photo unusable. You can use the auto level adjustment or manually adjust the image yourself to make your pictures pretty again
 
 We will be using this photo to demonstrate the different color adjustments.
 ![kfcoriginal](img/kfcoriginal.PNG)
@@ -18,6 +18,14 @@ If you aren’t satisfied with the results of the auto level adjustment, you can
 
 #### Levels ####
 
+Levels refers to the color or tonal range of an image. Using level adjustments, users can adjust brightness, contrast, the range of tones within an image. 
+This adjustment is used to alter the color range of the image, including gamma adjustments, on a channel-by-channel basis.
+The most common adjustments made using Levels consist of changing a picture's input and output white point, black point, and grey point.
+The white point of an image is the brightest color that appears in the image. Conversely, the black point is the darkest color that appears in the image.
+The grey point represents the average color across the entire image and is only found on the right-hand side (Output) of the dialog.
+Each of these color points of an image may be adjusted independently using Levels.
+
+
 ![levelsbox](img/levelsbox.PNG)
 
 #### Brightness/contrast ####
@@ -26,14 +34,14 @@ If you aren’t satisfied with the results of the auto level adjustment, you can
 A dialogue box with two sliders appears with one option for brightness and a second option for contrast. 
 The **Brightness** control is used to make an image lighter or darker. 
 
-    -  	Drag slider to the right to increase brightness
-    -  	Drag slider to the left to decrease brightness
+* Drag slider to the right to increase brightness
+* Drag slider to the left to decrease brightness
 
 
 The **Contrast** control is used or to make an image more vivid or dull, it’s the difference between dark colors and light colors. Low contrast images have very muted tones or colors, whereas high contrast images have vibrant tones. 
 
-    -  	Drag slider to the right to increase contrast
-    -  	Drag slider to the left to decrease contrast
+* Drag slider to the right to increase contrast
+* Drag slider to the left to decrease contrast
 
 #### Hue/Saturation ####
 
@@ -46,13 +54,13 @@ The **Hue** slider is used as a tool to correct color. The Hue slider rotates th
 
 The **Saturation** slider is used to control the vibrancy of color tones in an image. The slider rests at an initial value of 100, if dragged above 100, the image becomes more vibrant, if dragged below 100, the image becomes less vibrant and dull. 
 
-    -  	Drag slider to the right to increase vibrancy
-    -  	Drag slider to the left to decrease vibrancy
+* Drag slider to the right to increase vibrancy
+* Drag slider to the left to decrease vibrancy
 
 
 The **Lightness** slider is very similar to the __Brightness__ adjustment, it is used to alter the exposure of an image. The slider rests at an initial value of 0, if dragged above 0 the image becomes brighter, if dragged below 0, the image looks dimmer.
 
-    -  	Drag slider to the right to increase lightness
-    -  	Drag slider to the left to decrease lightness
+* Drag slider to the right to increase lightness
+* Drag slider to the left to decrease lightness
   
 The green arrow can be used to reset each slider to its original value. 

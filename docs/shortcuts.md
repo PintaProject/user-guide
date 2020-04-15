@@ -1,18 +1,24 @@
 ## Keyboard Shortcuts ##
 
+
 ### File Menu ###
+
 
 Name | Shortcut
 :-----------:|:-------------------------:
-**Open File menu**  | 		Alt + F
-**New Image**  |		Ctrl + N
-**Open Image**  	|	Ctrl + O
-**Close Image**  | 		Ctrl + W or Ctrl + F4
-**Save Image**  | 		Ctrl + S
-**Save Image As**   v		Ctrl + Shift + S
+**Open File menu**| 		Alt + F
+**New Image**|		Ctrl + N
+**Open Image**|	Ctrl + O
+**Close Image**| 		Ctrl + W or Ctrl + F4
+**Save Image**| 		Ctrl + S
+**Save Image As**|		Ctrl + Shift + S
+
+
+
 
 
 ### Edit Menu ###
+
 
 Name | Shortcut
 :-----------:|:-------------------------:
@@ -33,7 +39,11 @@ Name | Shortcut
 **Deselect active selection** |	Ctrl + D 
 
 
+
+
+
 ### View Menu ###
+
 
 Name | Shortcut
 :-----------:|:-------------------------:
@@ -43,7 +53,11 @@ Name | Shortcut
 **Actual Size**		|	Ctrl + 0
 
 
+
+
+
 ### Image Menu ###
+
 
 Name | Shortcut
 :-----------:|:-------------------------:
@@ -57,7 +71,11 @@ Name | Shortcut
 **Flatten**		|	Ctrl + Shift + F
 
 
+
+
+
 ### Layers Menu ###
+
 
 Name | Shortcut
 :-----------:|:-------------------------:
@@ -73,7 +91,11 @@ Name | Shortcut
 **Go to Bottom Layer**  |	Ctrl + Alt + PgDn
 
 
+
+
+
 ### Adjustments and Effects Menu ###
+
 
 Name | Shortcut
 :-----------:|:-------------------------:
@@ -90,7 +112,11 @@ Name | Shortcut
 **Sepia**	|		Ctrl + Shift + E
 
 
+
+
+
 ### Tool Shortcuts ###
+
 
 Name | Shortcut
 :-----------:|:-------------------------:
@@ -114,7 +140,11 @@ Name | Shortcut
 **Line / Curve**	|	O
 
 
+
+
+
 ### Selection and Move Tools ###
+
 
 Name | Shortcut
 :-----------:|:-------------------------:
