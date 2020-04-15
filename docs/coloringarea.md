@@ -1,6 +1,6 @@
 # Coloring Areas
 
-The *Paint Bucket* ![paint bucket](img/color/paintbucket.png) tool can be used to fill an area with a single specific color or hue. You can fill a [selected portion](select.md) of the image, a simple object or text.
+The *Paint Bucket* ![paint bucket](img/color/paintbucket.png) tool can be used to fill an area with a single specific color or hue. You can fill a [selected portion](select_overview.md) of the image, a simple object or text.
 
 1. Select the *Paint bucket* ![paint bucket](img/color/paintbucket.png) from the **Tools** menu.
 
