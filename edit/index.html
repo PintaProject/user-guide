@@ -85,37 +85,33 @@
     </li>
     <li class="toctree-l2"><a class="reference internal" href="#apply-blend-mode">Apply Blend Mode</a>
         <ul>
-    <li class="toctree-l3"><a class="reference internal" href="#blend-modes">Blend Modes</a>
-        <ul>
-    <li class="toctree-l4"><a class="reference internal" href="#normal">Normal</a>
+    <li class="toctree-l3"><a class="reference internal" href="#normal">Normal</a>
     </li>
-    <li class="toctree-l4"><a class="reference internal" href="#multiply">Multiply</a>
+    <li class="toctree-l3"><a class="reference internal" href="#multiply">Multiply</a>
     </li>
-    <li class="toctree-l4"><a class="reference internal" href="#additive">Additive</a>
+    <li class="toctree-l3"><a class="reference internal" href="#additive">Additive</a>
     </li>
-    <li class="toctree-l4"><a class="reference internal" href="#color-burn">Color Burn</a>
+    <li class="toctree-l3"><a class="reference internal" href="#color-burn">Color Burn</a>
     </li>
-    <li class="toctree-l4"><a class="reference internal" href="#color-dodge">Color Dodge</a>
+    <li class="toctree-l3"><a class="reference internal" href="#color-dodge">Color Dodge</a>
     </li>
-    <li class="toctree-l4"><a class="reference internal" href="#reflect">Reflect</a>
+    <li class="toctree-l3"><a class="reference internal" href="#reflect">Reflect</a>
     </li>
-    <li class="toctree-l4"><a class="reference internal" href="#glow">Glow</a>
+    <li class="toctree-l3"><a class="reference internal" href="#glow">Glow</a>
     </li>
-    <li class="toctree-l4"><a class="reference internal" href="#overlay">Overlay</a>
+    <li class="toctree-l3"><a class="reference internal" href="#overlay">Overlay</a>
     </li>
-    <li class="toctree-l4"><a class="reference internal" href="#difference">Difference</a>
+    <li class="toctree-l3"><a class="reference internal" href="#difference">Difference</a>
     </li>
-    <li class="toctree-l4"><a class="reference internal" href="#negation">Negation</a>
+    <li class="toctree-l3"><a class="reference internal" href="#negation">Negation</a>
     </li>
-    <li class="toctree-l4"><a class="reference internal" href="#lighten">Lighten</a>
+    <li class="toctree-l3"><a class="reference internal" href="#lighten">Lighten</a>
     </li>
-    <li class="toctree-l4"><a class="reference internal" href="#darken">Darken</a>
+    <li class="toctree-l3"><a class="reference internal" href="#darken">Darken</a>
     </li>
-    <li class="toctree-l4"><a class="reference internal" href="#screen">Screen</a>
+    <li class="toctree-l3"><a class="reference internal" href="#screen">Screen</a>
     </li>
-    <li class="toctree-l4"><a class="reference internal" href="#xor">Xor</a>
-    </li>
-        </ul>
+    <li class="toctree-l3"><a class="reference internal" href="#xor">Xor</a>
     </li>
         </ul>
     </li>
@@ -243,10 +239,16 @@
             <div class="section">
               
                 <h2 id="edit-layer-properties"><a class="toclink" href="#edit-layer-properties"><strong>Edit Layer Properties</strong></a><a class="headerlink" href="#edit-layer-properties" title="Permanent link">&para;</a></h2>
-<p>In the Layers Window, we work on each single layer. The layer we currently work on is called an <strong>active layer</strong>. We select an active layer by clicking on the layer listed under the Layers Window to be able to edit that particular layer. You can only edit or manipulate the image that is active: no other layer will be affected or changed. A common mistake made when using layers is trying to edit an image that is not active. So keep in mind as you are learning to use Pinta that image manipulations only affect the active layer. You can always tell which image is active by looking at the selected thumbnail in the Layers Window.</p>
+<p>In the Layers Window, we work on each single layer. The layer we currently work on is called an <a href="../concept/#layers"><strong>active layer</strong></a>. We select an active layer by clicking on the layer listed under the Layers Window to be able to edit that particular layer. You can only edit or manipulate the image that is active: no other layer will be affected or changed. A common mistake made when using layers is trying to edit an image that is not active. So keep in mind as you are learning to use Pinta that image manipulations only affect the active layer. You can always tell which image is active by looking at the selected thumbnail in the Layers Window.</p>
+<p>Layers Window:<br />
+<img alt="window" src="../img/layer/window.png" /><br />
+Layers Menu:<br />
+<img alt="menu" src="../img/layer/menu.png" /><br />
+Layer Properties:<br />
+<img alt="menu" src="../img/layer/layerproperties.png" />  </p>
 <h3 id="change-layer-name"><a class="toclink" href="#change-layer-name"><strong>Change Layer Name</strong></a><a class="headerlink" href="#change-layer-name" title="Permanent link">&para;</a></h3>
 <ol>
-<li>Double-click the layer from the Layers Window <img alt="window" src="img/layer/window.png" /> or click on <em>Layer Properties...</em> from the Layers Menu <img alt="menu" src="img/layer/menu.png" />.</li>
+<li>Double-click the layer from the Layers Window or click on <em>Layer Properties...</em> from the Layers Menu <img alt="properties" src="../img/layer/properties.png" />.</li>
 <li>Modify the name in the text box.</li>
 <li>Click OK to apply the change.</li>
 </ol>
@@ -254,63 +256,83 @@
 <p>While editing, there are moments when you need to hide a layer in order to work more efficiently on the other layers. To do so, you can hide or unhide any layers you need to view.</p>
 <ol>
 <li>Click on the checkbox for the layer of your choice, under the Layers Window. 
-<img alt="window boxes" src="img/layer/windowbox.png" /></li>
+<img alt="window boxes" src="../img/layer/winbox.png" /></li>
 </ol>
 <h3 id="flipping-layers"><a class="toclink" href="#flipping-layers"><strong>Flipping Layers</strong></a><a class="headerlink" href="#flipping-layers" title="Permanent link">&para;</a></h3>
 <ol>
 <li>Select an active layer.</li>
-<li>Click on either <em>Flip Horizontal</em> or <em>Flip Vertical</em> to manipulate the whole layer to flip horizontally or vertically.</li>
+<li>Click on either <em>Flip Horizontal</em> or <em>Flip Vertical</em> to manipulate the whole layer to flip horizontally or vertically.<br />
+<img alt="flip" src="../img/layer/flip.png" /></li>
 </ol>
 <h3 id="rotating-layers"><a class="toclink" href="#rotating-layers"><strong>Rotating Layers</strong></a><a class="headerlink" href="#rotating-layers" title="Permanent link">&para;</a></h3>
 <ol>
 <li>Select an active layer.</li>
-<li>Click on <em>Rotate / Zoom Layer...</em>.</li>
-<li>Use the angle slider or type in an angle degree number to select the degree of rotation.</li>
+<li>Click on <em>Rotate / Zoom Layer...</em>.<br />
+<img alt="rotate" src="../img/layer/rotate.png" /></li>
+<li>Use the angle slider or type in an angle degree number to select the degree of rotation.<br />
+<img alt="angle" src="../img/layer/angle.png" /></li>
 <li>Click OK to apply the change.</li>
 </ol>
 <h3 id="change-layer-opacity"><a class="toclink" href="#change-layer-opacity"><strong>Change Layer Opacity</strong></a><a class="headerlink" href="#change-layer-opacity" title="Permanent link">&para;</a></h3>
 <ol>
-<li>Double-click the layer from the Layers Window <img alt="window" src="img/layer/window.png" /> or click on <em>Layer Properties...</em> from the Layers Menu <img alt="menu" src="img/layer/menu.png" />.</li>
+<li>Double-click the layer from the Layers Window or click on <em>Layer Properties...</em> from the Layers Menu <img alt="properties" src="../img/layer/properties.png" />.</li>
 <li>Use the slider or enter in the percentage of your choice.</li>
 <li>Click OK to apply the change.</li>
 </ol>
 <h3 id="apply-blend-mode"><a class="toclink" href="#apply-blend-mode"><strong>Apply Blend Mode</strong></a><a class="headerlink" href="#apply-blend-mode" title="Permanent link">&para;</a></h3>
 <p>A layer's blend mode specifies how it is blended with the layers immediately below it in the layer stack.  Changing the Blend Mode on a single layer can radically alter the composite image. The order of the layers in the layers stack is important when using layer blend modes. Layer A blended over Layer B is not the same as Layer B blended over Layer A - even if the same blend mode is used.</p>
 <ol>
-<li>Double-click the layer from the Layers Window <img alt="window" src="img/layer/window.png" /> or click on <em>Layer Properties...</em> from the Layers Menu <img alt="menu" src="img/layer/menu.png" />.</li>
+<li>Double-click the layer from the Layers Window or click on <em>Layer Properties...</em> from the Layers Menu <img alt="properties" src="../img/layer/properties.png" />.</li>
 <li>Use the drop-down to select the style of blend mode.</li>
 <li>Click OK to apply the change.</li>
 </ol>
-<h4 id="blend-modes"><a class="toclink" href="#blend-modes"><strong>Blend Modes</strong></a><a class="headerlink" href="#blend-modes" title="Permanent link">&para;</a></h4>
-<p>The Blend Mode drop-down list offers 14 blend modes</p>
-<h5 id="normal"><a class="toclink" href="#normal">Normal</a><a class="headerlink" href="#normal" title="Permanent link">&para;</a></h5>
-<p>This is the default and standard blend mode. Each pixel in the layer is blended with the composition depending on its alpha value.</p>
-<h5 id="multiply"><a class="toclink" href="#multiply">Multiply</a><a class="headerlink" href="#multiply" title="Permanent link">&para;</a></h5>
-<p>Each pixel's RGB component intensity is multiplied with the pixel value from the composition. The result of this blend mode is always darker than the original.  White pixels in the blend layer are effectively rendered transparent by the Multiply blend. </p>
-<h5 id="additive"><a class="toclink" href="#additive">Additive</a><a class="headerlink" href="#additive" title="Permanent link">&para;</a></h5>
-<p>Each pixel's RGB component intensity is added to the intensity of the pixel values from the composition.  The Additive blend has the effect of brightening pixels in the final composition. Black pixels in the blend layer are rendered as transparent by the Additive blend. </p>
-<h5 id="color-burn"><a class="toclink" href="#color-burn">Color Burn</a><a class="headerlink" href="#color-burn" title="Permanent link">&para;</a></h5>
-<p>This blend mode has the effect of making dark pixels darker while lighter pixels must be blended with other light colored pixels in order to remain bright.</p>
-<h5 id="color-dodge"><a class="toclink" href="#color-dodge">Color Dodge</a><a class="headerlink" href="#color-dodge" title="Permanent link">&para;</a></h5>
-<p>This can be thought of as the opposite of Color Burn. Lighter pixels retain their brightness while darker pixels must be blended with other dark pixels in order to remain dark.</p>
-<h5 id="reflect"><a class="toclink" href="#reflect">Reflect</a><a class="headerlink" href="#reflect" title="Permanent link">&para;</a></h5>
-<p>This blend mode can be used for adding shiny objects or areas of light. Black pixels in the blend layer are ignored as if they were transparent.</p>
-<h5 id="glow"><a class="toclink" href="#glow">Glow</a><a class="headerlink" href="#glow" title="Permanent link">&para;</a></h5>
-<p>This is the reverse of the Reflect mode: it works the same as swapping the layer positions and using Reflect. Glow effectively brightens the composition by the amount of brightness in the blend layer. Black pixels in the blend layer are rendered as if they were transparent. </p>
-<h5 id="overlay"><a class="toclink" href="#overlay">Overlay</a><a class="headerlink" href="#overlay" title="Permanent link">&para;</a></h5>
-<p>This is a combination of Screen and Multiply modes which uses the blend pixel intensity to determine the result.  For darker colors, this acts like Multiply. For lighter colors, this acts like Screen. </p>
-<h5 id="difference"><a class="toclink" href="#difference">Difference</a><a class="headerlink" href="#difference" title="Permanent link">&para;</a></h5>
-<p>The counterpart to Additive blending. The layer pixel's intensity is subtracted from the composition pixel's intensity resulting in darker colors.  Subtraction could produce a negative intensity which is unable to be displayed, so an absolute value is returned.  Thus, both "white minus black" and "black minus white" will both produce white. Difference blend is often useful when using the Clouds effect. </p>
-<h5 id="negation"><a class="toclink" href="#negation">Negation</a><a class="headerlink" href="#negation" title="Permanent link">&para;</a></h5>
-<p>At first glance this seems similar to Difference, however it actually produces the opposite effect.  Instead of making colors darker, it will make them brighter. </p>
-<h5 id="lighten"><a class="toclink" href="#lighten">Lighten</a><a class="headerlink" href="#lighten" title="Permanent link">&para;</a></h5>
-<p>The lightest pixel of either the blend layer or the composition is used.</p>
-<h5 id="darken"><a class="toclink" href="#darken">Darken</a><a class="headerlink" href="#darken" title="Permanent link">&para;</a></h5>
-<p>The darkest pixel of either the blend layer or the composition is used.</p>
-<h5 id="screen"><a class="toclink" href="#screen">Screen</a><a class="headerlink" href="#screen" title="Permanent link">&para;</a></h5>
-<p>This can be thought of as the opposite of the Multiply blend mode. It is used to make pixels brighter, with black being effectively transparent.</p>
-<h5 id="xor"><a class="toclink" href="#xor">Xor</a><a class="headerlink" href="#xor" title="Permanent link">&para;</a></h5>
-<p>This is short for "exclusive OR", which is an advanced blending mode that is primarily used for image analysis.  Pixels in the blend layer which exactly match the composition will be rendered black. Where differences exist, colors are shown. </p>
+<p>The Blend Mode drop-down list offers 14 blend modes. We'll be using two images for the blend mode examples: background and a top layer.</p>
+<p>Background:<br />
+<img alt="background" src="../img/layer/background.jpg" /><br />
+Top Layer:<br />
+<img alt="burger" src="../img/layer/burger.png" /></p>
+<h4 id="normal"><a class="toclink" href="#normal">Normal</a><a class="headerlink" href="#normal" title="Permanent link">&para;</a></h4>
+<p>This is the default and standard blend mode. Each pixel in the layer is blended with the composition depending on its alpha value.<br />
+<img alt="normal" src="../img/layer/normal.png" /></p>
+<h4 id="multiply"><a class="toclink" href="#multiply">Multiply</a><a class="headerlink" href="#multiply" title="Permanent link">&para;</a></h4>
+<p>Each pixel's RGB component intensity is multiplied with the pixel value from the composition. The result of this blend mode is always darker than the original.  White pixels in the blend layer are effectively rendered transparent by the Multiply blend.<br />
+<img alt="multiply" src="../img/layer/multiply.png" /></p>
+<h4 id="additive"><a class="toclink" href="#additive">Additive</a><a class="headerlink" href="#additive" title="Permanent link">&para;</a></h4>
+<p>Each pixel's RGB component intensity is added to the intensity of the pixel values from the composition.  The Additive blend has the effect of brightening pixels in the final composition. Black pixels in the blend layer are rendered as transparent by the Additive blend.<br />
+<img alt="additive" src="../img/layer/additive.png" /></p>
+<h4 id="color-burn"><a class="toclink" href="#color-burn">Color Burn</a><a class="headerlink" href="#color-burn" title="Permanent link">&para;</a></h4>
+<p>This blend mode has the effect of making dark pixels darker while lighter pixels must be blended with other light-colored pixels in order to remain bright.<br />
+<img alt="burn" src="../img/layer/burn.png" /></p>
+<h4 id="color-dodge"><a class="toclink" href="#color-dodge">Color Dodge</a><a class="headerlink" href="#color-dodge" title="Permanent link">&para;</a></h4>
+<p>This can be thought of as the opposite of Color Burn. Lighter pixels retain their brightness while darker pixels must be blended with other dark pixels in order to remain dark.<br />
+<img alt="dodge" src="../img/layer/dodge.png" /></p>
+<h4 id="reflect"><a class="toclink" href="#reflect">Reflect</a><a class="headerlink" href="#reflect" title="Permanent link">&para;</a></h4>
+<p>This blend mode can be used for adding shiny objects or areas of light. Black pixels in the blend layer are ignored as if they were transparent.<br />
+<img alt="reflect" src="../img/layer/reflect.png" /></p>
+<h4 id="glow"><a class="toclink" href="#glow">Glow</a><a class="headerlink" href="#glow" title="Permanent link">&para;</a></h4>
+<p>This is the reverse of the Reflect mode: it works the same as swapping the layer positions and using Reflect. Glow effectively brightens the composition by the amount of brightness in the blend layer. Black pixels in the blend layer are rendered as if they were transparent.<br />
+<img alt="glow" src="../img/layer/glow.png" /></p>
+<h4 id="overlay"><a class="toclink" href="#overlay">Overlay</a><a class="headerlink" href="#overlay" title="Permanent link">&para;</a></h4>
+<p>This is a combination of Screen and Multiply modes which uses the blend pixel intensity to determine the result.  For darker colors, this acts like Multiply. For lighter colors, this acts like Screen.<br />
+<img alt="overlay" src="../img/layer/overlay.png" /></p>
+<h4 id="difference"><a class="toclink" href="#difference">Difference</a><a class="headerlink" href="#difference" title="Permanent link">&para;</a></h4>
+<p>The counterpart to Additive blending. The layer pixel's intensity is subtracted from the composition pixel's intensity resulting in darker colors.  Subtraction could produce a negative intensity which is unable to be displayed, so an absolute value is returned.  Thus, both "white minus black" and "black minus white" will both produce white. Difference blend is often useful when using the Clouds effect.<br />
+<img alt="difference" src="../img/layer/difference.png" /></p>
+<h4 id="negation"><a class="toclink" href="#negation">Negation</a><a class="headerlink" href="#negation" title="Permanent link">&para;</a></h4>
+<p>At first glance this seems similar to Difference, however it actually produces the opposite effect.  Instead of making colors darker, it will make them brighter.<br />
+<img alt="negation" src="../img/layer/negation.png" /></p>
+<h4 id="lighten"><a class="toclink" href="#lighten">Lighten</a><a class="headerlink" href="#lighten" title="Permanent link">&para;</a></h4>
+<p>The lightest pixel of either the blend layer or the composition is used.<br />
+<img alt="lighten" src="../img/layer/lighten.png" /></p>
+<h4 id="darken"><a class="toclink" href="#darken">Darken</a><a class="headerlink" href="#darken" title="Permanent link">&para;</a></h4>
+<p>The darkest pixel of either the blend layer or the composition is used.<br />
+<img alt="darken" src="../img/layer/darken.png" /></p>
+<h4 id="screen"><a class="toclink" href="#screen">Screen</a><a class="headerlink" href="#screen" title="Permanent link">&para;</a></h4>
+<p>This can be thought of as the opposite of the Multiply blend mode. It is used to make pixels brighter, with black being effectively transparent.<br />
+<img alt="screen" src="../img/layer/screen.png" /></p>
+<h4 id="xor"><a class="toclink" href="#xor">Xor</a><a class="headerlink" href="#xor" title="Permanent link">&para;</a></h4>
+<p>This is short for "exclusive OR", which is an advanced blending mode that is primarily used for image analysis.  Pixels in the blend layer which exactly match the composition will be rendered black. Where differences exist, colors are shown.<br />
+<img alt="xor" src="../img/layer/xor.png" /></p>
               
             </div>
           </div>
