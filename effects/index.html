@@ -137,6 +137,20 @@
     <li class="toctree-l2"><a class="reference internal" href="#soften-portrait">Soften Portrait:</a>
     </li>
     <li class="toctree-l2"><a class="reference internal" href="#blur">Blur:</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#fragment">Fragment</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#gaussian">Gaussian</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#motion">Motion</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#radial">Radial</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#unfocus">Unfocus</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#zoom">Zoom</a>
+    </li>
+        </ul>
     </li>
     <li class="toctree-l2"><a class="reference internal" href="#distort">Distort:</a>
     </li>
@@ -239,6 +253,8 @@
  -   [__Render__](#render): Renders clouds or fractals
  -   [__Stylize__](#stylize)
 </code></pre>
+<p>To illustrate all of the effects we will be using this photo of KFC.</p>
+<p><img alt="kfcoriginal" src="../img/kfcoriginal.PNG" /></p>
 <h3 id="glow"><a class="toclink" href="#glow">Glow:</a><a class="headerlink" href="#glow" title="Permanent link">&para;</a></h3>
 <p>To access the Glow effect, go to <strong>Effects&gt;Photo Effects&gt;Glow</strong></p>
 <p>The <strong>Glow</strong> effect is used to give images an inner glow by brightening lighter tones and muting color saturation, making the image appear as though it were strongly back-lit. A dialogue box populates with three sliders, radius, brightness, and contrast</p>
@@ -256,7 +272,9 @@
 </code></pre>
 <h3 id="sharpen"><a class="toclink" href="#sharpen">Sharpen:</a><a class="headerlink" href="#sharpen" title="Permanent link">&para;</a></h3>
 <p>To access the Sharpen effect go, to <strong>Effects&gt;Photo Effects&gt;Sharpen</strong></p>
+<p><img alt="kfcsharpen" src="../img/kfcsharpen.PNG" /></p>
 <p>The <strong>Sharpen</strong> effect is used to reduce softness and emphasize texture in an image to draw in viewer focus. A dialogue box populates with a strength slider. The strength slider controls how pronounced the edges in an image appear, increasing the contrast of edges.</p>
+<p><img alt="sharpenbox" src="../img/sharpenbox.PNG" /></p>
 <pre><code> -      Drag slider to the right to increase sharpness
  -      Drag slider to the left to decrease sharpness
 </code></pre>
@@ -276,12 +294,72 @@
  -      Drag slider to the left to decrease warmth
 </code></pre>
 <h3 id="blur"><a class="toclink" href="#blur">Blur:</a><a class="headerlink" href="#blur" title="Permanent link">&para;</a></h3>
+<p>The <strong>Blur</strong> submenu is made up of six blurring options: fragment, gaussian, motion, radial, unfocus, and zoom. These can be applied to the whole image or a selected area.</p>
+<h4 id="fragment"><a class="toclink" href="#fragment">Fragment</a><a class="headerlink" href="#fragment" title="Permanent link">&para;</a></h4>
+<p><img alt="kfcfragmentblur" src="../img/kfcfragmentblur.PNG" /></p>
+<p>The <strong>Fragment Blur</strong> effect superimposes copies or “fragments” of the image or selected area. copies or "fragments" of the image are superimposed over the original. This blur can be useful when creating an unfocussed multi-viewed version of an image. The effect is not unlike modern interpretations of insect-like vision and could be used to fake "drunken" or "semi-conscious" vision. A dialogue box populates with three sliders for fragments, distance, and rotation.</p>
+<p><img alt="fragmentblurbox" src="../img/fragmentblurbox.PNG" /></p>
+<p>The <strong>Fragments</strong> slider controls how many fragments appear. A higher value yields more fragments.</p>
+<pre><code> -      Drag slider to the right to increase number of fragments
+ -      Drag slider to the left to decrease number of fragments
+</code></pre>
+<p>The <strong>Distance</strong> slider controls how close or far fragments appear from one another. A higher value yields more distance between fragments.</p>
+<pre><code> -      Drag slider to the right to increase distance
+ -      Drag slider to the left to decrease distance
+</code></pre>
+<p>The <strong>Rotation</strong> circle slider controls the angle at which the fragments sit. It can be rotated 360 degrees. </p>
+<h4 id="gaussian"><a class="toclink" href="#gaussian">Gaussian</a><a class="headerlink" href="#gaussian" title="Permanent link">&para;</a></h4>
+<p><img alt="kfcgaussianblur" src="../img/kfcgaussianblur.PNG" /></p>
+<p>The <strong>Gaussian Blur</strong> effect applies a defocusing blur to the image or selected area. A dialogue box populates with one slider for radius.</p>
+<p><img alt="gaussianblurbox" src="../img/gaussianblurbox.PNG" /></p>
+<p>The <strong>Radius</strong> slider controls how widely and how strongly the blur is applied. A higher value yields a stronger effect.</p>
+<pre><code> -      Drag slider to the right to increase blur strength
+ -      Drag slider to the left to decrease blur strength
+</code></pre>
+<h4 id="motion"><a class="toclink" href="#motion">Motion</a><a class="headerlink" href="#motion" title="Permanent link">&para;</a></h4>
+<p><img alt="kfcmotionblur" src="../img/kfcmotionblur.PNG" /></p>
+<p>The <strong>Motion Blur</strong> effect creates the illusion of motion in an image or selected area. A dialogue box populates with two sliders, for angle and distance.</p>
+<p><img alt="motionblurbox" src="../img/motionblurbox.PNG" /></p>
+<p>The <strong>Angle</strong> circle slider controls the angle at which the motion blur appears It can be rotated 360 degrees.</p>
+<p>The <strong>Distance</strong> slider controls the width of the blur, how far the effect shifts the original pixels. A higher value yields a wider effect.</p>
+<pre><code> -      Drag slider to the right to increase motion blur effect
+ -      Drag slider to the left to decrease motion blur effect.
+</code></pre>
+<h4 id="radial"><a class="toclink" href="#radial">Radial</a><a class="headerlink" href="#radial" title="Permanent link">&para;</a></h4>
+<p><img alt="kfcradialblur" src="../img/kfcradialblur.PNG" /></p>
+<p>The <strong>Radial Blur</strong> effect is like the motion blur, but rather than following a linear path, it follows a circular one. A dialogue box populates with configurable options for angle, offset, and quality. </p>
+<p><img alt="radialblurbox" src="../img/radialblurbox.PNG" /></p>
+<p>The <strong>Angle</strong> circle slider controls the angle at which the blur appears It can be rotated 360 degrees.</p>
+<p>The <strong>Center</strong> option box is used to configure where the effect will be interpreted from, setting the focus or center of the blur. </p>
+<p>The <strong>Quality</strong> slider is used to define the quality of the blur. A higher value yields higher quality. It is recommended to use low quality for previews, small images, and small angles. High quality should be used for final quality, large images, and large angles. </p>
+<pre><code> -      Drag slider to the right to increase quality
+ -      Drag slider to the left to decrease quality
+</code></pre>
+<h4 id="unfocus"><a class="toclink" href="#unfocus">Unfocus</a><a class="headerlink" href="#unfocus" title="Permanent link">&para;</a></h4>
+<p><img alt="kfcunfocusblur" src="../img/kfcunfocusblur.PNG" /></p>
+<p>The <strong>Unfocus Blur</strong> effect is like the Gaussian blur but yields a more dreamy or unfocused look to the image or selected area. A dialogue box populates with a slider for radius.</p>
+<p><img alt="unfocusblurbox" src="../img/unfocusblurbox.PNG" /></p>
+<p>The <strong>Radius</strong> slider controls the strength of the effect. A higher value yields a stronger blur effect. </p>
+<pre><code> -      Drag slider to the right to increase blur strength
+ -      Drag slider to the left to decrease blur strength
+</code></pre>
+<h4 id="zoom"><a class="toclink" href="#zoom">Zoom</a><a class="headerlink" href="#zoom" title="Permanent link">&para;</a></h4>
+<p><img alt="kfczoomblur" src="../img/kfczoomblur.PNG" /></p>
+<p>The <strong>Zoom Blur</strong> effect is used to give the appearance of motion towards the focal point of an image, as if the viewer were closing in on the focal point. It is like the Motion blur but applied outwards from a central point. A dialogue box populated with two configurable options, amount and offset.</p>
+<p><img alt="zoomblurbox" src="../img/zoomblurbox.PNG" /></p>
+<p>The <strong>Amount</strong> slider controls how strong the blur appears. A higher value yields a stronger effect. </p>
+<pre><code> -      Drag slider to the right to increase blur strength
+ -      Drag slider to the left to decrease blur strength
+</code></pre>
+<p>The <strong>Offset</strong> option box is used to configure where the effect will be interpreted from, setting the focus or center of the blur. </p>
 <h3 id="distort"><a class="toclink" href="#distort">Distort:</a><a class="headerlink" href="#distort" title="Permanent link">&para;</a></h3>
 <h3 id="artistic-medium"><a class="toclink" href="#artistic-medium">Artistic Medium:</a><a class="headerlink" href="#artistic-medium" title="Permanent link">&para;</a></h3>
 <p>The <strong>Artistic Medium</strong> submenu is made up of Ink Sketch, Oil Painting, and Pencil Sketch, all mimicking traditional artistic mediums. </p>
 <h5 id="ink-sketch"><a class="toclink" href="#ink-sketch">Ink Sketch</a><a class="headerlink" href="#ink-sketch" title="Permanent link">&para;</a></h5>
-<p>The <strong>Ink Sketch</strong> effect makes the image appear as if it were drawn using a pen. A dialogue box populates with two sliders, ink outline and coloring.
-The <strong>Ink Outline</strong> slider controls the weight of the outline or edging. </p>
+<p><img alt="inksketch" src="../img/kfcinksketch.PNG" /></p>
+<p>The <strong>Ink Sketch</strong> effect makes the image appear as if it were drawn using a pen. A dialogue box populates with two sliders, ink outline and coloring.</p>
+<p><img alt="inksketchbox" src="../img/inksketchbox.PNG" /></p>
+<p>The <strong>Ink Outline</strong> slider controls the weight of the outline or edging. </p>
 <pre><code> -      Drag slider to the right to increase outline strength
  -      Drag slider to the left to decrease outline strength
 </code></pre>
@@ -290,8 +368,10 @@ The <strong>Ink Outline</strong> slider controls the weight of the outline or ed
  -      Drag slider to the left to decrease color
 </code></pre>
 <h5 id="oil-painting"><a class="toclink" href="#oil-painting">Oil Painting</a><a class="headerlink" href="#oil-painting" title="Permanent link">&para;</a></h5>
+<p><img alt="kfcoilpainting" src="../img/kfcoilpainting.PNG" /></p>
 <p>The <strong>Oil Painting</strong> effect makes the image appears as if it were painted with oil paints. A dialogue box populates with two sliders,
 brush size and coarseness. </p>
+<p><img alt="oilpaintingbox" src="../img/oilpaintingbox.PNG" /></p>
 <p>The <strong>Brush Size</strong> slider controls the size of the paintbrush tip, larger values yield larger strokes and smaller values yield finer strokes.</p>
 <pre><code> -      Drag slider to the right to increase brush size
  -    Drag slider to the left to decrease brush size
@@ -301,7 +381,9 @@ brush size and coarseness. </p>
  -      Drag slider to the left to decrease detail
 </code></pre>
 <h5 id="pencil-sketch"><a class="toclink" href="#pencil-sketch">Pencil Sketch</a><a class="headerlink" href="#pencil-sketch" title="Permanent link">&para;</a></h5>
+<p><img alt="kfcpencilsketch" src="../img/kfcpencilsketch.PNG" /></p>
 <p>The <strong>Pencil Sketch</strong> effect makes the image appear as though it were sketched with a pencil. A dialogue box populates with two sliders, pencil tip and range.</p>
+<p><img alt="pencilsketchbox" src="../img/pencilsketchbox.PNG" /></p>
 <p>The <strong>Pencil Tip</strong> slider controls the sharpness of the virtual pencil. A larger value yields a blunter tip, making lines thicker and heavier. A smaller value yields a sharper tip, making lines finer, and the image appear lighter. </p>
 <pre><code> -      Drag slider to the right to increase line thickness
  -      Drag slider to the left to decrease line thickness
@@ -310,7 +392,9 @@ brush size and coarseness. </p>
 <h3 id="render"><a class="toclink" href="#render">Render:</a><a class="headerlink" href="#render" title="Permanent link">&para;</a></h3>
 <p>The <strong>Render</strong> submenu is made up of Clouds, Julia Fractal, and Mandelbrot Fractal, these three effects create completely new renderings, replacing all color information in the active layer or selection. </p>
 <h5 id="clouds"><a class="toclink" href="#clouds">Clouds</a><a class="headerlink" href="#clouds" title="Permanent link">&para;</a></h5>
+<p><img alt="cloudrender" src="../img/cloudrender.PNG" /></p>
 <p>The <strong>Clouds</strong> effect renders a randomized cloud pattern to the layer or desired selection. A dialogue box with two sliders, for scale and power, and a dropdown selection for blend mode will populate.</p>
+<p><img alt="cloudbox" src="../img/cloudbox.PNG" /></p>
 <p>The <strong>Scale</strong> slider controls the size of clouds. Higher values yield larger clouds and lower values yield finer clouds. </p>
 <pre><code> -   Drag slider to the right to increase cloud size
  -   Drag slider to the left to decrease cloud size
@@ -389,7 +473,9 @@ brush size and coarseness. </p>
 <p>The <strong>Reseed</strong> button randomizes the cloud pattern. </p>
 <p>The <strong>Coloring</strong> of the rendered clouds depends on the two colors selected in the color palette. To render clouds as a single color, lower the secondary color’s opacity to 0 in the color selection menu. </p>
 <h4 id="julia-fractal"><a class="toclink" href="#julia-fractal">Julia Fractal</a><a class="headerlink" href="#julia-fractal" title="Permanent link">&para;</a></h4>
-<p>The <strong>Julia Fractal</strong> effect renders a Julia Fractal on the layer or desired selection. A dialogue box with four sliders, for factor, quality, zoom, and angle will populate. The colors of this fractal are not configurable. </p>
+<p><img alt="juliafractalrender" src="../img/juliafractalrender.PNG" /></p>
+<p>The <strong>Julia Fractal</strong> effect renders a Julia Fractal on the layer or desired selection. A dialogue box with four sliders, for factor, quality, zoom, and angle will populate. The colors of this fractal are not configurable.</p>
+<p><img alt="juliafractalbox" src="../img/juliafractalbox.PNG" /></p>
 <p>The <strong>Factor</strong> slider controls the color saturation. Higher values yield more vivid colors and lower values yield duller colors, with 1 rendering a greyscale fractal. </p>
 <pre><code> -      Drag slider to the right to increase saturation
  -      Drag slider to the left to decrease saturation
@@ -399,12 +485,14 @@ brush size and coarseness. </p>
  -      Drag slider to the left to decrease fractal detail
 </code></pre>
 <p>The <strong>Zoom</strong> slider controls the scale, allowing you to zoom in or out. </p>
-<pre><code> -      Drag slider to the right to zoom in
+<pre><code> -  Drag slider to the right to zoom in
  -  Drag slider to the left to zoom out
 </code></pre>
 <p>The <strong>Angle</strong> circle slider controls the angle at which the fractal sits. It can be rotated 360 degrees. </p>
 <h4 id="mandelbrot-fractal"><a class="toclink" href="#mandelbrot-fractal">Mandelbrot Fractal</a><a class="headerlink" href="#mandelbrot-fractal" title="Permanent link">&para;</a></h4>
+<p><img alt="mandelbrotfractalrender" src="../img/mandelbrotfractalrender.PNG" /></p>
 <p>The <strong>Mandelbrot Fractal</strong> effect renders a Mandelbrot Fractal on the layer or desired selection. A dialogue box with four sliders, for factor, quality, zoom, and angle will populate. </p>
+<p><img alt="mandebrotfractalbox" src="../img/mandelbrotfractalbox.PNG" /></p>
 <p>The colors of this fractal are not configurable but can be inverted. Checking the ☑ Invert Colors checkbox has the same effect as applying <strong>Adjustments &gt; Invert Colors.</strong> </p>
 <p>The <strong>Factor</strong> slider controls the color saturation. Higher values yield more vivid colors and lower values yield duller colors, with 1 rendering a greyscale fractal. </p>
 <pre><code> -      Drag slider to the right to increase saturation
