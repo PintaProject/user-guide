@@ -56,5 +56,4 @@ markdown_extensions:
   - toc:
         permalink: True
         anchorlink: True
-     
 
