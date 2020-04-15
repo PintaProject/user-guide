@@ -1,5 +1,7 @@
 ## Glossary ##
 
+###### _Disclaimer: Some definitions take from getpaint.net_ ######
+
 **Active layer**
 The layer which has the editing focus. It is highlighted in the Layers Window.
 
