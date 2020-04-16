@@ -69,11 +69,9 @@
                 </ul>
                 <p class="caption"><span class="caption-text">Image Layers</span></p>
                 <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../layers/">Creating Layers</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../layers/">Creating & Removing Layers</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../edit/">Edit Layers</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../remove_layers/">Remove Layers</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../edit/">Edit Layer Properties</a>
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Selecting Objects</span></p>
@@ -93,13 +91,19 @@
                 </ul>
                 <p class="caption"><span class="caption-text">Coloring</span></p>
                 <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../coloringoverview/">Coloring Overview</a>
+                    </li>
                     <li class="toctree-l1"><a class="reference internal" href="../coloring/">Customize Color</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../palette/">Creating Palette</a>
                     </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../coloringarea/">Coloring Areas</a>
+                    </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Illustrating</span></p>
                 <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../illustratingoverview/">Illustrating Overview</a>
+                    </li>
                     <li class="toctree-l1"><a class="reference internal" href="../choose/">Choose Pencil and Brush</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../objects/">Creating Simple Objects</a>
@@ -111,13 +115,15 @@
                 </ul>
                 <p class="caption"><span class="caption-text">Image Transformations</span></p>
                 <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../transformoverview/">Image Transformations Overview</a>
+                    </li>
                     <li class="toctree-l1"><a class="reference internal" href="../rotate/">Rotate</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../flip/">Flip</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../resize/">Resize</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../crop/">Crop and Straighten</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../crop/">Crop</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../adjust/">Adjust Canvas Size</a>
                     </li>
@@ -127,6 +133,20 @@
                 <p class="caption"><span class="caption-text">Image Enhancements</span></p>
                 <ul class="current">
                     <li class="toctree-l1 current"><a class="reference internal current" href="./">Improving Colors</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#auto-level">Auto level:</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#manual-level">Manual level:</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#levels">Levels</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#brightnesscontrast">Brightness/contrast</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#huesaturation">Hue/Saturation</a>
+    </li>
+        </ul>
+    </li>
+    </ul>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../effects/">Image Effects</a>
                     </li>
@@ -156,8 +176,6 @@
                     <li class="toctree-l1"><a class="reference internal" href="../shortcuts/">Shortcuts</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../glossary/">Glossary</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../test/">Test</a>
                     </li>
                 </ul>
       </div>
@@ -196,7 +214,56 @@
           <div role="main">
             <div class="section">
               
-                
+                <h2 id="improving-colors"><a class="toclink" href="#improving-colors">Improving Colors</a><a class="headerlink" href="#improving-colors" title="Permanent link">&para;</a></h2>
+<p>Pinta has to options to improve color levels in an image. Poor exposure, bad lighting, and various other elements can render a perfectly good photo unusable. You can use the auto level adjustment or manually adjust the image yourself to make your pictures pretty again</p>
+<p>All of the color adjustment options can be found in the adjustment menu:</p>
+<p><img alt="adjustmentmenu" src="../img/overview/adjustments.png" /></p>
+<p>We will be using this photo to demonstrate the different color adjustments.</p>
+<p><img alt="kfcoriginal" src="../img/kfcoriginal.PNG" /></p>
+<h3 id="auto-level"><a class="toclink" href="#auto-level">Auto level:</a><a class="headerlink" href="#auto-level" title="Permanent link">&para;</a></h3>
+<p>The Auto-Level feature equalizes the range of colors in an image. This adjustment is used to normalize the color range of under exposed (dark) or over exposed (bright) images. It doesn’t have any configurable options, if you want to further adjust the tonal range, consider doing it manually using the levels tool. </p>
+<p><img alt="kfcautoadjust" src="../img/kfcautoadjust.PNG" /></p>
+<h3 id="manual-level"><a class="toclink" href="#manual-level">Manual level:</a><a class="headerlink" href="#manual-level" title="Permanent link">&para;</a></h3>
+<p>If you aren’t satisfied with the results of the auto level adjustment, you can manually adjust levels, brightness and contrast, and hue and saturation. </p>
+<h4 id="levels"><a class="toclink" href="#levels">Levels</a><a class="headerlink" href="#levels" title="Permanent link">&para;</a></h4>
+<p>Levels refers to the color or tonal range of an image. Using level adjustments, users can adjust brightness, contrast, the range of tones within an image. 
+This adjustment is used to alter the color range of the image, including gamma adjustments, on a channel-by-channel basis.
+The most common adjustments made using Levels include changing a picture's input and output white point, black point, and grey point.</p>
+<ul>
+<li>The white point of an image is the brightest color that appears in the image. </li>
+<li>The black point is the darkest color that appears in the image.</li>
+<li>The grey point represents the average color across the entire image and is only found on the right-hand side (Output) of the dialog.</li>
+</ul>
+<p>Each of these color points of an image may be adjusted independently using Levels.</p>
+<p><img alt="levelsbox" src="../img/levelsbox.PNG" /></p>
+<h4 id="brightnesscontrast"><a class="toclink" href="#brightnesscontrast">Brightness/contrast</a><a class="headerlink" href="#brightnesscontrast" title="Permanent link">&para;</a></h4>
+<p><img alt="bcbox" src="../img/bcbox.PNG" /></p>
+<p>A dialogue box with two sliders appears with one option for brightness and a second option for contrast. 
+The <strong>Brightness</strong> control is used to make an image lighter or darker. </p>
+<ul>
+<li>Drag slider to the right to increase brightness</li>
+<li>Drag slider to the left to decrease brightness</li>
+</ul>
+<p>The <strong>Contrast</strong> control is used or to make an image more vivid or dull, it’s the difference between dark colors and light colors. Low contrast images have very muted tones or colors, whereas high contrast images have vibrant tones. </p>
+<ul>
+<li>Drag slider to the right to increase contrast</li>
+<li>Drag slider to the left to decrease contrast</li>
+</ul>
+<h4 id="huesaturation"><a class="toclink" href="#huesaturation">Hue/Saturation</a><a class="headerlink" href="#huesaturation" title="Permanent link">&para;</a></h4>
+<p><img alt="hsbox" src="../img/hsbox.PNG" /></p>
+<p>A dialogue box with three sliders populates with one option for hue, a second option for saturation, and a third option for lightness.</p>
+<p>The <strong>Hue</strong> slider is used as a tool to correct color. The Hue slider rotates the colors used in an image as if they were on a color wheel, allowing the current palette to be cycled around. The Hue slider will only affect the colored parts of an image, it does not affect anything in black and white.</p>
+<p>The <strong>Saturation</strong> slider is used to control the vibrancy of color tones in an image. The slider rests at an initial value of 100, if dragged above 100, the image becomes more vibrant, if dragged below 100, the image becomes less vibrant and dull. </p>
+<ul>
+<li>Drag slider to the right to increase vibrancy</li>
+<li>Drag slider to the left to decrease vibrancy</li>
+</ul>
+<p>The <strong>Lightness</strong> slider is very similar to the <strong>Brightness</strong> adjustment, it is used to alter the exposure of an image. The slider rests at an initial value of 0, if dragged above 0 the image becomes brighter, if dragged below 0, the image looks dimmer.</p>
+<ul>
+<li>Drag slider to the right to increase lightness</li>
+<li>Drag slider to the left to decrease lightness</li>
+</ul>
+<p>The green arrow can be used to reset each slider to its original value. </p>
               
             </div>
           </div>

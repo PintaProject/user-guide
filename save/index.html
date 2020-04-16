@@ -69,11 +69,9 @@
                 </ul>
                 <p class="caption"><span class="caption-text">Image Layers</span></p>
                 <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../layers/">Creating Layers</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../layers/">Creating & Removing Layers</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../edit/">Edit Layers</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../remove_layers/">Remove Layers</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../edit/">Edit Layer Properties</a>
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Selecting Objects</span></p>
@@ -93,13 +91,19 @@
                 </ul>
                 <p class="caption"><span class="caption-text">Coloring</span></p>
                 <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../coloringoverview/">Coloring Overview</a>
+                    </li>
                     <li class="toctree-l1"><a class="reference internal" href="../coloring/">Customize Color</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../palette/">Creating Palette</a>
                     </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../coloringarea/">Coloring Areas</a>
+                    </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Illustrating</span></p>
                 <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../illustratingoverview/">Illustrating Overview</a>
+                    </li>
                     <li class="toctree-l1"><a class="reference internal" href="../choose/">Choose Pencil and Brush</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../objects/">Creating Simple Objects</a>
@@ -111,13 +115,15 @@
                 </ul>
                 <p class="caption"><span class="caption-text">Image Transformations</span></p>
                 <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../transformoverview/">Image Transformations Overview</a>
+                    </li>
                     <li class="toctree-l1"><a class="reference internal" href="../rotate/">Rotate</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../flip/">Flip</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../resize/">Resize</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../crop/">Crop and Straighten</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../crop/">Crop</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../adjust/">Adjust Canvas Size</a>
                     </li>
@@ -147,6 +153,16 @@
                 <p class="caption"><span class="caption-text">Exporting Project</span></p>
                 <ul class="current">
                     <li class="toctree-l1 current"><a class="reference internal current" href="./">Save Project</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#save-vs-save-as">Save vs Save As:</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#exporting-your-project">Exporting your project</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#extension-uses-taken-from-httpsfileinfocom">Extension uses taken from https://fileinfo.com/</a>
+    </li>
+        </ul>
+    </li>
+    </ul>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../print/">Print Project</a>
                     </li>
@@ -156,8 +172,6 @@
                     <li class="toctree-l1"><a class="reference internal" href="../shortcuts/">Shortcuts</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../glossary/">Glossary</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../test/">Test</a>
                     </li>
                 </ul>
       </div>
@@ -196,7 +210,78 @@
           <div role="main">
             <div class="section">
               
-                <p>How to save project</p>
+                <h2 id="save-project"><a class="toclink" href="#save-project">Save Project</a><a class="headerlink" href="#save-project" title="Permanent link">&para;</a></h2>
+<h3 id="save-vs-save-as"><a class="toclink" href="#save-vs-save-as">Save vs Save As:</a><a class="headerlink" href="#save-vs-save-as" title="Permanent link">&para;</a></h3>
+<p>Pinta has two save options a quick save and a save as function.</p>
+<p>To <strong>Quick Save</strong> you can use the <strong>CTRL+S</strong> shortcut or go into <strong>File&gt;Save</strong> All images are automatically saved as JPEGs. A dialogue box will populate with a slider for JPEG Quality, with one being the lowest possible quality and 100 being the highest possible quality.</p>
+<p><img alt="jpegquality" src="../img/jpegquality.PNG" /></p>
+<ul>
+<li>Drag slider to the right to increase JPEG quality</li>
+<li>Drag slider to the left to decrease JPEG quality</li>
+</ul>
+<p>For the more advanced <strong>Save As</strong> function, you can use the <strong>CTRL+SHIFT+S</strong> shortcut or go into <strong>File&gt;Save As</strong> An advanced dialogue box will populate where you can edit the following options:</p>
+<p><img alt="saveas" src="../img/saveas.PNG" /></p>
+<ul>
+<li>Name of image file</li>
+<li>Location/path of image file</li>
+<li>Type of file</li>
+</ul>
+<p>Once you hit save, a second dialogue box will populate with a slider for JPEG Quality, with one being the lowest possible quality and 100 being the highest possible quality. </p>
+<p><img alt="jpegquality" src="../img/jpegquality.PNG" /></p>
+<ul>
+<li>Drag slider to the right to increase JPEG quality</li>
+<li>Drag slider to the left to decrease JPEG quality</li>
+</ul>
+<h3 id="exporting-your-project"><a class="toclink" href="#exporting-your-project">Exporting your project</a><a class="headerlink" href="#exporting-your-project" title="Permanent link">&para;</a></h3>
+<p>Pinta allows you to export your project in a number of different formats:</p>
+<table>
+<thead>
+<tr>
+<th align="center">Format</th>
+<th align="center">Extension</th>
+<th align="left">Use</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><strong>PNG Image</strong></td>
+<td align="center">.png .PNG</td>
+<td align="left">lossless compression file format, good choice for storing line drawings, text, and iconic graphics at a small file size.</td>
+</tr>
+<tr>
+<td align="center"><strong>BMP Image</strong></td>
+<td align="center">.bmp .BMP</td>
+<td align="left">an uncompressed raster image comprised of a rectangular grid of pixels, containing a file header (bitmap identifier, file size, width, height, color options, and bitmap data starting point) and bitmap pixels, each with a different color.</td>
+</tr>
+<tr>
+<td align="center"><strong>ICO Image</strong></td>
+<td align="center">.ico .ICO</td>
+<td align="left">contains an icon, which is typically used for a Windows program, file, or folder. It stores one or more images in various sizes so they can be appropriately scaled depending on their use.</td>
+</tr>
+<tr>
+<td align="center"><strong>JPEG Image</strong></td>
+<td align="center">.jpg .jpeg .JPG .JPEG</td>
+<td align="left">lossy compressed file format, useful for storing photographs at a smaller size than a BMP. Common choice for use on the Web because it is compressed.</td>
+</tr>
+<tr>
+<td align="center"><strong>TIFF Image</strong></td>
+<td align="center">.tif .tiff .TIF .TIFF</td>
+<td align="left">lossless compression file format, often used for storing images with many colors, typically digital photos, and includes support for layers and multiple pages.</td>
+</tr>
+<tr>
+<td align="center"><strong>TGA Image</strong></td>
+<td align="center">.tga .TGA</td>
+<td align="left">a file saved in the raster graphic format designed by Truevision. It supports 8, 16, 24, or 32 bits per pixel at a maximum of 24 bits for RGB colors and 8-bit alpha channel. Used for various types of images, such as digital photos and textures referenced by 3D video games.</td>
+</tr>
+<tr>
+<td align="center"><strong>OpenRaster Image</strong></td>
+<td align="center">.ora .ORA</td>
+<td align="left">a file saved in the OpenRaster format, and open raster graphics format that supports multiple layers; supports multiple layers and contains both image data and metadata, including XMP and EXIF tags.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h6 id="extension-uses-taken-from-httpsfileinfocom"><a class="toclink" href="#extension-uses-taken-from-httpsfileinfocom">Extension uses taken from https://fileinfo.com/</a><a class="headerlink" href="#extension-uses-taken-from-httpsfileinfocom" title="Permanent link">&para;</a></h6>
               
             </div>
           </div>

@@ -69,11 +69,9 @@
                 </ul>
                 <p class="caption"><span class="caption-text">Image Layers</span></p>
                 <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../layers/">Creating Layers</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../layers/">Creating & Removing Layers</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../edit/">Edit Layers</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../remove_layers/">Remove Layers</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../edit/">Edit Layer Properties</a>
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Selecting Objects</span></p>
@@ -93,13 +91,19 @@
                 </ul>
                 <p class="caption"><span class="caption-text">Coloring</span></p>
                 <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../coloringoverview/">Coloring Overview</a>
+                    </li>
                     <li class="toctree-l1"><a class="reference internal" href="../coloring/">Customize Color</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../palette/">Creating Palette</a>
                     </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../coloringarea/">Coloring Areas</a>
+                    </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Illustrating</span></p>
                 <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../illustratingoverview/">Illustrating Overview</a>
+                    </li>
                     <li class="toctree-l1"><a class="reference internal" href="../choose/">Choose Pencil and Brush</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../objects/">Creating Simple Objects</a>
@@ -111,13 +115,15 @@
                 </ul>
                 <p class="caption"><span class="caption-text">Image Transformations</span></p>
                 <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../transformoverview/">Image Transformations Overview</a>
+                    </li>
                     <li class="toctree-l1"><a class="reference internal" href="../rotate/">Rotate</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../flip/">Flip</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../resize/">Resize</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../crop/">Crop and Straighten</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../crop/">Crop</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../adjust/">Adjust Canvas Size</a>
                     </li>
@@ -140,6 +146,8 @@
                     <li class="toctree-l1"><a class="reference internal" href="../noise/">Noise Reduction</a>
                     </li>
                     <li class="toctree-l1 current"><a class="reference internal current" href="./">Remove Objects from Photos</a>
+    <ul class="current">
+    </ul>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../clone/">Clone Stamp Tool</a>
                     </li>
@@ -156,8 +164,6 @@
                     <li class="toctree-l1"><a class="reference internal" href="../shortcuts/">Shortcuts</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../glossary/">Glossary</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../test/">Test</a>
                     </li>
                 </ul>
       </div>
@@ -196,7 +202,24 @@
           <div role="main">
             <div class="section">
               
-                
+                <h2 id="remove-objects-from-photo"><a class="toclink" href="#remove-objects-from-photo">Remove objects from photo</a><a class="headerlink" href="#remove-objects-from-photo" title="Permanent link">&para;</a></h2>
+<p>The <a href="../clone/"><strong>Clone Stamp</strong></a> tool can be used to remove objects from a photo. Simply set the sample point to something next to the object and using the clone stamp brush, paint over the desired object to mask it. </p>
+<ul>
+<li>Holding down CTRL, click desired part of image to set sample point</li>
+<li>Click and drag, as you would with the paintbrush tool, to paint with the cloned sample point</li>
+<li>You can adjust the size of the clone stamp brush using the brush width drop down</li>
+<li>You can turn anti-aliasing on or off depending on desired outcome, when turned on the painted edges are smooth, when off the edges appear more jagged.</li>
+</ul>
+<p>We will use this photo of KFC as an example.</p>
+<p><img alt="kfcoriginal" src="../img/kfcoriginal.PNG" /></p>
+<p>By selecting (CTRL + Click) my sample first as the brick wall, I am able to begin to cover up the bottom of the KFC bucket.</p>
+<p><img alt="bottombucketremove" src="../img/bottombucketremove.PNG" /></p>
+<p>Next, I set my sample to the sky and begin to paint over the top of the bucket. </p>
+<p><img alt="bucketremove" src="../img/bucketremove.PNG" /></p>
+<p>Finally, the bucket is gone! But the wire is missing a large chunk.</p>
+<p><img alt="bucketremovenowire" src="../img/bucketremovenowire.PNG" /></p>
+<p>I connect the wire using the <a href="../objects/">line</a> tool. Now it looks like there was never a bucket to begin with!</p>
+<p><img alt="bucketremovefinal" src="../img/bucketremovefinal.PNG" /></p>
               
             </div>
           </div>

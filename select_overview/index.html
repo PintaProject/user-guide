@@ -69,17 +69,19 @@
                 </ul>
                 <p class="caption"><span class="caption-text">Image Layers</span></p>
                 <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../layers/">Creating Layers</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../layers/">Creating & Removing Layers</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../edit/">Edit Layers</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../remove_layers/">Remove Layers</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../edit/">Edit Layer Properties</a>
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Selecting Objects</span></p>
                 <ul class="current">
                     <li class="toctree-l1 current"><a class="reference internal current" href="./">Select Objects Overview</a>
     <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#selection-tools">Selection Tools</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#select-all-options">Select All Options</a>
+    </li>
     </ul>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../wand/">Magic Wand</a>
@@ -95,13 +97,19 @@
                 </ul>
                 <p class="caption"><span class="caption-text">Coloring</span></p>
                 <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../coloringoverview/">Coloring Overview</a>
+                    </li>
                     <li class="toctree-l1"><a class="reference internal" href="../coloring/">Customize Color</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../palette/">Creating Palette</a>
                     </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../coloringarea/">Coloring Areas</a>
+                    </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Illustrating</span></p>
                 <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../illustratingoverview/">Illustrating Overview</a>
+                    </li>
                     <li class="toctree-l1"><a class="reference internal" href="../choose/">Choose Pencil and Brush</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../objects/">Creating Simple Objects</a>
@@ -113,13 +121,15 @@
                 </ul>
                 <p class="caption"><span class="caption-text">Image Transformations</span></p>
                 <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../transformoverview/">Image Transformations Overview</a>
+                    </li>
                     <li class="toctree-l1"><a class="reference internal" href="../rotate/">Rotate</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../flip/">Flip</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../resize/">Resize</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../crop/">Crop and Straighten</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../crop/">Crop</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../adjust/">Adjust Canvas Size</a>
                     </li>
@@ -159,8 +169,6 @@
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../glossary/">Glossary</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../test/">Test</a>
-                    </li>
                 </ul>
       </div>
     </div>
@@ -198,16 +206,37 @@
           <div role="main">
             <div class="section">
               
-                <h1 id="selection-tools-overview"><a class="toclink" href="#selection-tools-overview">Selection Tools Overview</a><a class="headerlink" href="#selection-tools-overview" title="Permanent link">&para;</a></h1>
-<p>Using a <em>Selection Tool</em> you can isolate a specific area and make modifications to one or more objects within an image. You can then edit and apply effects to the selected portion of the image while leaving the unselected areas unchanged. </p>
-<p>Pinta provides the following <em>Selection Tools</em>:</p>
+                <h1 id="select-objects-overview"><a class="toclink" href="#select-objects-overview">Select Objects Overview</a><a class="headerlink" href="#select-objects-overview" title="Permanent link">&para;</a></h1>
+<p>Pinta provides a number of <strong>Selection Tools</strong> and <strong>Select All Options</strong> to select images.</p>
+<h2 id="selection-tools"><a class="toclink" href="#selection-tools">Selection Tools</a><a class="headerlink" href="#selection-tools" title="Permanent link">&para;</a></h2>
+<p>Using a selection <em>Tool</em> you can isolate a specific area and make modifications to one or more objects within an image. You can then edit and apply effects to the selected portion of the image while leaving the unselected areas unchanged. </p>
+<p>Pinta provides the following selection <em>Tools</em>:</p>
 <ul>
-<li><a href="../wand/"><strong>Magic Wand</strong></a>: Use to select a colored area or similar colored areas (for example, the blue portion of an image) without having to trace an outline. You can specify the selected color range (tolerance), relative to the original color you click.</li>
-<li><a href="../lasso/"><strong>Lasso</strong></a>:  Use to select a freeform border shaped portion of an image.</li>
-<li><a href="../ellipse/"><strong>Ellipse</strong></a>:  Use to select an ellipse portion of an image.</li>
-<li><a href="../rectangle/"><strong>Rectangle</strong></a>: Use to select a rectangular portion of an image.</li>
-<li><a href="../select_location/"><strong>Move Selection</strong></a>: Use to change the selected outline location (position and orientation) that is created from one of the above selection tools.</li>
+<li><a href="../wand/"><strong>Magic Wand</strong></a> <img alt="wand" src="../img/wandpic.png" />: Use to select a colored area or similar colored areas (for example, the blue portion of an image) without having to trace an outline. You can specify the selected color range (tolerance), relative to the original color you click.</li>
+<li><a href="../lasso/"><strong>Lasso</strong></a> <img alt="lasso" src="../img/lasso.png" />:  Use to select a freeform border shaped portion of an image.</li>
+<li><a href="../ellipse/"><strong>Ellipse</strong></a> <img alt="ellipse" src="../img/ellipse.png" />:  Use to select an ellipse portion of an image.</li>
+<li><a href="../rectangle/"><strong>Rectangle</strong></a> <img alt="rectangle" src="../img/rectangleselect.png" />: Use to select a rectangular portion of an image.</li>
+<li><a href="../select_location/"><strong>Move Selection</strong></a> <img alt="move" src="../img/moveselection.png" />: Use to change the selected outline location (position and orientation) that is created from one of the above selection tools.</li>
 </ul>
+<h2 id="select-all-options"><a class="toclink" href="#select-all-options">Select All Options</a><a class="headerlink" href="#select-all-options" title="Permanent link">&para;</a></h2>
+<p>In addition to the above selection tools, Pinta also provides the capability to perform a number selection tasks on all pixels on an active layer:</p>
+<ul>
+<li><strong>Select All</strong>: Selects an entire active layer</li>
+<li><strong>Deselect All</strong>: Deselects all pixels in the active window that were selected whether all the pixels were originally selected or just a particular portion of the image was selected. </li>
+<li><strong>Invert Selection</strong>: All the active pixels that are selected will be deselected and all the pixels that were not selected will become selected  </li>
+</ul>
+<p>To perform these selection options:</p>
+<ol>
+<li>
+<p>Go to <strong>Edit&gt;Select All</strong>, <strong>Edit&gt;Deselect All</strong> or <strong>Edit&gt;Invert Selection</strong>.  </p>
+<p><img alt="Select All Commands" src="../img/selectall.png" /></p>
+</li>
+</ol>
+<p>After using the  <strong>Select All</strong> a dotted line selection encompases the outter edge of the whole image. Now you can perform image transformations (such as <a href="../rotate/">rotate</a>, <a href="../flip/">flip</a>, <a href="../resize/">resize</a> and <a href="../crop/">crop</a>) to all parts of the image at the same time or <a href="../remove_items/">remove all items</a>.</p>
+<p>If <strong>Deselect All</strong> is selected all pixels are deselected and all the dotted line selections will no longer appear on the image. </p>
+<p>If you originally had selected a rectangle portion of the image and you select <strong>Invert Selection</strong> everything except the rectangle portion would be selected as can be seen in the example below.   </p>
+<p><img alt="Before invert" src="../img/invertbefore.png" /></p>
+<p><img alt="After invert" src="../img/invertafter.png" /></p>
               
             </div>
           </div>
@@ -218,7 +247,7 @@
         <a href="../wand/" class="btn btn-neutral float-right" title="Magic Wand">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="../remove_layers/" class="btn btn-neutral" title="Remove Layers"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../edit/" class="btn btn-neutral" title="Edit Layer Properties"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -244,7 +273,7 @@
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
-        <span><a href="../remove_layers/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href="../edit/" style="color: #fcfcfc;">&laquo; Previous</a></span>
       
       
         <span style="margin-left: 15px"><a href="../wand/" style="color: #fcfcfc">Next &raquo;</a></span>

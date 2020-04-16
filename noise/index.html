@@ -69,11 +69,9 @@
                 </ul>
                 <p class="caption"><span class="caption-text">Image Layers</span></p>
                 <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../layers/">Creating Layers</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../layers/">Creating & Removing Layers</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../edit/">Edit Layers</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../remove_layers/">Remove Layers</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../edit/">Edit Layer Properties</a>
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Selecting Objects</span></p>
@@ -93,13 +91,19 @@
                 </ul>
                 <p class="caption"><span class="caption-text">Coloring</span></p>
                 <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../coloringoverview/">Coloring Overview</a>
+                    </li>
                     <li class="toctree-l1"><a class="reference internal" href="../coloring/">Customize Color</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../palette/">Creating Palette</a>
                     </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../coloringarea/">Coloring Areas</a>
+                    </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Illustrating</span></p>
                 <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../illustratingoverview/">Illustrating Overview</a>
+                    </li>
                     <li class="toctree-l1"><a class="reference internal" href="../choose/">Choose Pencil and Brush</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../objects/">Creating Simple Objects</a>
@@ -111,13 +115,15 @@
                 </ul>
                 <p class="caption"><span class="caption-text">Image Transformations</span></p>
                 <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../transformoverview/">Image Transformations Overview</a>
+                    </li>
                     <li class="toctree-l1"><a class="reference internal" href="../rotate/">Rotate</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../flip/">Flip</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../resize/">Resize</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../crop/">Crop and Straighten</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../crop/">Crop</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../adjust/">Adjust Canvas Size</a>
                     </li>
@@ -138,6 +144,8 @@
                     <li class="toctree-l1"><a class="reference internal" href="../redeye/">Reduce Red-Eye</a>
                     </li>
                     <li class="toctree-l1 current"><a class="reference internal current" href="./">Noise Reduction</a>
+    <ul class="current">
+    </ul>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../remove_photos/">Remove Objects from Photos</a>
                     </li>
@@ -156,8 +164,6 @@
                     <li class="toctree-l1"><a class="reference internal" href="../shortcuts/">Shortcuts</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../glossary/">Glossary</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../test/">Test</a>
                     </li>
                 </ul>
       </div>
@@ -196,7 +202,25 @@
           <div role="main">
             <div class="section">
               
-                <p>How to Reduce Noise</p>
+                <h2 id="noise-reduction"><a class="toclink" href="#noise-reduction">Noise reduction</a><a class="headerlink" href="#noise-reduction" title="Permanent link">&para;</a></h2>
+<p>To access the noise reduction feature, go to <strong>Effects &gt; Noise &gt; Noise Reduction</strong></p>
+<p>Noise occurs in digital photographs naturally; it refers to the grainy veil in a photograph that can at times obscure details and make the picture look worse. It’s generally caused by the digital camera being unable to correctly capture details or the camera populates the noise itself, pixels not accurately representing the color or exposure. </p>
+<p>The <strong>Reduce Noise</strong> effect is used to diminish digital noise in photos. A dialogue box populates with two sliders, radius and strength.</p>
+<p><img alt="noisebox" src="../img/noisebox.PNG" /></p>
+<p>The <strong>Radius</strong> slider controls how much of the image will be sampled. The sample size refers to the number of pixels that will be compared to, to see whether the pixel in question is similar or noise. </p>
+<ul>
+<li>Drag slider to the right to increase sample size</li>
+<li>Drag slider to the left to decrease sample size</li>
+</ul>
+<p>The <strong>Strength</strong> slider controls the power of the effect. A larger value will yield a stronger effect, removing more noise. A smaller value will yield less power, removing less noise.</p>
+<ul>
+<li>Drag slider to the right to increase noise removal</li>
+<li>Drag slider to the left to decrease noise removal</li>
+</ul>
+<p>Using the reduce noise effect, we can transform this image:</p>
+<p><img alt="noise" src="../img/noise.PNG" /></p>
+<p>Into this:</p>
+<p><img alt="noiseafter" src="../img/noiseafter.PNG" /></p>
               
             </div>
           </div>

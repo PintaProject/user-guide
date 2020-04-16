@@ -20,7 +20,7 @@ After selecting a portion of the image using the [lasso](lasso.md), [rectangle](
  
     ![Rotate selected image](img/rotateselectedimage.png)  
 
-!!! Note 
-    The Right Mouse button always accesses rotation - regardless of the location of the cursor.
+    !!! Note 
+        The Right Mouse button always accesses rotation - regardless of the location of the cursor.
 
 4.  Release the mouse button when the selected outline is in the desired location and orientation. 
