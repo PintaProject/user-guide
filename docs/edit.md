@@ -51,6 +51,7 @@ The Blend Mode drop-down list offers 14 blend modes. We'll be using two images f
 
 Background:  
 ![background](img/layer/background.jpg)  
+
 Top Layer:  
 ![burger](img/layer/burger.png)
 
