@@ -12,13 +12,13 @@ The *Paint Bucket* ![paint bucket](img/color/paintbucket.png) tool can be used t
     
     &nbsp;      
 
-2.  Select from the paint bucket menu option displayed on the menu bar:
+2.  From the paint bucket menu options:
     -  **Flood Mode**: Select **Contiguous** and the 'fill' will continue to bleed outwards from the click point until neighboring pixels fail to satisfy the Tolerance setting. Otherwise select **Global** and the 'fill' will fill all the pixels in the layer which satisfy the Tolerance setting.
     -  **Tolerance**: Select the desired level of color tolerance (0-100). A low setting means that colors must be closely matched to the clicked point pixel location for them to be filled. Whereas a higher setting means that a high variance of pixels will be included in the fill operation.
     
     &nbsp;
 
-3.  Position the *paint bucket* cursor over the area to be filled and click with the Left mouse button to fill with the [Primary color](coloring.md).  Use the Right mouse button to fill the area with the [Secondary color](coloring.md).
+3.  Position the *paint bucket* cursor over the area to be filled and left click to fill the region with the [Primary color](coloring.md). Right click to fill the area with the [Secondary color](coloring.md).
 
     The following example with the Primary color set to yellow, shows how the setting of the **Tolerance** level can affect what region is filled with the color.
 
