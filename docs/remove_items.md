@@ -44,7 +44,7 @@ The following shows an example of how this would be done.
 1. [Create a layer](layers.md) that is blank or [import a file to a layer](layers.md)
 
 
-2. Add any objects to the layer. 
+2. [Add any objects to the layer](objects.md). 
    
     ![objects added to layer](img/remove/objectsaddtolayer.png)
     &nbsp;  
