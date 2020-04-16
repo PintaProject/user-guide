@@ -8,7 +8,7 @@
 
 ## Remove items with Cut or Delete 
 
-1. Select from the *Images Window* the image that you would like to remove items from
+1. Select from the *Images Window* the image with the items that you would like to remove.
 
      ![Image Window select image](img/crop/imageflowerselect.png)  
 
@@ -44,12 +44,12 @@ The following shows an example of how this would be done.
 1. [Create a layer](layers.md) that is blank or [import a file to a layer](layers.md)
 
 
-2. Add any objects to the layer 
+2. Add any objects to the layer. 
    
     ![objects added to layer](img/remove/objectsaddtolayer.png)
     &nbsp;  
 
-3. Select the *Layer* in the **Layer** Window (it will already be selected if you just added the objects to the layer)
+3. Select the *Layer* in the **Layer** Window (it will already be selected if you just added the objects to the layer).
 
     ![Select Layer](img/remove/selectlayer.png)
 
