@@ -26,11 +26,11 @@ In addition to the above selection tools, Pinta also provides the capability to 
 
 To perform these selection options:
 
-1.  Go to **Edit>Select All**, **Edit>Deselect All** or **Edit>Invert Selection**.  
+1.  Go to **Edit** and select **Select All**, **Deselect All** or **Invert Selection**.  
 
      ![Select All Commands](img/selectall.png)
 
-  After using the  **Select All** a dotted line selection encompases the outter edge of the whole image. Now you can perform image transformations (such as [rotate](rotate.md), [flip](flip.md), [resize](resize.md) and [crop](crop.md)) to all parts of the image at the same time or [remove all items](remove_items.md).
+  After selecting  **Select All** a dotted line selection encompases the outter edge of the whole image. Now you can perform image transformations (such as [rotate](rotate.md), [flip](flip.md), [resize](resize.md) and [crop](crop.md)) to all parts of the image at the same time or [remove all items](remove_items.md).
   
   If **Deselect All** is selected all pixels are deselected and all the dotted line selections will no longer appear on the image. 
 
