@@ -1,4 +1,6 @@
-# Illustrating Ovevivew
+# Illustrating Overview
+
+![illustratingicon](img/illustratingicon.png)
 
 For simple or complex illustrations Pinta enables you to:
 
