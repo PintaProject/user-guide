@@ -24,7 +24,7 @@
 
     &nbsp;
 
-3. Go to **Edit** > **Cut** or select the **`Delete Key`** on your keyboard.
+3. Go to **Edit** and select **Cut**. Alternatively, select the **`Delete Key`** on your keyboard.
 
     ![Select cut](img/remove/cutwindow.png)
 
