@@ -29,7 +29,7 @@
     ![Select cut](img/remove/cutwindow.png)
 
 
-    Here is what the example image looks like after **Cut** was selected or **Delete Key** was pressed:
+    Here is what the example image looks like after selecting **Cut** or **`Delete`**:
 
 
     ![Crop Example Final](img/remove/cutexample.png)
