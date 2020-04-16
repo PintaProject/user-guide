@@ -4,7 +4,6 @@
 
 Pinta provides a number of **Selection Tools** and **Select All Options** to select images.
 
-
 ## Selection Tools
 
 Using a selection *Tool* you can isolate a specific area and make modifications to one or more objects within an image. You can then edit and apply effects to the selected portion of the image while leaving the unselected areas unchanged. 

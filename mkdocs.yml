@@ -38,15 +38,18 @@ nav:
     - Adjust Canvas Size: adjust.md
     - Move Image: move.md
   - Image Enhancements:
+    - Image Enhancements Overview: imageenhancementsoverview.md
     - Improving Colors: colors.md
     - Image Effects: effects.md
     - Filtering: filter.md
   - Image Repair & Restoration:
+    - Image Repair & Restoration Overview: imagerepairoverview.md    
     - Reduce Red-Eye: redeye.md
     - Noise Reduction: noise.md
     - Remove Objects from Photos: remove_photos.md
     - Clone Stamp Tool: clone.md
   - Exporting Project:
+    - Exporting Project overview: Export.md
     - Save Project: save.md
     - Print Project: print.md
   - Reference:
