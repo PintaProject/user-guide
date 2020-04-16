@@ -14,7 +14,8 @@ Name | Shortcut
 **Save Image As**|		Ctrl + Shift + S
 
 
-
+&nbsp;  
+&nbsp;  
 
 
 
@@ -45,7 +46,8 @@ Name | Shortcut
 
 
 
-
+&nbsp;  
+&nbsp;  
 
 
 
@@ -65,8 +67,8 @@ Name | Shortcut
 
 
 
-
-
+&nbsp;  
+&nbsp;  
 
 
 
@@ -87,7 +89,8 @@ Name | Shortcut
 
 
 
-
+&nbsp;  
+&nbsp;  
 
 
 
@@ -114,7 +117,8 @@ Name | Shortcut
 
 
 
-
+&nbsp;  
+&nbsp;  
 
 
 
@@ -138,6 +142,8 @@ Name | Shortcut
 
 
 
+&nbsp;  
+&nbsp;  
 
 
 
@@ -170,7 +176,8 @@ Name | Shortcut
 
 
 
-
+&nbsp;  
+&nbsp; 
 
 
 
