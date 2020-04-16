@@ -226,5 +226,5 @@ Reverse the last editing operation.
 Expand or contract the view size of an image.
 
 ##### _______________________________________________________________________________________________________________ #####
-###### Some definitions take from getpaint.net ######
+###### Some definitions take from getpaint.net and learnubuntumate.weebly.com ######
 
