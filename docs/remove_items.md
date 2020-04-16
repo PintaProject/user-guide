@@ -68,3 +68,5 @@ The following shows an example of how this would be done.
     ![after layer delete image](img/remove/afterdeletelayer.png)
 
 
+
+
