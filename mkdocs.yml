@@ -2,13 +2,16 @@ site_name: Pinta Pals
 nav:
   - Home: index.md
   - First Steps:
+    - First Steps Overview: firststepsoverview.md
     - Getting Started: start.md
     - General Overview: overview.md
     - Basic Concepts: concept.md
   - Quick Start: 
+    - Quick Start Overview: quickstartoverview.md
     - Setting Up Workspace: setup.md
     - Tutorial: tutorial.md
   - Image Layers:
+    - Image Layers Overview: layersoverview.md
     - Creating & Removing Layers: layers.md
     - Edit Layer Properties: edit.md
   - Selecting Objects:
@@ -49,7 +52,7 @@ nav:
     - Remove Objects from Photos: remove_photos.md
     - Clone Stamp Tool: clone.md
   - Exporting Project:
-    - Exporting Project overview: Export.md
+    - Exporting Project Overview: exportoverview.md
     - Save Project: save.md
     - Print Project: print.md
   - Reference:

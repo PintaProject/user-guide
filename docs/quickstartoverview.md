@@ -1,9 +1,8 @@
-# Exporting Project Overview
+# Quick Start Overview
 
-![button](img/exporticon.png)
+![button](img/quickstarticon.png)
 
-When working with Pinta you may wish to export your files. 
-Pinta enables you to:
+Once you have gotten the first steps sorted, you can review the quick start to help you get familiar with the tasks that are generally used when working with Pinta, whether you are a beginner or an expert:
 
-  -  [**Save a Project**](save.md): To a file
-  -  [**Print a Project**](print.md): Although there is no print function on Pinta, if you save a file you can print it from your device from the saved file.
+  -  [**Setting Up Workspace**](setup.md): These are the tasks to help you setup your workspace and understand the components on starting a project.
+  -  [**Tutorial**](tutorial.md): We have a tutorial that helps you learn how to create your first project. This tutorial will give you a hands-on perspective on how Pinta works and how you can use your creativity to play around with the functions.
