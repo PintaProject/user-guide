@@ -2,6 +2,7 @@
 
 ![illustrating icon](img/illustratingicon.png)
 
+
 For simple or complex illustrations Pinta enables you to:
 
   -  [**Choose a Pencil or Brush**](choose.md)

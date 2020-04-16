@@ -1,9 +1,13 @@
-# Coloring Overview
-Pinta's color tools and features are not as complex as some more professional image edting tools. However, you do have some flexibility to:
+# Image Transformation Overview
 
-  -  [**Customize Color**](coloring.md): Customize the color you would like to use for your images
-  -  [**Create a Palette**](palette.md): Use the existing default Pinta palette or create your own
+![image transformations icon](img/imagetransformationsicon.png)
 
-  As well you have a number of different tools to color areas.
 
-  -  [**Color Areas**](coloringarea.md): Use simple tools for coloring in objects/text/image/layer.   
+When working on a project you may wish to modify your images/text/layers/objects by peforming the following transformations:
+
+  -  [**Rotate**](rotate.md)
+  -  [**Flip**](flip.md)
+  -  [**Crop**](crop.md)
+  -  [**Adjust Canvas Size**](adjust.md)
+  -  [**Move Image**](move.md)
+ 

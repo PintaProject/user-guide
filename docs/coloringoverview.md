@@ -1,6 +1,6 @@
 # Coloring Overview
 
-![coloring icon](img/coloringicon.png)
+![color icon](img/coloringicon.png)
 
 Pinta's color tools and features are not as complex as some more professional image edting tools. However, you do have some flexibility to:
 
