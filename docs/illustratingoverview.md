@@ -1,4 +1,4 @@
-# Illustrating Ovevivew
+# Illustrating Overview
 
 For simple or complex illustrations Pinta enables you to:
 
