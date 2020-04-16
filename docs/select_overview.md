@@ -1,4 +1,7 @@
 # Select Objects Overview
+
+![select icon](img/selectingobjectsicon.png)
+
 Pinta provides a number of **Selection Tools** and **Select All Options** to select images.
 
 
