@@ -14,7 +14,7 @@ The *Rectangle* Select Tool can be used to select rectangular areas (including s
 
     &nbsp;
 
-3. Click and hold the right mouse button while you drag the crosshair mark to the right hand bottom corner (**B**) of your desired element. While you drag, the rectangle dotted line selection shape appears. Pressing the **`Shift`** key after starting the selection and holding it down until you are finished will constaint the selection into a square.  
+3. Click and drag from the top left hand corner (**A**) to the right hand bottom corner (**B**) of your desired element. While you drag, the rectangle dotted line selection outline appears. Pressing the **`Shift`** key after starting the selection and holding it down until you are finished will constaint the selection to a square.
      ![Rectangle Example](img/rectanglecreate.png) 
 
      &nbsp;
