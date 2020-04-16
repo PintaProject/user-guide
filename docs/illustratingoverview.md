@@ -8,7 +8,7 @@ For simple or complex illustrations Pinta enables you to:
 As well, Pinta provides you with a variety of capabilities such as:
  
   -  [**Text Management**](text.md) 
-  -  [**Remove Items**](remove.md) techniques
+  -  [**Remove Items**](remove_items.md) techniques
 
 
 

@@ -30,7 +30,7 @@ nav:
     - Text Management: text.md
     - Removing Items: remove_items.md
   - Image Transformations:
-    - Image Transformations Overview: imagetransformoverview.md
+    - Image Transformations Overview: transformoverview.md
     - Rotate: rotate.md
     - Flip: flip.md
     - Resize: resize.md
