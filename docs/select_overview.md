@@ -1,6 +1,5 @@
 # Select Objects Overview
-Pinta provides a number of **Selection Tools** and **Select All Options** to select images.
-
+Pinta provides a number of [**Selection Tools**](select_overview.md#selection-tools) and [**Select All Options**](select_overview.md#select-all-options) to select images.
 
 ## Selection Tools
 
