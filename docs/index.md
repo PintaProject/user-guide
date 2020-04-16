@@ -1,11 +1,7 @@
 ## __Welcome to our Pinta Project User Guide__ ##
 This user guide was developed to help you speed up your learning curve for Pinta. Whether you have used Pinta in the past and want to learn new features or are just getting started this user guide is for you! This guide covers how to use Pinta for simple to intermediate level projects and photo edits. It details how to use basic features ranging from drawing, resizing, and rotating images to more advanced projects like posters, graphics, and professional-level photo editing and effects. To follow are some quick links to the sections of this user guide. However you can also use the left navigation menu or the search function at the top of the page to find topics of interest.
 
-[![button](img/firststepsicon.png)](firststepsoverview.md) [![button](img/quickstarticon.png)](quickstartoverview.md) [![button](img/imagelayericon.png)](layersoverview.md) [![button](img/selectingobjectsicon.png)](select_overview.md)
-
-[![button](img/coloringicon.png)](coloringoverview.md) [![button](img/illustratingicon.png)](illustratingoverview.md) [![button](img/imagetransformationsicon.png)](transformoverview.md) [![button](img/imageenhancementicon.png)](imageenhancementsoverview.md)
-
-[![button](img/imagerepairicon.png)](imagerepairoverview.md) [![button](img/exporticon.png)](exportoverview.md) [![button](img/referenceicon.png)](shortcuts.md)
+[![button](img/firststepsicon.png)](firststepsoverview.md) [![button](img/quickstarticon.png)](quickstartoverview.md) [![button](img/imagelayericon.png)](layersoverview.md) [![button](img/selectingobjectsicon.png)](select_overview.md) [![button](img/coloringicon.png)](coloringoverview.md) [![button](img/illustratingicon.png)](illustratingoverview.md) [![button](img/imagetransformationsicon.png)](transformoverview.md) [![button](img/imageenhancementicon.png)](imageenhancementsoverview.md) [![button](img/imagerepairicon.png)](imagerepairoverview.md) [![button](img/exporticon.png)](exportoverview.md) [![button](img/referenceicon.png)](shortcuts.md)
 
 #### __*Pinta Project: Painting Made Simple*__ ####
 
