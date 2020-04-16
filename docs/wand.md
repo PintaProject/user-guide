@@ -5,18 +5,18 @@
 ## How to Use Magic Wand 
 
  
- 1. Select the Magic Wand Tool ![Wand icon](img/wandpic.png) from the Tool Menu options.   
+1. Select the Magic Wand Tool ![Wand icon](img/wandpic.png) from the **Tools** menu options.   
 
      ![Wand](img/magicwandselect.png)  
 
     &nbsp; 
   
-2. Specify the **Tolerance** setting in the Tolerance bar (0-100).  The higher the selected tolerance (color range), will encompass a higher relative spectrum of colors compared to the original color you click.  
+2.  Move the **Tolerance** slider to the desired level (0-100). A higher selected tolerance (color range), will encompass a higher relative spectrum of colors compared to the original color you chose.  
     ![Tolerance Bar](img/tolerancebar.png)  
 
     &nbsp;
 
-3. Specify a Selection Mode in the options toolbar. You can use shortcuts to temporarily switch between them. 
+3. Select a **Selection Mode** in the options toolbar. You can use shortcuts to temporarily switch between them. 
 
     ![Selection Mode](img/selectionmode.png)  
 
@@ -28,7 +28,7 @@
 
     &nbsp;
 
-4. Specify under the **Flood Mode** one of the options (**Contiguous** or **Global**).  
+4. Go to **Flood Mode** and select either **Contiguous** or **Global**.  
     ![Flood Mode](img/floodmode.png)
  
     - **Contiguous**: Choose this option to select all parts of the image with the similar color that is touching the selected portion. 
