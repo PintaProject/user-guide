@@ -22,7 +22,7 @@ To move and rotate a selected portion of your image using the *Move Selected Pix
     &nbsp;
 
 
-3.  Left Click the mouse and hold the button and drag the selected image portion from its original location (example position **A**) to a new location (example position **B**). Once the pixels have been moved an area of transparency (dnoted by the grey and white checkerboard pattern) will be left in place of the moved pixels. Refer to the example below.
+3.  Left click and and drag the selected image portion from its original location (example position **A**) to a new location (example position **B**). Once the pixels have been moved an area of transparency (denoted by the grey and white checkerboard pattern) will be left in place of the moved pixels. Refer to the example below.
 
 
     ![Move selected image](img/movepixelsa.png)
@@ -35,7 +35,7 @@ To move and rotate a selected portion of your image using the *Move Selected Pix
 !!! Note 
     The checkerboard pattern that remains after pixels are moved indicates that the region is transparent and serves as a visual cue (is not actually part of the image).
 
-4.  Right Click the mouse and hold the button to rotate the image (Example position **C**) the desired rotation amount.
+4.  Right click and drag the selection to rotate the selected outline (Example position **C**) by the desired rotation amount.
 
     ![Move selected image final](img/movepixelsc.png)  
  
