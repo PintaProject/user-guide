@@ -7,13 +7,13 @@ Pinta comes with a default palette of 48 Colors that you can use to quickly sele
 
  To change the number of colors on the palette, save your customized palette, open a save palette or save a palette:
 
-1.  Go to the *Edit Menu* and select **Palette**.
+1.  Go to **Edit** and select **Palette**.
 
      ![Select Palette Menu](img/color/selectpalettemenu.png)
  
 
 &nbsp;  
-2.  From the **Palette** Submenu you can select: 
+2.  From the **Palette** submenu you can select: 
 
   -  **Open...**: Use to open an existing saved Palette
   -  **Save As...**: Use to save your Palette
