@@ -3,7 +3,7 @@
  You can romove items a number of different ways using Pinta:  
 
  -  [**Cut**](remove_items.md#remove-item-with-cut-or-delete): Use the cut option under the edit menu to delete anything in the image that has been selected.
- -  [**Delete Key**](remove_items.md#remove-item-with-cut-or-delete): Use the delete key on your keyboard to delete anything that has been selected.
+ -  [**Delete Key**](remove_items.md#remove-item-with-cut-or-delete): Use the **`Delete`** key on your keyboard to delete anything that has been selected.
  -  [**Remove a Layer**](remove_items.md#remove-itme-by-removing-layer): Use to delete all images on a layer and keep all images on other layers. 
 
 ## Remove items with Cut or Delete 
@@ -24,7 +24,7 @@
 
     &nbsp;
 
-3. Go to **Edit** menu and choose **Cut** or press the **Delete Key** on your keyboard.
+3. Go to **Edit** menu and choose **Cut** or select the **`Delete Key`** on your keyboard.
 
     ![Select cut](img/remove/cutwindow.png)
 
