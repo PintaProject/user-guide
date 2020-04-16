@@ -14,7 +14,7 @@ The Ellipse Select Tool can be used for elliptical (including circular) selectio
 
     &nbsp;
 
-3. Click and drag from the top left hand corner (**A**) to the right hand bottom corner (**B**) of your desired element. While you drag, the ellipse dotted line selection shape appears. Pressing the **`Shift`** key after starting the selection and holding it down until you are finished will constaint the selection into a circle. 
+3. Click and drag from the top left hand corner (**A**) to the right hand bottom corner (**B**) of your desired element. While you drag, the ellipse dotted line selection outline appears. Pressing the **`Shift`** key after starting the selection and holding it down until you are finished will constaint the selection to a circle. 
  
      ![Ellipse Example](img/ellipsecreate.png) 
 
