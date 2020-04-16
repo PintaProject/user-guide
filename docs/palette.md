@@ -21,7 +21,7 @@ Pinta comes with a default palette of 48 Colors that you can use to quickly sele
   -  **Set Number of Colors**: Use to adjust the number of colors in the Palette. When selected the **Resize Palette** Window will appear and you can choose to have between 1-48 colors. 
 
 
-    ![Resize Palette](img/color/resizepalette.png)
+  ![Resize Palette](img/color/resizepalette.png)
     
 
 
