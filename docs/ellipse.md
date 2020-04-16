@@ -14,7 +14,7 @@ The Ellipse Select Tool can be used for elliptical (including circular) selectio
 
     &nbsp;
 
-3. Click and hold the right mouse button and drag the crosshair cursor to the right hand bottom corner (**B**) of your desired element. While you drag, the ellipse dotted line selection shape appears. Pressing the **`Shift`** key after starting the selection and holding it down until you are finished will constaint the selection into a square. 
+3. Click and hold the right mouse button while you drag the crosshair mark to the right hand bottom corner (**B**) of your desired element. While you drag, the ellipse dotted line selection shape appears. Pressing the **`Shift`** key after starting the selection and holding it down until you are finished will constaint the selection into a square. 
  
      ![Ellipse Example](img/ellipsecreate.png) 
 
