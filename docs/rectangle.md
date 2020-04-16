@@ -14,8 +14,7 @@ The *Rectangle* Select Tool can be used to select rectangular areas (including s
 
     &nbsp;
 
-3. Click and hold the mouse button (along with the shift button if you want to constrain the rectangle to a square) while you then drag to the right hand bottom corner (**B**) of your desired element. While you drag, the rectangle dotted line selection shape appears. 
- 
+3. Click and hold the right mouse button while you drag the crosshair mark to the right hand bottom corner (**B**) of your desired element. While you drag, the rectangle dotted line selection shape appears. Pressing the **`Shift`** key after starting the selection and holding it down until you are finished will constaint the selection into a square.  
      ![Rectangle Example](img/rectanglecreate.png) 
 
      &nbsp;
