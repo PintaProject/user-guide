@@ -16,7 +16,7 @@
 
     &nbsp;
 
-3. Select a **Selection Mode** in the options toolbar. You can use shortcuts to temporarily switch between them. 
+3. Go to **Selection Mode** in the tool bar menu and select a mode. You can use shortcuts to temporarily switch between them. 
 
     ![Selection Mode](img/selectionmode.png)  
 
