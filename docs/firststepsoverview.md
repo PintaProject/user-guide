@@ -13,5 +13,9 @@ So you have decided to use Pinta. Here are some recommended first steps:
       - [**Pinta Workspace**](overview.md#pinta-workspace)
       - [**Menu Bar Features**](overview.md#menu-bar-features)  
       &nbsp;  
-  -  [**Basic Concepts**](concept.md):
+  -  [**Basic Concepts**](concept.md): Learn about the basic concepts of Pinta.
+      - [**Image**](concept.md#image)
+      - [**Layer**](concept.md#layers)
+      - [**Selection**](concept.md#selection)
+      
     
