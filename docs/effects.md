@@ -27,9 +27,9 @@ To illustrate all of the effects we will be using this photo of KFC.
 
 The **Glow** effect is used to give images an inner glow by brightening lighter tones and muting color saturation, making the image appear as though it were strongly back-lit. A dialog box populates with three sliders, radius, brightness, and contrast.
 
- 1. Go to **Effects** > **Photo** and select **Glow**. The **Glow** dialogue box will then appear.
+1. Go to **Effects** > **Photo** and select **Glow**. The **Glow** dialogue box will then appear.
 
-![glowbox](img/glowbox.PNG)
+  ![glowbox](img/glowbox.PNG)
 
 
 2. Adjust the **Radius** slider to control the strength of the effect. Higher values yield stronger effect results.
@@ -52,12 +52,13 @@ The **Glow** effect is used to give images an inner glow by brightening lighter 
 ### Sharpen: ###
 
 
-![kfcsharpen](img/kfcsharpen.PNG)
+  ![kfcsharpen](img/kfcsharpen.PNG)
 
 The **Sharpen** effect is used to reduce softness and emphasize texture in an image to draw in viewer focus. A dialog box populates with a strength slider. The strength slider controls how pronounced the edges in an image appear, increasing the contrast of edges. 
 
  1. Go to **Effects** > **Photo** and select **Sharpen**. The **Sharpen** dialogue box will then appear. 
-![sharpenbox](img/sharpenbox.PNG)
+
+  ![sharpenbox](img/sharpenbox.PNG)
 
 2. Adjust the Sharpness **Amount** to control how sharp the image appears. 
 
@@ -68,8 +69,9 @@ The **Sharpen** effect is used to reduce softness and emphasize texture in an im
 
 The **Soften Portrait** effect is used to soften images as if the lighting were diffused, adding a subtle glow. 
 
- 1. Go to **Effects** > **Photo** and select **Soften Portrait**. The **Soften Portrait** dialogue box will then appear.
-![softenportraitbox](img/softenportraitbox.PNG)
+ 1. Go to **Effects** > **Photo** and select **Soften Portrait**. The **Soften Portrait** dialogue box will then appear.  
+ 
+  ![softenportraitbox](img/softenportraitbox.PNG)
 
 2. Adjust the **Softness** slider to control the strength of the effect. Higher values yield a softer, more blurred image. 
 
@@ -89,7 +91,7 @@ The **Soften Portrait** effect is used to soften images as if the lighting were 
 
 Here's is the image before and after using the Soften Portrait effect:
 
-![redeyeafter](img/redeye%20after.PNG)   ![softenportraitafter](img/softenportraitafter.PNG)
+  ![redeyeafter](img/redeye%20after.PNG)   ![softenportraitafter](img/softenportraitafter.PNG)
 
 
 ### Blur: ###
@@ -101,7 +103,8 @@ There are six **Blur** effect options: [**Fragment**](effects.md#fragment), [**G
 The **Fragment** blur effect superimposes copies or “fragments” of the image or selected area. Copies or "fragments" of the image are superimposed over the original. This blur can be useful when creating an unfocussed multi-viewed version of an image. The effect is not unlike modern interpretations of insect-like vision and could be used to fake "drunken" or "semi-conscious" vision. 
 
 1. Go to **Effects** > **Blur** and select **Fragment**. The **Fragment** dialogue box will then appear.
-![fragmentblurbox](img/fragmentblurbox.PNG)
+
+  ![fragmentblurbox](img/fragmentblurbox.PNG)
 
 2. Adjust the **Fragments** slider to control how many fragments appear. A higher value yields more fragments.
 
@@ -124,7 +127,7 @@ The **Gaussian Blur** effect applies a defocusing blur to the image or selected 
 1. Go to **Effects** > **Blur** and select **Gaussian**. The **Gaussian** dialogue box will then appear.
 
 
-![gaussianblurbox](img/gaussianblurbox.PNG)
+  ![gaussianblurbox](img/gaussianblurbox.PNG)
 
 2. Adjust the **Radius** slider to control how widely and how strongly the blur is applied. A higher value yields a stronger effect.
 
@@ -139,7 +142,8 @@ The **Gaussian Blur** effect applies a defocusing blur to the image or selected 
 The **Motion Blur** effect creates the illusion of motion in an image or selected area. A dialog box populates with two sliders, for angle and distance.
 
 1. Go to **Effects** > **Blur** and select **Motion**. The **Motion** dialogue box will then appear. 
-![motionblurbox](img/motionblurbox.PNG)
+
+  ![motionblurbox](img/motionblurbox.PNG)
 
 2. Adjust the **Angle** circle slider to control the angle at which the motion blur appears It can be rotated 360 degrees.
 
@@ -157,7 +161,8 @@ The **Motion Blur** effect creates the illusion of motion in an image or selecte
 The **Radial Blur** effect is like the motion blur, but rather than following a linear path, it follows a circular one. 
 
  1. Go to **Effects** > **Blur** and select **Radial Blur**. The **Radial Blur** dialogue box will then appear. 
-![radialblurbox](img/radialblurbox.PNG)
+ 
+  ![radialblurbox](img/radialblurbox.PNG)
 
 2. Adjust the **Angle** circle slider to control the angle at which the blur appears It can be rotated 360 degrees.
 
@@ -175,8 +180,9 @@ The **Radial Blur** effect is like the motion blur, but rather than following a 
 
 The **Unfocus Blur** effect is like the Gaussian blur but yields a more dreamy or unfocused look to the image or selected area. 
 
- 1. Go to **Effects** > **Blur** and select **Unfocus**. The **Unfocus** dialogue box will then appear.  
-![unfocusblurbox](img/unfocusblurbox.PNG)
+ 1. Go to **Effects** > **Blur** and select **Unfocus**. The **Unfocus** dialogue box will then appear. 
+ 
+  ![unfocusblurbox](img/unfocusblurbox.PNG)
 
 2. Adjust the **Radius** slider to control the strength of the effect. A higher value yields a stronger blur effect. 
 
@@ -189,8 +195,9 @@ The **Unfocus Blur** effect is like the Gaussian blur but yields a more dreamy o
 
 The **Zoom Blur** effect is used to give the appearance of motion towards the focal point of an image, as if the viewer were closing in on the focal point. It is like the Motion blur but applied outwards from a central point. 
 
-1. Go to **Effects** > **Blur** and select **Zoom Blur**. The **Zoom Blur** dialogue box will then appear.
-![zoomblurbox](img/zoomblurbox.PNG)
+1. Go to **Effects** > **Blur** and select **Zoom Blur**. The **Zoom Blur** dialogue box will then appear.  
+
+  ![zoomblurbox](img/zoomblurbox.PNG)
 
 2. Adjust the **Amount** slider to control how strong the blur appears. A higher value yields a stronger effect. 
 
@@ -211,7 +218,8 @@ There are six **Distort** options: [**Bulge**](effects.md#bulge, [**Frosted Glas
 The **Bulge** effect makes the image or selected area swell or shrink, similar to a fisheye or reverse fisheye effect. 
 
 1. Go to **Effects** > **Distort** and select **Bulge**. The **Bulge** dialogue box will then appear. 
-![bulgebox](img/buldgebox.PNG)
+
+  ![bulgebox](img/buldgebox.PNG)
 
 2. Adjust the **Amount** slider to control how strong the swelling or shrinking appears. A higher value yields a stronger effect. 
 
@@ -227,7 +235,8 @@ The **Bulge** effect makes the image or selected area swell or shrink, similar t
 The **Frosted Glass** effect makes the image or selected area look as though it were being viewed through frosted glass. 
 
 1. Go to **Effects** > **Distorted** and select **Frosted Glass**. The **Frosted Glass** dialogue box will then appear. 
-![frostedglassbox](img/frostedglassbox.PNG)
+
+  ![frostedglassbox](img/frostedglassbox.PNG)
 
 2. Adjust the **Amount** slider to control the harshness and number of displaced pixels giving off the frosted effect. A higher value yields a more frosted, pixelated look. 
 
@@ -241,7 +250,8 @@ The **Frosted Glass** effect makes the image or selected area look as though it 
 The **Pixelate** effect gives the image or selected area a pixelated look, reducing detail by enlarging regularly sampled pixels. 
 
 1. Go to **Effects** > **Distorted** and select **Pixelate**. The **Pixelate** dialogue box will then appear. 
-![pixelatebox](img/pixelatebox.PNG)
+
+  ![pixelatebox](img/pixelatebox.PNG)
 
 2. Adjust the **Cell Size** slider to control the size of the pixels. A higher value yields larger pixels, and lower values yield smaller, finer pixels. 
 
@@ -254,8 +264,9 @@ The **Pixelate** effect gives the image or selected area a pixelated look, reduc
 
 The **Polar Inversion** effect applies a transformation between Cartesian and Polar coordinate systems, resulting in a positional transformation which recursively wraps the image around itself in an endlessly repeating pattern.  
 
-1. Go to **Effects** > **Distorted** and select **Polar Inversion**. The **Polar Inversion** dialogue box will then appear. 
-![polarinversionbox](img/polarinversionbox.PNG)
+1. Go to **Effects** > **Distorted** and select **Polar Inversion**. The **Polar Inversion** dialogue box will then appear.
+
+  ![polarinversionbox](img/polarinversionbox.PNG)
 
 2. Adjust the **Amount** slider to control the strength of the effect. A higher value yields a stronger inversion.
 
