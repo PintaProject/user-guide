@@ -44,8 +44,8 @@ The **Glow** effect is used to give images an inner glow by brightening lighter 
 
 4. Adjust the **Contrast** slider to control the color range, making an image appear more vivid or dull. Higher contrast values yield more vibrant tones and lower values yield duller tones.
 
-  * Drag slider to the right to increase contrast
-  * Drag slider to the left to decrease contrast
+   * Drag slider to the right to increase contrast
+   * Drag slider to the left to decrease contrast
 
 
 
@@ -208,10 +208,9 @@ There are six **Distort** options: [**Bulge**](effects.md#bulge, [**Frosted Glas
 
 ![kfcbulge](img/kfcbulge.PNG)
 
-The **Bulge** effect makes the image or selected area swell or shrink, similar to a fisheye or reverse fisheye effect. A dialog box populates with configurations for amount and offset.
+The **Bulge** effect makes the image or selected area swell or shrink, similar to a fisheye or reverse fisheye effect. 
 
- 1. Select the *Bulge* effect from the **Effects > Distort** dropdown.
-
+1. Go to **Effects** > **Distort** and select **Bulge**. The **Bulge** dialogue box will then appear. 
 ![bulgebox](img/buldgebox.PNG)
 
 2. Adjust the **Amount** slider to control how strong the swelling or shrinking appears. A higher value yields a stronger effect. 
@@ -225,10 +224,9 @@ The **Bulge** effect makes the image or selected area swell or shrink, similar t
 
 ![kfcfrostedglass](img/kfcfrostedglass.PNG)
 
-The **Frosted Glass** effect makes the image or selected area look as though it were being viewed through frosted glass. A dialog box will populate with an amount slider.
+The **Frosted Glass** effect makes the image or selected area look as though it were being viewed through frosted glass. 
 
- 1. Select the *Frosted Glass* effect from the **Effects > Distort** dropdown.
-
+1. Go to **Effects** > **Distorted** and select **Frosted Glass**. The **Frosted Glass** dialogue box will then appear. 
 ![frostedglassbox](img/frostedglassbox.PNG)
 
 2. Adjust the **Amount** slider to control the harshness and number of displaced pixels giving off the frosted effect. A higher value yields a more frosted, pixelated look. 
@@ -240,10 +238,9 @@ The **Frosted Glass** effect makes the image or selected area look as though it 
 
 ![kfcpixelate](img/kfcpixelate.PNG)
 
-The **Pixelate** effect gives the image or selected area a pixelated look, reducing detail by enlarging regularly sampled pixels. A dialog box populates with a slider for cell size.
+The **Pixelate** effect gives the image or selected area a pixelated look, reducing detail by enlarging regularly sampled pixels. 
 
- 1. Select the *Pixelate* effect from the **Effects > Distort** dropdown.
-
+1. Go to **Effects** > **Distorted** and select **Pixelate**. The **Pixelate** dialogue box will then appear. 
 ![pixelatebox](img/pixelatebox.PNG)
 
 2. Adjust the **Cell Size** slider to control the size of the pixels. A higher value yields larger pixels, and lower values yield smaller, finer pixels. 
@@ -255,11 +252,9 @@ The **Pixelate** effect gives the image or selected area a pixelated look, reduc
 
 ![kfcpolarinversion](img/kfcpolarinversion.PNG)
 
-The **Polar Inversion** effect applies a transformation between Cartesian and Polar coordinate systems, resulting in a positional transformation which recursively wraps the image around itself in an endlessly repeating pattern. A dialog box populates with multiple configurations.
+The **Polar Inversion** effect applies a transformation between Cartesian and Polar coordinate systems, resulting in a positional transformation which recursively wraps the image around itself in an endlessly repeating pattern.  
 
-
- 1. Select the *Polar Inversion* effect from the **Effects > Distort** dropdown.
- 
+1. Go to **Effects** > **Distorted** and select **Polar Inversion**. The **Polar Inversion** dialogue box will then appear. 
 ![polarinversionbox](img/polarinversionbox.PNG)
 
 2. Adjust the **Amount** slider to control the strength of the effect. A higher value yields a stronger inversion.
@@ -275,10 +270,9 @@ The **Edge Behavior** dropdown selection defines how the effect behaves as the t
 
 ![kfctilereflection](img/kfctilereflection.PNG)
 
-The **Tile Reflection** effect makes the image or selection appear as if it were reflected in a wall of mirrored tiles. A dialog box populates with configuration options for rotation, tile size, and intensity. 
+The **Tile Reflection** effect makes the image or selection appear as if it were reflected in a wall of mirrored tiles. 
 
- 1. Select the *Tile Reflection* effect from the **Effects > Distort** dropdown.
-
+1. Go to **Effects** > **Distorted** and select **Tile Reflection**. The **Tile Reflection** dialogue box will then appear. 
 ![tilereflectionbox](img/tilereflectionbox.PNG)
 
 2. Adjust **Rotation** circle slider controls the angle at which the tiles appear. It can be rotated 360 degrees.
@@ -297,11 +291,9 @@ The **Tile Reflection** effect makes the image or selection appear as if it were
 
 ![kfctwist](img/kfctwist.PNG)
 
-The **Twist** effect mimics winding the image around the center point of the image. A dialog box populates with two sliders for amount and antialias.
+The **Twist** effect mimics winding the image around the center point of the image. 
 
-
- 1. Select the *Bulge* effect from the **Effects > Distort** dropdown.
- 
+1. Go to **Effects** > **Distorted** and select **Twist**. The **Twist** dialogue box will then appear.  
 ![twistbox](img/twistbox.PNG)
 
 2. Adjust the **Amount** slider to control the intensity of the twist. Numbers closer to 0 make the effect less intense, with 0 leaving the image unaltered.
@@ -315,17 +307,15 @@ The **Twist** effect mimics winding the image around the center point of the ima
 
 ### Artistic Medium: ###
 
-The **Artistic Medium** submenu is made up of Ink Sketch, Oil Painting, and Pencil Sketch, all mimicking traditional artistic mediums. 
+There are 3 **Artistic Medium** options: [**Ink Sketch**](effects.md#ink-sketch), [**Oil Painting**](effects.md#oil-painting), and [**Pencil Sketch**](effects.md#pencill-sketch), all mimicking traditional artistic mediums. 
 
 ##### Ink Sketch ####
 
 ![inksketch](img/kfcinksketch.PNG)
 
-The **Ink Sketch** effect makes the image appear as if it were drawn using a pen. A dialog box populates with two sliders, ink outline and coloring.
+The **Ink Sketch** effect makes the image appear as if it were drawn using a pen. 
 
-
- 1. Select the *Ink Sketch* effect from the **Effects > Artistic** dropdown.
-
+1. Go to **Effects** > **Artistic** and select **Ink Sketch**. The **Ink Sketch** dialogue box will then appear. 
 ![inksketchbox](img/inksketchbox.PNG)
 
 2. Adjust the **Ink Outline** slider to control the weight of the outline or edging. 
@@ -342,11 +332,9 @@ The **Ink Sketch** effect makes the image appear as if it were drawn using a pen
 
 ![kfcoilpainting](img/kfcoilpainting.PNG)
 
-The **Oil Painting** effect makes the image appears as if it were painted with oil paints. A dialog box populates with two sliders,
-brush size and coarseness. 
+The **Oil Painting** effect makes the image appears as if it were painted with oil paints. 
 
- 1. Select the *Oil Painting* effect from the **Effects > Artistic** dropdown.
-
+1. Go to **Effects** > **Artistic** and select **Oil Painting**. The **Oil Painting** dialogue box will then appear. 
 ![oilpaintingbox](img/oilpaintingbox.PNG)
 
 2. Adjust the **Brush Size** slider to control the size of the paintbrush tip, larger values yield larger strokes and smaller values yield finer strokes.
@@ -363,10 +351,9 @@ brush size and coarseness.
 
 ![kfcpencilsketch](img/kfcpencilsketch.PNG)
 
-The **Pencil Sketch** effect makes the image appear as though it were sketched with a pencil. A dialog box populates with two sliders, pencil tip and range.
+The **Pencil Sketch** effect makes the image appear as though it were sketched with a pencil. 
 
- 1. Select the *Pencil Sketch* effect from the **Effects > Artistic** dropdown.
-
+1. Go to **Effects** > **Artistic** and select **Pencil**. The **Pencil** dialogue box will then appear. 
 ![pencilsketchbox](img/pencilsketchbox.PNG)
 
 2. Adjust the **Pencil Tip** slider to control the sharpness of the virtual pencil. A larger value yields a blunter tip, making lines thicker and heavier. A smaller value yields a sharper tip, making lines finer, and the image appear lighter. 
@@ -380,16 +367,15 @@ _The **Color Range** slider has no effect on the image as it’s generated in gr
 
 ### Render: ###
 
-The **Render** submenu is made up of Clouds, Julia Fractal, and Mandelbrot Fractal, these three effects create completely new renderings, replacing all color information in the active layer or selection. 
+There are 3 **Render** options: [**Clouds**](effects.md#clouds), [**Julia Fractal**](effects.md#julia-fractal), and [**Mandelbrot Fractal**](effects.md#madelbrot-fractal), these three effects create completely new renderings, replacing all color information in the active layer or selection. 
 
 ##### Clouds ####
 
 ![cloudrender](img/cloudrender.PNG)
 
-The **Clouds** effect renders a randomized cloud pattern to the layer or desired selection. A dialog box with two sliders, for scale and power, and a dropdown selection for blend mode will populate.
+The **Clouds** effect renders a randomized cloud pattern to the layer or desired selection. 
 
- 1. Select the *Clouds* effect from the **Effects > Render** dropdown.
-
+1. Go to **Effects** > **Render** and select **Clouds**. The **Cloud** dialogue box will then appear. 
 ![cloudbox](img/cloudbox.PNG)
 
 2. Adjust the **Scale** slider to control the size of clouds. Higher values yield larger clouds and lower values yield finer clouds. 
@@ -415,10 +401,9 @@ See a full list of blend modes and their deciprtions in the [Image Layers menu](
 
 ![juliafractalrender](img/juliafractalrender.PNG)
 
-The **Julia Fractal** effect renders a Julia Fractal on the layer or desired selection. A dialog box with four sliders, for factor, quality, zoom, and angle will populate. The colors of this fractal are not configurable.
+The **Julia Fractal** effect renders a Julia Fractal on the layer or desired selection.
 
- 1. Select the *Julia Fractal* effect from the **Effects > Render** dropdown.
-
+1. Go to **Effects** > **Render** and select **Julia Fractal**. The **Julia Fractal** dialogue box will then appear. 
 ![juliafractalbox](img/juliafractalbox.PNG)
 
 2. Adjust the **Factor** slider to control the color saturation. Higher values yield more vivid colors and lower values yield duller colors, with 1 rendering a greyscale fractal. 
@@ -443,10 +428,9 @@ The **Julia Fractal** effect renders a Julia Fractal on the layer or desired sel
 
 ![mandelbrotfractalrender](img/mandelbrotfractalrender.PNG)
 
-The **Mandelbrot Fractal** effect renders a Mandelbrot Fractal on the layer or desired selection. A dialog box with four sliders, for factor, quality, zoom, and angle will populate. 
+The **Mandelbrot Fractal** effect renders a Mandelbrot Fractal on the layer or desired selection.
 
-1. Select the *Mandelbrot Fractal* effect from the **Effects > Render** dropdown.
-
+1. Go to **Effects** > **Render** and select **Mandelbrot Fractal**. The **Mandelbrot Fractal** dialogue box will then appear. 
 ![mandebrotfractalbox](img/mandelbrotfractalbox.PNG)
 
 * The colors of this fractal are not configurable but can be inverted. Checking the ☑ Invert Colors checkbox has the same effect as applying **Adjustments > Invert Colors.** 
@@ -470,16 +454,15 @@ The **Mandelbrot Fractal** effect renders a Mandelbrot Fractal on the layer or d
 
 ### Stylize:
 
-The Stylize menu is made up of four options: Edge Detect, Emboss, Outline, and Relief to change the image or selected area based on edge detection.
+The Stylize menu is made up of four options: [**Edge Detect**](effects.md#edge-detect), [**Emboss**](effects.md#emboss), [**Outline**](effects.md#outline), and [**Relief**](effects.md#relief) to change the image or selected area based on edge detection.
      
 #### Edge Detect ####
 
 ![kfcedgedetect](img/kfcedgedetect.PNG)
 
-The **Edge Detect** effect highlights the edges of an image or selected area, creating an almost embossed effect. A dialog box populates with a circle slider for the angle. 
+The **Edge Detect** effect highlights the edges of an image or selected area, creating an almost embossed effect.
 
- 1. Select the *Edge Detect* effect from the **Effects > Stylize** dropdown.
-
+1. Go to **Effects** > **Stylize** and select **Edge Detect**. The **Edge Detect** dialogue box will then appear. 
 ![edgedetectbox](img/edgedetectbox.PNG)
 
 2. Adjust the **Angle** circle slider to control the angle at which the edges appear, controlling the direction of the light source. It can be rotated 360 degrees.
@@ -489,10 +472,9 @@ The **Edge Detect** effect highlights the edges of an image or selected area, cr
 ![kfcemboss](img/kfcemboss.PNG)
 
 
-The **Emboss** effect is similar to the edge effect. It generates a black and white rendering of the image where the edges have been given a 3D highlight as though they were physically embossed. A dialog box populates with a circle slider for the angle.
+The **Emboss** effect is similar to the edge effect. It generates a black and white rendering of the image where the edges have been given a 3D highlight as though they were physically embossed. 
 
- 1. Select the *Emboss* effect from the **Effects > Stylize** dropdown.
-
+1. Go to **Effects** > **Stylize** and select **Emboss**. The **Emboss** dialogue box will then appear. 
 ![embossbox](img/embossbox.PNG)
 
 2. Adjust the **Angle** circle slider to control the angle at which the edges appear, controlling the direction of the light source. It can be rotated 360 degrees.
@@ -501,10 +483,9 @@ The **Emboss** effect is similar to the edge effect. It generates a black and wh
 
 ![kfcoutline](img/kfcoutline.PNG)
 
-The **Outline** effect enhances edges found in an image by tracing around them with an outline of requested radius.  A dialog box populates with two sliders for thickness and intensity.
+The **Outline** effect enhances edges found in an image by tracing around them with an outline of requested radius.
 
- 1. Select the *Outline* effect from the **Effects > Stylize** dropdown.
-
+1. Go to **Effects** > **Stylize** and select **Outline**. The **Outline** dialogue box will then appear. 
 ![outlinebox](img/outlinebox.PNG)
 
 2. Adjust the **Thickness** slider to control how thick the outline appears. Higher values yield thicker outlines and lower values yield finer outline.
@@ -523,8 +504,7 @@ The **Outline** effect enhances edges found in an image by tracing around them w
 
 The **Relief** effect is similar to the edge detect effect, but instead it blends the raised edges back into the original image, giving it a full colored embossed look. A dialog box populates with a circle slider for the angle. 
 
- 1. Select the *Relief* effect from the **Effects > Stylize** dropdown.
-
+1. Go to **Effects** > **Stylize** and select **Relief**. The **Relief** dialogue box will then appear. 
 ![reliefbox](img/reliefbox.PNG)
 
 2. Adjust the **Angle** circle slider to control the angle at which the edges appear, controlling the direction of the light source. It can be rotated 360 degrees.
