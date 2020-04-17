@@ -31,28 +31,28 @@ The tools we'll use for sketching are:
 
 Now we can get started on sketching our little secret burger! Using the default canvas layout: 
 
-1. [Add a new Layer](layers.md#add-layer)
+1. Select __Add Layer__ ![add layer](img/layer/addwin.png) to add a layer 2 in the __Layers Window__.
 2. Select Layer 2 from the [**Layers** window](overview.md#layers_window). Make sure the __Background__ layer is *below* the new layer (use the up and down arrows ![arrow](img/layer/arrow.png) on the **Layers** window to rearrange layers if necessary). 
-2. Double-click the layer to open __Layer Properties__ dialog box and type __Sketch__ for the name of the layer. 
-3. Select __OK__ to close the window. 
-4. Select the layer __Sketch__ to make it an active layer. 
-5. [Select the __Pencil__ tool](choose.md#how-to-select-a-pencil) to start sketching your burger. 
-    - Use __Eraser__ to remove any markings not needed. 
-    - Change the eraser size as needed in the __Tools Settings Bar__. 
+3. Double-click the layer to open __Layer Properties__ dialog box and type __Sketch__ for the name of the layer. 
+4. Select __OK__ to close the window. 
+5. Select the layer __Sketch__ to make it an active layer. 
+6. [Select the __Pencil__ tool](choose.md#how-to-select-a-pencil) to start sketching your burger. 
+    - Use [__Eraser__ to remove](remove.md#remove-item-with-eraser) any markings not needed. 
+    - Change the eraser size as needed in the  __Tools Bar__ settings. 
     - Use any [__Selection__](select_overview.md) tool to move any sketches around. In this case, we used the __Lasso Select__ to move the text box up higher. 
     ![selections sketch](img/burger/selectionssketch.gif)
     - Use [__Shapes__, __Lines__](objects.md) and [__Text__](text.md) to help create your sketch if that is your preference. 
     - You can also upload a hand-drawn sketch as well. Go to [Import File into Layer](setup.md#import-file-into-layer) to learn more.
-6. Go to __File > Save As...__ to save your progress as a [project *.ora file](setup.md#saving-the-new-project) and it should look like this: 
+7. Go to __File > Save As...__ to save your progress as a [project *.ora file](setup.md#saving-the-new-project) and it should look something like this: 
 ![sketch](img/burger/sketch.png)
 
-Before we move on to inking over the sketch, we want to change the color of the pencil sketch so that it's easier to see between the (black) inking and the (black) sketch itself. Blue would be a nice color to see through, but you're welcome to use whichever color you prefer.
+Before we move on to inking over the sketch, we want to change the color of the pencil sketch so that it's easier to see between the (black) inking and the (black) sketch itself. Blue would be a nice color to see through, but use whatever color you prefer.
 
-1. Select __Add Layer__ ![add layer](img/layer/addwin.png) to create a new layer in the __Layers Window__. Make sure this new layer is *above* __Sketch__ layer. 
-2. Open __Layer Properties__ for the new layer and enter __Color Sketch__ in the text box. 
-3. Select [__Color Burn__](edit.md#color-burn) under the [__Blend Mode__](edit.md#apply-blend-mode) drop-down list and select __OK__ to close the window. 
-4. Select __Color Burn__ to make it an active layer. 
-5. Select __Paint Bucket__ and choose a [__Palette__](palette.md) color. 
+1. Select __Add Layer__ ![add layer](img/layer/addwin.png) to create a new layer in the __Layers Window__. Make sure this new layer is *above* __Sketch__ layer (use the up and down arrows ![arrow](img/layer/arrow.png) on the **Layers** window to rearrange layers if necessary).
+2. Double-click the layer to open __Layer Properties__ dialog box and enter __Color Sketch__ in the text box. 
+3. Select [__Color Burn__](edit.md#color-burn) under the **Layer Properties** dialog box [__Blend Mode__](edit.md#apply-blend-mode) drop-down list and select __OK__. 
+4. Select the __Color Burn__ layer to make it an active layer. 
+5. [Select __Paint Bucket__ tool](coloringareas.md) and choose a [__Palette__](palette.md) color. 
 6. Click on the project to apply the color on the __Color Burn__ layer. 
 7. Save ![save](img/overview/save.png) your progress and it should look like this: 
 ![colored sketch](img/burger/colored_sketch.gif)
@@ -70,13 +70,13 @@ The tools we'll use for inking are:
 This part of the process, we'll be inking the rough sketch itself so that all the lines needed are more distinct.
 
 1. Create a new layer in the __Layers Window__. Make sure this new layer is *above* __Color Sketch__ layer. 
-2. Open __Layer Properties__ for the new layer and enter __Ink__ in the text box. 
+2. Double-click the new layer to open __Layer Properties__ dialog box and under the name type __Ink__. 
 3. Select __OK__ to close the window.  
-4. Select __Ink__ to make it an active layer. 
-5. Select __Paint Brush__ to start inking over your rough sketches. 
+4. Select __Ink__ layer to make it an active layer. 
+5. [Select __Paint Brush__](choose.md#how-to-select-a-brush) to start inking over your rough sketches. 
     - Same as with sketching, use __Eraser__ to remove any markings not needed. 
     - Use __Shapes__ and __Lines__ to help create your objects if needed, but we will skip on the __Text__ tool for a later step.
-6. Save your progress and it should look like this:  
+6. Save your progress and it should look something like this:  
 
 ![inking](img/burger/inking.png)
 
@@ -98,11 +98,11 @@ Now let's begin with the bun:
 
 1. Uncheck the box for __Sketch__ in the __Layers Window__ to [hide](edit.md#hide/unhide-layers) the sketch from view. We won't be needing it for this process.
 2. Create a new layer. Make sure this new layer is *below* __Ink__ layer. 
-3. Open __Layer Properties__ for the new layer and enter __Bun Color__ in the text box. 
+3. Double-click the new layer to open __Layer Properties__ dialog box and under the name type __Bun Color__. 
 4. Select __OK__ to close the window.  
-5. Select __Bun Color__ to make it an active layer. 
+5. Select __Bun Color__ layer to make it an active layer. 
 6. Go to __File > Open...__ and open the saved burger image reference.
-7. Select __Color Picker__ to pick the bun color from the reference image and switch back to the burger project under the __Image Window__. You can create and modify your own color by double-clicking on the primary or secondary color boxes under [__Palette__](palette.md).
+7. [Select __Color Picker__ tool](coloring.md) to pick the bun color from the reference image and switch back to the burger project under the __Image Window__. You can create and modify your own color by double-clicking on the primary or secondary color boxes under [__Palette__](palette.md).
 8. Select __Paint Brush__ to color in the entire burger. You can enlarge the size of the __Paint Brush__ in the __Tools Settings Bar__ to speed up the process.
 9. Select __Eraser__ to clean up any color that doesn't belong. 
 10. Save your progress and it should look like this: 
