@@ -13,7 +13,7 @@
      ![Image Window select image](img/selectimage.png)  
     &nbsp;  
   
-2. Go to the **Image** in the *Menu bar* and select one of the preset rotations.
+2. Go to **Image** in the *Menu bar* and select one of the preset rotations.
 
      ![Image Window select image](img/imagerotateselect.png)  
 
