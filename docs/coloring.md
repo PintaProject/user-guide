@@ -24,10 +24,10 @@ To select a customize color:
         1.  Click on the *selection marker* on the ring and drag it around to select a color
             ![Triangle Dial Color Selector](img/color/triangledialcolor.png)
 
-        &nbsp;  
+            &nbsp;  
         2.  Select the darkness or lightness of the ring color by clicking on a shade of the color in the inner triangle.  
 
-        ![Triangle Dial Selector Shade](img/color/triangledialshade.png)
+            ![Triangle Dial Selector Shade](img/color/triangledialshade.png)
 
         &nbsp;      
         
