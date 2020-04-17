@@ -27,7 +27,7 @@ To illustrate all of the effects we will be using this photo of KFC.
 
 The **Glow** effect is used to give images an inner glow by brightening lighter tones and muting color saturation, making the image appear as though it were strongly back-lit. A dialog box populates with three sliders, radius, brightness, and contrast.
 
-1. Go to **Effects** > **Photo** and select **Glow**. The **Glow** dialogue box will then appear.
+1. Go to **Effects** > **Photo** and select **Glow**. The **Glow** dialog box will then appear.
 
     ![glowbox](img/glowbox.PNG)
 
@@ -56,7 +56,7 @@ The **Glow** effect is used to give images an inner glow by brightening lighter 
 
 The **Sharpen** effect is used to reduce softness and emphasize texture in an image to draw in viewer focus. A dialog box populates with a strength slider. The strength slider controls how pronounced the edges in an image appear, increasing the contrast of edges. 
 
- 1. Go to **Effects** > **Photo** and select **Sharpen**. The **Sharpen** dialogue box will then appear. 
+ 1. Go to **Effects** > **Photo** and select **Sharpen**. The **Sharpen** dialog box will then appear. 
 
     ![sharpenbox](img/sharpenbox.PNG)
 
@@ -69,7 +69,7 @@ The **Sharpen** effect is used to reduce softness and emphasize texture in an im
 
 The **Soften Portrait** effect is used to soften images as if the lighting were diffused, adding a subtle glow. 
 
- 1. Go to **Effects** > **Photo** and select **Soften Portrait**. The **Soften Portrait** dialogue box will then appear.  
+ 1. Go to **Effects** > **Photo** and select **Soften Portrait**. The **Soften Portrait** dialog box will then appear.  
  
    ![softenportraitbox](img/softenportraitbox.PNG)
 
@@ -89,7 +89,7 @@ The **Soften Portrait** effect is used to soften images as if the lighting were 
   * Drag slider to the right to increase warmth
   * Drag slider to the left to decrease warmth
 
-Here's is the image before and after using the Soften Portrait effect:
+Here's the image before and after using the Soften Portrait effect:
 
   ![redeyeafter](img/redeye%20after.PNG)   ![softenportraitafter](img/softenportraitafter.PNG)
 
@@ -102,7 +102,7 @@ There are six **Blur** effect options: [**Fragment**](effects.md#fragment), [**G
 
 The **Fragment** blur effect superimposes copies or “fragments” of the image or selected area. Copies or "fragments" of the image are superimposed over the original. This blur can be useful when creating an unfocussed multi-viewed version of an image. The effect is not unlike modern interpretations of insect-like vision and could be used to fake "drunken" or "semi-conscious" vision. 
 
-1. Go to **Effects** > **Blur** and select **Fragment**. The **Fragment** dialogue box will then appear.
+1. Go to **Effects** > **Blur** and select **Fragment**. The **Fragment** dialog box will then appear.
 
    ![fragmentblurbox](img/fragmentblurbox.PNG)
 
@@ -124,7 +124,7 @@ The **Fragment** blur effect superimposes copies or “fragments” of the image
 
 The **Gaussian Blur** effect applies a defocusing blur to the image or selected area.
 
-1. Go to **Effects** > **Blur** and select **Gaussian**. The **Gaussian** dialogue box will then appear.
+1. Go to **Effects** > **Blur** and select **Gaussian**. The **Gaussian** dialog box will then appear.
 
 
    ![gaussianblurbox](img/gaussianblurbox.PNG)
@@ -141,7 +141,7 @@ The **Gaussian Blur** effect applies a defocusing blur to the image or selected 
 
 The **Motion Blur** effect creates the illusion of motion in an image or selected area. A dialog box populates with two sliders, for angle and distance.
 
-1. Go to **Effects** > **Blur** and select **Motion**. The **Motion** dialogue box will then appear. 
+1. Go to **Effects** > **Blur** and select **Motion**. The **Motion** dialog box will then appear. 
 
    ![motionblurbox](img/motionblurbox.PNG)
 
@@ -160,7 +160,7 @@ The **Motion Blur** effect creates the illusion of motion in an image or selecte
 
 The **Radial Blur** effect is like the motion blur, but rather than following a linear path, it follows a circular one. 
 
- 1. Go to **Effects** > **Blur** and select **Radial Blur**. The **Radial Blur** dialogue box will then appear. 
+ 1. Go to **Effects** > **Blur** and select **Radial Blur**. The **Radial Blur** dialog box will then appear. 
  
     ![radialblurbox](img/radialblurbox.PNG)
 
@@ -180,7 +180,7 @@ The **Radial Blur** effect is like the motion blur, but rather than following a 
 
 The **Unfocus Blur** effect is like the Gaussian blur but yields a more dreamy or unfocused look to the image or selected area. 
 
- 1. Go to **Effects** > **Blur** and select **Unfocus**. The **Unfocus** dialogue box will then appear. 
+ 1. Go to **Effects** > **Blur** and select **Unfocus**. The **Unfocus** dialog box will then appear. 
  
     ![unfocusblurbox](img/unfocusblurbox.PNG)
 
@@ -195,7 +195,7 @@ The **Unfocus Blur** effect is like the Gaussian blur but yields a more dreamy o
 
 The **Zoom Blur** effect is used to give the appearance of motion towards the focal point of an image, as if the viewer were closing in on the focal point. It is like the Motion blur but applied outwards from a central point. 
 
-1. Go to **Effects** > **Blur** and select **Zoom Blur**. The **Zoom Blur** dialogue box will then appear.  
+1. Go to **Effects** > **Blur** and select **Zoom Blur**. The **Zoom Blur** dialog box will then appear.  
 
    ![zoomblurbox](img/zoomblurbox.PNG)
 
@@ -217,7 +217,7 @@ There are six **Distort** options: [**Bulge**](effects.md#bulge, [**Frosted Glas
 
 The **Bulge** effect makes the image or selected area swell or shrink, similar to a fisheye or reverse fisheye effect. 
 
-1. Go to **Effects** > **Distort** and select **Bulge**. The **Bulge** dialogue box will then appear. 
+1. Go to **Effects** > **Distort** and select **Bulge**. The **Bulge** dialog box will then appear. 
 
    ![bulgebox](img/buldgebox.PNG)
 
@@ -234,7 +234,7 @@ The **Bulge** effect makes the image or selected area swell or shrink, similar t
 
 The **Frosted Glass** effect makes the image or selected area look as though it were being viewed through frosted glass. 
 
-1. Go to **Effects** > **Distorted** and select **Frosted Glass**. The **Frosted Glass** dialogue box will then appear. 
+1. Go to **Effects** > **Distorted** and select **Frosted Glass**. The **Frosted Glass** dialog box will then appear. 
 
    ![frostedglassbox](img/frostedglassbox.PNG)
 
@@ -249,7 +249,7 @@ The **Frosted Glass** effect makes the image or selected area look as though it 
 
 The **Pixelate** effect gives the image or selected area a pixelated look, reducing detail by enlarging regularly sampled pixels. 
 
-1. Go to **Effects** > **Distorted** and select **Pixelate**. The **Pixelate** dialogue box will then appear. 
+1. Go to **Effects** > **Distorted** and select **Pixelate**. The **Pixelate** dialog box will then appear. 
 
    ![pixelatebox](img/pixelatebox.PNG)
 
@@ -264,7 +264,7 @@ The **Pixelate** effect gives the image or selected area a pixelated look, reduc
 
 The **Polar Inversion** effect applies a transformation between Cartesian and Polar coordinate systems, resulting in a positional transformation which recursively wraps the image around itself in an endlessly repeating pattern.  
 
-1. Go to **Effects** > **Distorted** and select **Polar Inversion**. The **Polar Inversion** dialogue box will then appear.
+1. Go to **Effects** > **Distorted** and select **Polar Inversion**. The **Polar Inversion** dialog box will then appear.
 
    ![polarinversionbox](img/polarinversionbox.PNG)
 
@@ -283,7 +283,7 @@ The **Edge Behavior** dropdown selection defines how the effect behaves as the t
 
 The **Tile Reflection** effect makes the image or selection appear as if it were reflected in a wall of mirrored tiles. 
 
-1. Go to **Effects** > **Distorted** and select **Tile Reflection**. The **Tile Reflection** dialogue box will then appear. 
+1. Go to **Effects** > **Distorted** and select **Tile Reflection**. The **Tile Reflection** dialog box will then appear. 
    ![tilereflectionbox](img/tilereflectionbox.PNG)
 
 2. Adjust **Rotation** circle slider controls the angle at which the tiles appear. It can be rotated 360 degrees.
@@ -304,7 +304,7 @@ The **Tile Reflection** effect makes the image or selection appear as if it were
 
 The **Twist** effect mimics winding the image around the center point of the image. 
 
-1. Go to **Effects** > **Distorted** and select **Twist**. The **Twist** dialogue box will then appear.  
+1. Go to **Effects** > **Distorted** and select **Twist**. The **Twist** dialog box will then appear.  
    ![twistbox](img/twistbox.PNG)
 
 2. Adjust the **Amount** slider to control the intensity of the twist. Numbers closer to 0 make the effect less intense, with 0 leaving the image unaltered.
@@ -326,7 +326,7 @@ There are 3 **Artistic Medium** options: [**Ink Sketch**](effects.md#ink-sketch)
 
 The **Ink Sketch** effect makes the image appear as if it were drawn using a pen. 
 
-1. Go to **Effects** > **Artistic** and select **Ink Sketch**. The **Ink Sketch** dialogue box will then appear. 
+1. Go to **Effects** > **Artistic** and select **Ink Sketch**. The **Ink Sketch** dialog box will then appear. 
    ![inksketchbox](img/inksketchbox.PNG)
 
 2. Adjust the **Ink Outline** slider to control the weight of the outline or edging. 
@@ -345,7 +345,7 @@ The **Ink Sketch** effect makes the image appear as if it were drawn using a pen
 
 The **Oil Painting** effect makes the image appears as if it were painted with oil paints. 
 
-1. Go to **Effects** > **Artistic** and select **Oil Painting**. The **Oil Painting** dialogue box will then appear. 
+1. Go to **Effects** > **Artistic** and select **Oil Painting**. The **Oil Painting** dialog box will then appear. 
    ![oilpaintingbox](img/oilpaintingbox.PNG)
 
 2. Adjust the **Brush Size** slider to control the size of the paintbrush tip, larger values yield larger strokes and smaller values yield finer strokes.
@@ -364,7 +364,7 @@ The **Oil Painting** effect makes the image appears as if it were painted with o
 
 The **Pencil Sketch** effect makes the image appear as though it were sketched with a pencil. 
 
-1. Go to **Effects** > **Artistic** and select **Pencil**. The **Pencil** dialogue box will then appear. 
+1. Go to **Effects** > **Artistic** and select **Pencil**. The **Pencil** dialog box will then appear. 
    ![pencilsketchbox](img/pencilsketchbox.PNG)
 
 2. Adjust the **Pencil Tip** slider to control the sharpness of the virtual pencil. A larger value yields a blunter tip, making lines thicker and heavier. A smaller value yields a sharper tip, making lines finer, and the image appear lighter. 
@@ -386,7 +386,7 @@ There are 3 **Render** options: [**Clouds**](effects.md#clouds), [**Julia Fracta
 
 The **Clouds** effect renders a randomized cloud pattern to the layer or desired selection. 
 
-1. Go to **Effects** > **Render** and select **Clouds**. The **Cloud** dialogue box will then appear. 
+1. Go to **Effects** > **Render** and select **Clouds**. The **Cloud** dialog box will then appear. 
    ![cloudbox](img/cloudbox.PNG)
 
 2. Adjust the **Scale** slider to control the size of clouds. Higher values yield larger clouds and lower values yield finer clouds. 
@@ -414,7 +414,7 @@ See a full list of blend modes and their deciprtions in the [Image Layers menu](
 
 The **Julia Fractal** effect renders a Julia Fractal on the layer or desired selection.
 
-1. Go to **Effects** > **Render** and select **Julia Fractal**. The **Julia Fractal** dialogue box will then appear. 
+1. Go to **Effects** > **Render** and select **Julia Fractal**. The **Julia Fractal** dialog box will then appear. 
    ![juliafractalbox](img/juliafractalbox.PNG)
 
 2. Adjust the **Factor** slider to control the color saturation. Higher values yield more vivid colors and lower values yield duller colors, with 1 rendering a greyscale fractal. 
@@ -441,7 +441,7 @@ The **Julia Fractal** effect renders a Julia Fractal on the layer or desired sel
 
 The **Mandelbrot Fractal** effect renders a Mandelbrot Fractal on the layer or desired selection.
 
-1. Go to **Effects** > **Render** and select **Mandelbrot Fractal**. The **Mandelbrot Fractal** dialogue box will then appear. 
+1. Go to **Effects** > **Render** and select **Mandelbrot Fractal**. The **Mandelbrot Fractal** dialog box will then appear. 
    ![mandebrotfractalbox](img/mandelbrotfractalbox.PNG)
 
 * The colors of this fractal are not configurable but can be inverted. Checking the ☑ Invert Colors checkbox has the same effect as applying **Adjustments > Invert Colors.** 
@@ -473,7 +473,7 @@ The Stylize menu is made up of four options: [**Edge Detect**](effects.md#edge-d
 
 The **Edge Detect** effect highlights the edges of an image or selected area, creating an almost embossed effect.
 
-1. Go to **Effects** > **Stylize** and select **Edge Detect**. The **Edge Detect** dialogue box will then appear. 
+1. Go to **Effects** > **Stylize** and select **Edge Detect**. The **Edge Detect** dialog box will then appear. 
    ![edgedetectbox](img/edgedetectbox.PNG)
 
 2. Adjust the **Angle** circle slider to control the angle at which the edges appear, controlling the direction of the light source. It can be rotated 360 degrees.
@@ -485,7 +485,7 @@ The **Edge Detect** effect highlights the edges of an image or selected area, cr
 
 The **Emboss** effect is similar to the edge effect. It generates a black and white rendering of the image where the edges have been given a 3D highlight as though they were physically embossed. 
 
-1. Go to **Effects** > **Stylize** and select **Emboss**. The **Emboss** dialogue box will then appear. 
+1. Go to **Effects** > **Stylize** and select **Emboss**. The **Emboss** dialog box will then appear. 
    ![embossbox](img/embossbox.PNG)
 
 2. Adjust the **Angle** circle slider to control the angle at which the edges appear, controlling the direction of the light source. It can be rotated 360 degrees.
@@ -496,7 +496,7 @@ The **Emboss** effect is similar to the edge effect. It generates a black and wh
 
 The **Outline** effect enhances edges found in an image by tracing around them with an outline of requested radius.
 
-1. Go to **Effects** > **Stylize** and select **Outline**. The **Outline** dialogue box will then appear. 
+1. Go to **Effects** > **Stylize** and select **Outline**. The **Outline** dialog box will then appear. 
 
    ![outlinebox](img/outlinebox.PNG)
 
@@ -516,7 +516,7 @@ The **Outline** effect enhances edges found in an image by tracing around them w
 
 The **Relief** effect is similar to the edge detect effect, but instead it blends the raised edges back into the original image, giving it a full colored embossed look. A dialog box populates with a circle slider for the angle. 
 
-1. Go to **Effects** > **Stylize** and select **Relief**. The **Relief** dialogue box will then appear. 
+1. Go to **Effects** > **Stylize** and select **Relief**. The **Relief** dialog box will then appear. 
 
    ![reliefbox](img/reliefbox.PNG)
 
