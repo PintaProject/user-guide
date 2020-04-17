@@ -32,7 +32,7 @@
     &nbsp; 
  
   
-2. Go to the **Image** Menu and select **Flip Horizontal** or **Flip Verticale**.
+2. Go to the **Image** Menu and select **Flip Horizontal** or **Flip Vertical**.
 
      ![Image Flip Select](img/imageflipselect.png)  
  
