@@ -14,7 +14,7 @@ Pinta uses layers to create a composite image. Think of layers as a stack of tra
 
 ![Stacked Layer](img/stacked.png)
 
-You can draw on each paper but still see the content of the other sheets through the transparent areas. Intermediate users often deal with images containing many layers. Layers do not need to be opaque and they do not cover the entirity of an image. So when you look at an image's display, you may see more than just the top layer: you may see elements of many layers. 
+You can draw on each paper but still see the content of the other sheets through the transparent areas. Intermediate users often deal with images containing many layers. Layers do not need to be opaque and they do not cover the entirety of an image. So when you look at an image's display, you may see more than just the top layer: you may see elements of many layers. 
 
 When working with layers, you cannot work on multiple layers at the same time: it'll be a single layer each time you switch layers. When you make edits to that single layer, you are working on an __active layer__ - no other layer will be affected or changed by that definition except the active layer. 
 
