@@ -40,14 +40,15 @@ You can create a project with a screenshot of your screen(s). If you have multip
 ### __Customizing the Workspace__ ###
 
 Before you begin to work on your project, you can customize how your workspace looks to make the area easier for you to use. Using the [View menu](overview.md#Menu-Bar-Features), you can:
-- Check or uncheck the Toolbar to hide or view it.
-- Check or uncheck the Pixel Grid to turn on or off the pixel-sized gridlines (mainly used for pixel editing).
-- Check or uncheck the Rulers to hide or view the workspace pixel-sized rulers.
-- Change your ruler measurement in case you needed to use inch or centimeters instead of pixels.
-- Select the zooming function if you need to take a closer look at your work area.
-- Select Normal Size to view your image at 100% zoom.
-- Select Best Fit to view the image in its entirety.
-- Check or uncheck your workspace tools and windows to hide or view any features you may need.
+
+* Check or uncheck the Toolbar to hide or view it.
+* Check or uncheck the Pixel Grid to turn on or off the pixel-sized gridlines (mainly used for pixel editing).
+* Check or uncheck the Rulers to hide or view the workspace pixel-sized rulers.
+* Change your ruler measurement in case you needed to use inch or centimeters instead of pixels.
+* Select the zooming function if you need to take a closer look at your work area.
+* Select Normal Size to view your image at 100% zoom.
+* Select Best Fit to view the image in its entirety.
+* Check or uncheck your workspace tools and windows to hide or view any features you may need.
 
 ### __Saving the New Project__ ###
 
