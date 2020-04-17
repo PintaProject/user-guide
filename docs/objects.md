@@ -5,12 +5,12 @@
  You can draw: 
 
 -  **Lines/Curves** 
-    - [Line/curve with *Pencil* or *Brush* tools](objects.md#lines-and-curves-with-the-pencil-or-brush) ![pencil](img/pencil.png) ![brush](img/brush.png)
-    - [Line/curve with *Form* tool](objects.md#lines-and-curves-with-a-form-tool) ![line curve icon](img/linecurve.png)
--  [**Rectangles** with *Rectangle* tool](objects.md#rectangles-rounded-rectangles-or-ellipses) ![rectangle icon](img/rectangle.png) 
--  [**Rounded Rectangles** with *Rounded Rectangle* tool](objects.md#rectangles-rounded-rectangles-or-ellipses) ![rounded rectangle icon](img/roundedrectangle.png)
--  [**Ellipses** with *Ellipse* tool](objects.md#rectangles-rounded-rectangles-or-ellipses) ![Ellipse icon](img/ellipseshape.png)
--  [**Freeform Shapes** with *Freeform Shapes* tool](objects.md#freeform-shapes) ![freeform icon](img/freeform.png)
+    - [Line/curve with *Pencil* or *Brush* tools](objects.md#lines-and-curves-with-the-pencil-or-brush) ![pencil](img/overview/pencil.png) ![brush](img/overview/brush.png)
+    - [Line/curve with *Form* tool](objects.md#lines-and-curves-with-a-form-tool) ![line curve icon](img/overview/line.png)
+-  [**Rectangles** with *Rectangle* tool](objects.md#rectangles-rounded-rectangles-or-ellipses) ![rectangle icon](img/overview/rec.png) 
+-  [**Rounded Rectangles** with *Rounded Rectangle* tool](objects.md#rectangles-rounded-rectangles-or-ellipses) ![rounded rectangle icon](img/overview/roundrec.png)
+-  [**Ellipses** with *Ellipse* tool](objects.md#rectangles-rounded-rectangles-or-ellipses) ![Ellipse icon](img/overview/ell.png)
+-  [**Freeform Shapes** with *Freeform Shapes* tool](objects.md#freeform-shapes) ![freeform icon](img/overview/freeform.png)
 
 &nbsp;
 ## Lines and Curves
@@ -19,7 +19,7 @@
 
 Before selecting a pencil or brush, it is recommended to **add a new layer** to the workpage so that it is easier to isolate/edit your pencil and brush stokes in the future.
 
-1. [Select the *Brush* or *Pencil* tool](choose.md##How to Select a Pencil) (![brush tool](img/brush.png) or ![pencil tool](img/pencil.png)).
+1. [Select the *Brush* or *Pencil* tool](choose.md##How to Select a Pencil) (![brush tool](img/overview/brush.png) or ![pencil tool](img/overview/pencil.png)).
 
 2. [Select a primary color](palette.md) from the color *Palette* menu.
 3. Create a starting point by clicking on the image display area with the left mouse button. 
@@ -31,7 +31,7 @@ Before selecting a pencil or brush, it is recommended to **add a new layer** to 
 
 The following steps explain how to draw a line using the *Line/curve* Tool. After creating a straight line, you can modify it to be a curvy line and these steps are also explained below.
 
-1. Select the *Lines/Curve* tool from the **Tools** Menu.![line curve icon](img/linecurve.png)
+1. Select the *Lines/Curve* tool from the **Tools** Menu.![line curve icon](img/overview/line.png)
 2. Select the desire brush width and line style from the *Line/Curve* option menu. 
     -  **Brush width**   
         ![Brush Width](img/brushwidth.png)    
@@ -89,7 +89,7 @@ The following steps explain how to draw a line using the *Line/curve* Tool. Afte
 
 ## Rectangles, Rounded Rectangles, or Ellipses
 
-1. Select the preset rectangle ![rectangle icon](img/rectangle.png), rounded rectangle ![rounded rectangle icon](img/roundedrectangle.png) or ellipse ![ellipse icon](img/ellipseshape.png) shape tool. 
+1. Select the preset rectangle ![rectangle icon](img/overview/rec.png), rounded rectangle ![rounded rectangle icon](img/overview/roundedrec.png) or ellipse ![ellipse icon](img/overview/ell.png) shape tool. 
 2. Select the desire options from the shape option menu. 
     -  **Brush width**   
         ![Brush Width](img/brushwidth.png)    
@@ -117,7 +117,7 @@ The following steps explain how to draw a line using the *Line/curve* Tool. Afte
 ## Freeform Shapes
 The Freeform shape tool enables you to draw a shape that has both curved and straight segments.
 
-1. Select the *Freeform* tool from the **Tools** Menu.![Free Form icon](img/freeform.png)
+1. Select the *Freeform* tool from the **Tools** Menu.![Free Form icon](img/overview/freeform.png)
 2. Create a starting point by clicking on the image display area with the left mouse button. 
 3. Hold down the mouse button and draw the freeform shape that you wish to draw. Unlike other draw software, Pinta requires you to continuously hold down the mouse button while drawing the freeform shape which requires a very steady hand. If you are having a hard time drawing you may wish to zoom in your screen before using the draw tool for more controlled movements.
 4. Release the mouse button once you have completed drawing your desired shape. If you do not end at your starting point (**A**), Pinta will default to drawing a straight line between the end point (**B**) and start point of the closed shape (refer to Draw Freeform Shape Example diagram below). 
