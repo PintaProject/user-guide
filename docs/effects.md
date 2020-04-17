@@ -18,7 +18,7 @@ All of the effects can be found in the effects menu:
 
 To illustrate all of the effects we will be using this photo of KFC.
 
-![kfcoriginal](img/kfcoriginal.png)
+![kfcoriginal](img/kfcoriginal.PNG)
 
 
 ### Glow: ###
