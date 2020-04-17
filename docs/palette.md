@@ -1,11 +1,11 @@
 # Creating Palette
 
-Pinta comes with a default palette of 48 Colors that you can use to quickly select when picking a color.
+Pinta comes with a default palette of 48 Colors that you can use to quickly select a color.
 
 ![Color Palette](img/color/colorpalette.png)
 
 
- To change the number of colors on the palette, save your customized palette, open a save palette or save a palette:
+ To change the number of colors on the palette, save your customized palette, open a saved palette, or save a palette:
 
 1.  Go to **Edit > Palette**.
 
