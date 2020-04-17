@@ -15,7 +15,7 @@ To move and rotate a selected portion of your image using the *Move Selected Pix
  
     &nbsp; 
 
-3.  Select the *Move Selected Pixels* Tool ![Move Selection Tool](img/moveselectedpixels.png) from the **Tools** Menu.
+3.  Select the *Move Selected Pixels* Tool ![Move Selection Tool](img/overview/movepix.png) from the **Tools** Menu.
 
      ![Select Move Selection Tool](img/selectmoveselectedpixels.png)  
  
