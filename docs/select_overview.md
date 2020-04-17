@@ -10,11 +10,11 @@ Using a selection *Tool* you can isolate a specific area and make modifications 
 
 Pinta provides the following selection *Tools*:
 
-  - [**Magic Wand**](wand.md) ![wand](img/wandpic.png): Use to select a colored area or similar colored areas (for example, the blue portion of an image) without having to trace an outline. You can specify the selected color range (tolerance), relative to the original color you click.
-  - [**Lasso**](lasso.md) ![lasso](img/lasso.png):  Use to select a freeform border shaped portion of an image.
-  - [**Ellipse**](ellipse.md) ![ellipse](img/ellipse.png):  Use to select an ellipse portion of an image.
-  - [**Rectangle**](rectangle.md) ![rectangle](img/rectangleselect.png): Use to select a rectangular portion of an image.
-  - [**Move Selection**](select_location.md) ![move](img/moveselection.png): Use to change the selected outline location (position and orientation) that is created from one of the above selection tools.
+  - [**Magic Wand**](wand.md) ![wand](img/overview/wand.png): Use to select a colored area or similar colored areas (for example, the blue portion of an image) without having to trace an outline. You can specify the selected color range (tolerance), relative to the original color you click.
+  - [**Lasso**](lasso.md) ![lasso](img/overview/lasso.png):  Use to select a freeform border shaped portion of an image.
+  - [**Ellipse**](ellipse.md) ![ellipse](img/overview/ellsel.png):  Use to select an ellipse portion of an image.
+  - [**Rectangle**](rectangle.md) ![rectangle](img/overview/recsel.png): Use to select a rectangular portion of an image.
+  - [**Move Selection**](select_location.md) ![move](img/overview/movesel.png): Use to change the selected outline location (position and orientation) that is created from one of the above selection tools.
 
 ## Select All Options
 
