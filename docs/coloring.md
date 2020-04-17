@@ -43,7 +43,7 @@ To select a customize color you can set the customized color by either using **S
 
 ## Select an Exact Color Match From an Image  
     
-   1. Select the Color Picker tool [color picker](img/overview/pick.png) from the **Tools** menu
+   1. Select the *Color Picker* tool ![color picker](img/overview/picker.png) from the **Tools** menu
            ![eye dropper](img/color/colorpicker.png).
    
    2. Left click to set the primary color and right click to set the secondary color.
