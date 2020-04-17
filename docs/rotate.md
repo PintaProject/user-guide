@@ -60,9 +60,9 @@
 
     2. Click **OK** when the degree amount is the desired value.  
 
-  The following example shows what would happen if Rotate 127 degrees was selected:  
+    The following example shows what would happen if Rotate 127 degrees was selected:  
 
-  ![Rotate one hundred twenty seven degrees](img/rotatelarge.png)
+    ![Rotate one hundred twenty seven degrees](img/rotatelarge.png)
     
 ##  Rotate Using The Move Selection Tool
 
