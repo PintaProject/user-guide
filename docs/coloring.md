@@ -9,7 +9,7 @@ To select a customize color:
 
      ![Select Primary or Secondary Color](img/color/selectprimarysecondarycolor.png)  
 
-     The corresponding **Choose Primary Color** or **Choose Secondary** menu window will then appear on your screen. 
+     The corresponding **Choose Primary Color** or **Choose Secondary** dialog boxes will then appear on your screen. 
 
      ![Primary Color Window](img/color/primarycolorwindow.png) ![Secondary Color Window](img/color/secondarycolorwindow.png)
 
