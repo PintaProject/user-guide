@@ -9,7 +9,7 @@
 
 ## Remove items with Cut or Delete 
 
-1. Select from the *Images Window* the image with the items that you would like to remove.
+1. Select from the *Images* window the image with the items that you would like to remove.
 
      ![Image Window select image](img/crop/imageflowerselect.png)  
 
