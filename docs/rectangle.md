@@ -19,5 +19,4 @@ The *Rectangle* Select Tool can be used to select rectangular areas (including s
      ![Rectangle Example](img/rectanglecreate.png) 
 
      &nbsp;
-
 4. Release the mouse button (and shift button if it was pressed) once you have captured the rectangular region you want to select.   
