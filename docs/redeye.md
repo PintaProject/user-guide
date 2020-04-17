@@ -1,6 +1,6 @@
 ## Reduce red-eye ##
 
-To access the red-eye removal feature, go to **Effects > Photo > Red Eye Removal**
+To open the red-eye removal feature, go to **Effects > Photo > Red Eye Removal**
 
 The **Red eye removal** function recolors the red eyes caused by flash photography. 
 
@@ -8,7 +8,7 @@ Here's our subject, suffering a chronic case of red eye caused by flash.
 
 ![redeyebefore](img/redeyebefore.PNG)
 
-* To confine the effect to just the eyes, use the selection tool to highlight the subject’s eyes. 
+* Select the subjects eyes using one of the [selection tools](select_overview.md) to confine effect to just the eyes
 
 
 ![redeyeselect](img/redeyeselect.PNG)
