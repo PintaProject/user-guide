@@ -1,6 +1,6 @@
 ## __General Overview__ ##
 
-When the Pinta workspace first loads, you'll notice it has an uncluttered layout that is similar to MS Paint, but has more advanced features compared to it.
+When the Pinta workspace first loads, you'll notice it has an uncluttered layout that is similar to MS Paint, but has more advanced features in comparison.
 
 ![workspace](img/overview/workspace.png)
 
@@ -13,7 +13,7 @@ When the Pinta workspace first loads, you'll notice it has an uncluttered layout
 
 ![toolbar](img/overview/toolbar.png)
 
-[__Tools Menu__](#tools-menu-features) - contains a group of icons or buttons grouped together that provide you a quick way to select commonly used tools. It works in conjunction to the Tools Settings Bar just right above it to modify the tool properties.
+[__Tools Menu__](#tools-menu-features) - contains a group of icons or buttons grouped together that provide a quick way to select  commonly used tools. It works in conjunction to the Tools Settings Bar just right above it to modify the tool properties.
 
 ![tools](img/overview/tools.png)
 
@@ -37,7 +37,7 @@ __Images Window__ - displays the opened images that you can use as part of your 
 
 ![menu](img/overview/menubar.png)
 
-__File__ - contains commands that allows you to create a new image, take a screenshot of your desktop, open an image, save an image, close an image, and quit the program within Pinta. 
+__File__ - contains commands that allow you to create a new image, take a screenshot of your desktop, open an image, save an image, close an image, and quit the program within Pinta. 
 
 ![file](img/overview/file.png)
 
