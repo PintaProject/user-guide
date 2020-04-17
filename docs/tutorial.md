@@ -3,7 +3,7 @@
 !!! Note
     Before we begin, please make sure you have setup and understood your workspace. If you have trouble setting up or understanding how to start, please click [here](setup.md) for a quick workspace guide.
 
-In this tutorial, we will learn how to create a final image by using these key ingredients and techniques:
+In this tutorial, we will learn how to create our first project - a final image. These key ingredients and techniques would help us achieve our goal:
 
 - Working with layers;
 - Making selections;

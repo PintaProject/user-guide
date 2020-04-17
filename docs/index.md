@@ -4,7 +4,7 @@ This user guide was developed to help you speed up your learning curve for Pinta
 [![button](img/firststepsicon.png)](firststepsoverview.md) [![button](img/quickstarticon.png)](quickstartoverview.md) [![button](img/imagelayericon.png)](layersoverview.md) [![button](img/selectingobjectsicon.png)](select_overview.md) [![button](img/coloringicon.png)](coloringoverview.md) [![button](img/illustratingicon.png)](illustratingoverview.md) [![button](img/imagetransformationsicon.png)](transformoverview.md) [![button](img/imageenhancementicon.png)](imageenhancementsoverview.md) [![button](img/imagerepairicon.png)](imagerepairoverview.md) [![button](img/exporticon.png)](exportoverview.md) [![button](img/referenceicon.png)](shortcuts.md)
 ### __About__ ###
 
-#### __*Pinta Project: Painting Made Simple*__ ####
+__*Pinta Project: Painting Made Simple*__
 
 Pinta is a free, open-source, raster image editor modeled after Paint.NET. Its goal is to provide users with a simple yet powerful way to draw and manipulate images on Linux, Mac, and Windows.
 

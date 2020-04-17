@@ -5,31 +5,31 @@ When the Pinta workspace first loads, you'll notice it has an uncluttered layout
 ![workspace](img/overview/workspace.png)
 
 ### __Pinta Workspace__ ###
-[__Menu Bar__](#menu-bar-features) - at the top just below the Title bar, contains drop-down menus.
+[__Menu Bar__](#menu-bar-features) - contains drop-down menus.
 
 ![menubar](img/overview/menubar.png)
 
-[__Toolbar__](#toolbar-features) - under the Menu bar contains buttons and other elements which can be used to perform some of the more common operations.
+[__Toolbar__](#toolbar-features) - contains buttons and other elements which can be used to perform some of the more common operations.
 
 ![toolbar](img/overview/toolbar.png)
 
-[__Tools Menu__](#tools-menu-features) - in the upper-left under the Toolbar, contains a group of icons or buttons grouped together that provide you a quick way to select commonly used tools. It works in conjunction to the Tools Settings Bar just right above it to modify the tool properties.
+[__Tools Menu__](#tools-menu-features) - contains a group of icons or buttons grouped together that provide you a quick way to select commonly used tools. It works in conjunction to the Tools Settings Bar just right above it to modify the tool properties.
 
 ![tools](img/overview/tools.png)
 
-[__Palette Menu__](palette.md) - in the lower-left under the Tools Menu, provides you with quick access to a preset of colors. You can select your primary and secondary color by left-clicking or right-clicking on the color of choice.
+[__Palette Menu__](palette.md) - provides you with quick access to a preset of colors. You can select your primary and secondary color by left-clicking or right-clicking on the color of choice.
 
 ![palette](img/overview/palette.png)
 
-[__Layers Window__](layers.md) - in the upper-right corner under the Toolbar, displays the number of layers and the active window. Layers in Pinta can be transparent, translucent, or opaque as well as being visible in the workspace or not.
+[__Layers Window__](layers.md) - displays the number of layers and the active window. Layers in Pinta can be transparent, translucent, or opaque as well as being visible in the workspace or not.
 
 ![layers](img/overview/layers.png)
 
-__Images Window__ - in the middle-right side, under the Layers Window, displays the opened images that you can use as part of your layers and base image. 
+__Images Window__ - displays the opened images that you can use as part of your layers and base image. 
 
 ![images](img/overview/images.png)
 
-[__History Window__](setup.md#Using-Undo-or-Redo-Functions) - in the lower-right corner, displays a list of commands or operations performed. Can be undone or redone by selecting a command that was performed in the displayed list.
+[__History Window__](setup.md#Using-Undo-or-Redo-Functions) - displays a list of commands or operations performed. Can be undone or redone by selecting a command that was performed in the displayed list.
 
 ![history](img/overview/history.png)
 
@@ -49,7 +49,7 @@ __View__ - contains commands that change the way your image project is displayed
 
 ![view](img/overview/view.png)
 
-__Image__ - contains commands that affect the image in some way. Most of the image adjustments in the menu have associated keyboard [shortcuts](shortcuts.md). The commands that have three dots ... will have a pop-up window that offers feature properties. This menu is used in conjunction with the Images Window.
+__Image__ - contains commands that affect the image in some way. Most of the image adjustments in the menu have associated keyboard [shortcuts](shortcuts.md). The commands that have three dots "..." will have a pop-up window that offers feature properties. This menu is used in conjunction with the Images Window.
 
 ![image](img/overview/image_menu.png)
 
@@ -73,7 +73,7 @@ __Window__ - has two commands. Below those commands you'll notice an image name 
 
 ![window](img/overview/window.png)
 
-[__Help__](index.md#help) - provides quick access to a number of online resources like the Pinta Website, File a Bug, Translate This Application, and About. 
+[__Help__](index.md#help) - provides quick access to a number of online resources like the [Pinta Website](https://pinta-project.com/pintaproject/pinta/), [File a Bug](https://bugs.launchpad.net/pinta[), [Translate This Application](https://translations.launchpad.net/pinta), and About. 
 
 ![help](img/overview/help.png)
 
@@ -87,15 +87,15 @@ __Window__ - has two commands. Below those commands you'll notice an image name 
 
 ![Save](img/overview/save.png) __Save__ - command allows you to save the image with the current file name.
 
-![Cut](img/overview/cut.png) __Cut__ - command allows you to remove a selected portion of the active layer and place it on the clipboard (a clipboard is a temporary storage area for data that the user wants to copy from one place to another) .
+![Cut](img/overview/cut.png) __Cut__ - command allows you to remove a selected portion of the active layer and place it on the clipboard (a clipboard is a temporary storage area for data that the user wants to copy from one place to another).
 
 ![Copy](img/overview/copy.png) __Copy__ - command duplicates the selected region to the clipboard. Unlike the Cut command, the Copy command leaves the selection on the active layer. The current selection also remains active in the active window. 
 
 ![Paste](img/overview/paste.png) __Paste__ - command allows you to insert an image or a selected section of a layer from the clipboard into the active layer.
 
-![Undo](img/overview/undo.png) __Undo__ - command allows you to erase the last change done to a project, reverting it to an older state. Notice the History Window when you click on the Undo command. The selected item moves up the list to the previous item.
+![Undo](img/overview/undo.png) __Undo__ - command allows you to erase the last change done to a project, reverting it to an older state. Notice the History Window when you click on the Undo command - the selected item moves up the list to the previous item.
 
-![Redo](img/overview/redo.png) __Redo__ - command allows you to reverse your last Undo. Notice the History Window when you click on the Redo command. The selected item moves down the list to the next item. So the Redo command restores any actions that have been previously undone using an Undo.
+![Redo](img/overview/redo.png) __Redo__ - command allows you to reverse your last Undo. Notice the History Window when you click on the Redo command - the selected item moves down the list to the next item. So the Redo command restores any actions that have been previously undone using an Undo.
 
 ![Crop to Selection](img/overview/crop.png) __Crop to Selection__ - command is only available to a selected part of an image. To see how this feature works, click the Rectangle Select button on the Tool Palette and then select an object in your image.
 

@@ -1,58 +1,61 @@
 ## __Edit Layer Properties__ ##
 
-In the Layers Window, we work on each single layer. The layer we currently work on is called an [__active layer__](concept.md#layers). We select an active layer by clicking on the layer listed under the Layers Window to be able to edit that particular layer. You can only edit or manipulate the image that is active: no other layer will be affected or changed. A common mistake made when using layers is trying to edit an image that is not active. So keep in mind as you are learning to use Pinta that image manipulations only affect the active layer. You can always tell which image is active by looking at the selected thumbnail in the Layers Window.
+In the Layers Window, we work on each single layer. The layer we currently work on is called an [__active layer__](concept.md#layers). We select an active layer by clicking on the layer listed under the Layers Window to be able to edit that particular layer. You can only edit or manipulate the layer that is active: no other layer will be affected or changed. 
 
-Layers Window:  
+A common mistake made when using layers is trying to edit an image that is not active. So keep in mind as you are learning to use Pinta that image manipulations only affect the active layer. You can always tell which image is active by looking at the selected thumbnail in the Layers Window.
+
+__Layers Window__:  
 ![window](img/layer/window.png)  
 
-Layers Menu:  
+__Layers Menu__:  
 ![menu](img/layer/menu.png)  
 
-Layer Properties:  
+__Layer Properties__:  
 ![menu](img/layer/layerproperties.png)  
 
 ### __Change Layer Name__ ###
-1. Double-click the layer from the Layers Window or click on *Layer Properties...* from the Layers Menu ![properties](img/layer/properties.png).
-2. Modify the name in the text box.
-3. Click OK to apply the change.
+1. Double-click the layer from the Layers Window or click on __Layer Properties...__ from the Layers Menu ![properties](img/layer/properties.png).
+2. Enter the name in the text box.
+3. Select __OK__.
 
 ### __Hide/Unhide Layers__ ###
-While editing, there are moments when you need to hide a layer in order to work more efficiently on the other layers. To do so, you can hide or unhide any layers you need to view.
+While editing, there are moments when you need to hide or unhide a layer in order to work more efficiently on the other layers. To do so, you can toggle the checkbox in any layer you need to display in the workspace.
 
-1. Click on the checkbox for the layer of your choice, under the Layers Window. 
+1. Choose the layer to hide or unhide under the Layers Window.
+2. Check or uncheck the box.  
 ![window boxes](img/layer/winbox.png)
 
 ### __Flipping Layers__ ###
-1. Select an active layer.
-2. Click on either *Flip Horizontal* or *Flip Vertical* to manipulate the whole layer to flip horizontally or vertically.  
+1. Choose the layer to flip horizontally or vertically under the Layers Window.
+2. Select __Flip Horizontal__ or __Flip Vertical__.  
 ![flip](img/layer/flip.png)
 
 ### __Rotating Layers__ ###
-1. Select an active layer.
-2. Click on *Rotate / Zoom Layer...*.  
+1. Choose the layer to rotate under the Layer Window.
+2. Select __Rotate / Zoom Layer...__.  
 ![rotate](img/layer/rotate.png)
-3. Use the angle slider or type in an angle degree number to select the degree of rotation.  
+3. Select the angle in the slider or enter an angle degree to rotate.  
 ![angle](img/layer/angle.png)
-4. Click OK to apply the change.
+4. Select __OK__ to apply the change.
 
 ### __Change Layer Opacity__ ###
-1. Double-click the layer from the Layers Window or click on *Layer Properties...* from the Layers Menu ![properties](img/layer/properties.png).
-2. Use the slider or enter in the percentage of your choice.
-3. Click OK to apply the change.
+1. Double-click the layer from the Layers Window or click on __Layer Properties...__ from the Layers Menu ![properties](img/layer/properties.png).
+2. Select the opacity in the slider or enter the percentage of opacity.
+3. Select __OK__ to apply the change.
 
 ### __Apply Blend Mode__ ###
 A layer's blend mode specifies how it is blended with the layers immediately below it in the layer stack.  Changing the Blend Mode on a single layer can radically alter the composite image. The order of the layers in the layers stack is important when using layer blend modes. Layer A blended over Layer B is not the same as Layer B blended over Layer A - even if the same blend mode is used.
 
-1. Double-click the layer from the Layers Window or click on *Layer Properties...* from the Layers Menu ![properties](img/layer/properties.png).
-2. Use the drop-down to select the style of blend mode.
-3. Click OK to apply the change.
+1. Double-click the layer from the Layers Window or click on __Layer Properties...__ from the Layers Menu ![properties](img/layer/properties.png).
+2. Select the style of blend mode in the drop-down menu.
+3. Select __OK__ to apply the change.
 
-The Blend Mode drop-down list offers 14 blend modes. We'll be using two images for the blend mode examples: background and a top layer.
+The Blend Mode drop-down list offers 14 blend modes. We'll be using two images for the blend mode examples: a background layer and a top layer.
 
-Background:  
+__Background Layer__:  
 ![background](img/layer/background.jpg)  
 
-Top Layer:  
+__Top Layer__:  
 ![burger](img/layer/burger.png)
 
 #### Normal ####
