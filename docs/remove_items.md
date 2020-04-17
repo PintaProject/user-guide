@@ -1,6 +1,6 @@
 # Remove Items
 
- You can romove items a number of different ways using Pinta:  
+ You can remove items a number of different ways using Pinta:  
 
  -  [**Cut**](remove_items.md#remove-item-with-cut-or-delete): Use the cut option under the edit menu to delete anything in the image that has been selected.
  -  [**Delete Key**](remove_items.md#remove-item-with-cut-or-delete): Use the **`Delete`** key on your keyboard to delete anything that has been selected.
