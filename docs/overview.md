@@ -1,10 +1,10 @@
-## __General Overview__ ##
+# __General Overview__ #
 
 When the Pinta workspace first loads, you'll notice it has an uncluttered layout that is similar to MS Paint, but has more advanced features compared to it.
 
 ![workspace](img/overview/workspace.png)
 
-### __Pinta Workspace__ ###
+## __Pinta Workspace__ ##
 [__Menu Bar__](#menu-bar-features) - contains drop-down menus.
 
 ![menubar](img/overview/menubar.png)
@@ -33,7 +33,7 @@ __Images Window__ - displays the opened images that you can use as part of your 
 
 ![history](img/overview/history.png)
 
-### __Menu Bar Features__ ###
+## __Menu Bar Features__ ##
 
 ![menu](img/overview/menubar.png)
 
@@ -77,7 +77,7 @@ __Window__ - has two commands. Below those commands you'll notice an image name 
 
 ![help](img/overview/help.png)
 
-### __[Toolbar Features](#general-overview)__ ###
+## __[Toolbar Features](#general-overview)__ ##
 
 ![toolbar](img/overview/toolbar.png)
 
@@ -107,7 +107,7 @@ __Window__ - has two commands. Below those commands you'll notice an image name 
 
 ![Selection Indicator](img/overview/selection.png) __Selection Indicator__ - to show the pixel area of the selection.
 
-### __Tools Menu Features__ ###
+## __Tools Menu Features__ ##
 
 ![tools](img/overview/toolsname.png)
 
