@@ -27,7 +27,7 @@ To illustrate all of the effects we will be using this photo of KFC.
 
 The **Glow** effect is used to give images an inner glow by brightening lighter tones and muting color saturation, making the image appear as though it were strongly back-lit. A dialog box populates with three sliders, radius, brightness, and contrast.
 
- 1. Got to **Effects** > **Photo** and select **Glow**. The **Glow** dialogue box will then appear.
+ 1. Go to **Effects** > **Photo** and select **Glow**. The **Glow** dialogue box will then appear.
 
 ![glowbox](img/glowbox.PNG)
 
@@ -42,7 +42,7 @@ The **Glow** effect is used to give images an inner glow by brightening lighter 
    * Drag slider to the right to increase brightness
    * Drag slider to the left to decrease brightness
 
-4. Adjust the **Contrast** slider to control the color range, making an image appear more vivid or dull. Higher contract values yield more vibrant tones and lower values yield duller tones.
+4. Adjust the **Contrast** slider to control the color range, making an image appear more vivid or dull. Higher contrast values yield more vibrant tones and lower values yield duller tones.
 
   * Drag slider to the right to increase contrast
   * Drag slider to the left to decrease contrast
@@ -54,19 +54,19 @@ The **Glow** effect is used to give images an inner glow by brightening lighter 
 
 ![kfcsharpen](img/kfcsharpen.PNG)
 
-The **Sharpen** effect is used to reduce softness and emphasize texture in an image to draw in viewer focus. A dialog box populates with a strength slider. The strength slider controls how pronounced the edges in an image appear, increasing the contrast of edges.
+The **Sharpen** effect is used to reduce softness and emphasize texture in an image to draw in viewer focus. A dialog box populates with a strength slider. The strength slider controls how pronounced the edges in an image appear, increasing the contrast of edges. 
 
- 1. Go to **Effects** > **Photo** and select **Sharpen**. The **Sharpen** dialogue box will then appear.
+ 1. Go to **Effects** > **Photo** and select **Sharpen**. The **Sharpen** dialogue box will then appear. 
 ![sharpenbox](img/sharpenbox.PNG)
 
-2. Adjust the **Sharpness** to control how sharp the image appears. 
+2. Adjust the Sharpness **Amount** to control how sharp the image appears. 
 
   * Drag slider to the right to increase sharpness
   * Drag slider to the left to decrease sharpness
 
 ### Soften Portrait: 
 
-The **Soften Portrait** effect is used to soften images as if the lighting were diffused, adding a subtle glow. A dialog box populates with three sliders, softness, lighting, and warmth.
+The **Soften Portrait** effect is used to soften images as if the lighting were diffused, adding a subtle glow. 
 
  1. Go to **Effects** > **Photo** and select **Soften Portrait**. The **Soften Portrait** dialogue box will then appear.
 ![softenportraitbox](img/softenportraitbox.PNG)
@@ -138,8 +138,7 @@ The **Gaussian Blur** effect applies a defocusing blur to the image or selected 
 
 The **Motion Blur** effect creates the illusion of motion in an image or selected area. A dialog box populates with two sliders, for angle and distance.
 
- 1. Select the *Motion* effect from the **Effects > Blur** dropdown.
-
+1. Go to **Effects** > **Blur** and select **Motion**. The **Motion** dialogue box will then appear. 
 ![motionblurbox](img/motionblurbox.PNG)
 
 2. Adjust the **Angle** circle slider to control the angle at which the motion blur appears It can be rotated 360 degrees.
@@ -155,10 +154,9 @@ The **Motion Blur** effect creates the illusion of motion in an image or selecte
 
 ![kfcradialblur](img/kfcradialblur.PNG)
 
-The **Radial Blur** effect is like the motion blur, but rather than following a linear path, it follows a circular one. A dialog box populates with configurable options for angle, offset, and quality. 
+The **Radial Blur** effect is like the motion blur, but rather than following a linear path, it follows a circular one. 
 
- 1. Select the *Radial* effect from the **Effects > Blur** dropdown.
-
+ 1. Go to **Effects** > **Blur** and select **Radial Blur**. The **Radial Blur** dialogue box will then appear. 
 ![radialblurbox](img/radialblurbox.PNG)
 
 2. Adjust the **Angle** circle slider to control the angle at which the blur appears It can be rotated 360 degrees.
@@ -175,10 +173,9 @@ The **Radial Blur** effect is like the motion blur, but rather than following a 
 
 ![kfcunfocusblur](img/kfcunfocusblur.PNG)
 
-The **Unfocus Blur** effect is like the Gaussian blur but yields a more dreamy or unfocused look to the image or selected area. A dialog box populates with a slider for radius.
+The **Unfocus Blur** effect is like the Gaussian blur but yields a more dreamy or unfocused look to the image or selected area. 
 
- 1. Select the *Unfocus* effect from the **Effects > Blur** dropdown.
-
+ 1. Go to **Effects** > **Blur** and select **Unfocus**. The **Unfocus** dialogue box will then appear.  
 ![unfocusblurbox](img/unfocusblurbox.PNG)
 
 2. Adjust the **Radius** slider to control the strength of the effect. A higher value yields a stronger blur effect. 
@@ -190,10 +187,9 @@ The **Unfocus Blur** effect is like the Gaussian blur but yields a more dreamy o
 
 ![kfczoomblur](img/kfczoomblur.PNG)
 
-The **Zoom Blur** effect is used to give the appearance of motion towards the focal point of an image, as if the viewer were closing in on the focal point. It is like the Motion blur but applied outwards from a central point. A dialog box populated with two configurable options, amount and offset.
+The **Zoom Blur** effect is used to give the appearance of motion towards the focal point of an image, as if the viewer were closing in on the focal point. It is like the Motion blur but applied outwards from a central point. 
 
- 1. Select the *Zoom* effect from the **Effects > Blur** dropdown.
-
+1. Go to **Effects** > **Blur** and select **Zoom Blur**. The **Zoom Blur** dialogue box will then appear.
 ![zoomblurbox](img/zoomblurbox.PNG)
 
 2. Adjust the **Amount** slider to control how strong the blur appears. A higher value yields a stronger effect. 
@@ -205,7 +201,7 @@ The **Zoom Blur** effect is used to give the appearance of motion towards the fo
 
 
 ### Distort: ###
-The **Distort** submenu is made up of six distortion options: bulge, frosted glass, pixelate, polar inversion, tile reflection, and twist. These can be applied to the whole image or a selected area.
+There are six **Distort** options: [**Bulge**](effects.md#bulge, [**Frosted Glass**](effects.md#frosted-glass), [**Pixelate**](effects.md#pixelate), [**Polar Inversion**](effects.md#polar-inversion) [**Tile Reflection**](effects.md#tile-reflection), and [**Twist**](effects.md#twist). These can be applied to the whole image or a selected area.
 
 #### Bulge ####
 
