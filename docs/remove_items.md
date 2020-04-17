@@ -4,7 +4,8 @@
 
  -  [**Cut**](remove_items.md#remove-item-with-cut-or-delete): Use the cut option under the edit menu to delete anything in the image that has been selected.
  -  [**Delete Key**](remove_items.md#remove-item-with-cut-or-delete): Use the **`Delete`** key on your keyboard to delete anything that has been selected.
- -  [**Remove a Layer**](remove_items.md#remove-itme-by-removing-layer): Use the remove layer method to delete all images on a layer and keep all images on other layers. 
+ -  [**Remove a Layer**](remove_items.md#remove-item-by-removing-layer): Use the remove layer method to delete all images on a layer and keep all images on other layers. 
+ -  [**Eraser**](remove_items.md#remove-item-with-eraser): Use the eraser tool to erase parts of your image.
 
 ## Remove items with Cut or Delete 
 
@@ -66,6 +67,15 @@ The following shows an example of how this would be done.
     ![before layer delete image](img/remove/beforedeletelayer.png)
 
     ![after layer delete image](img/remove/afterdeletelayer.png)
+    
+## Remove Item With Eraser Tool
+
+The eraser tool is ideal for removing a very small portion of an image or to do a touch up on a photo.
+
+1. Select the Eraser tool ![Eraser](img/overview/eraser.png) from the **Tools** menu.
+2. Select the desired brush width (1-55) in the **Eraser Tool** bar menu.
+3. Left click to erase to tranparent and right click to use [secondary color](coloring.md)
+4. Drag the eraser tool onto the canvas and click and drag the eraser to erase the parts of the image that you would like to remove.
 
 
 
