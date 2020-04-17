@@ -27,25 +27,25 @@ To illustrate all of the effects we will be using this photo of KFC.
 
 The **Glow** effect is used to give images an inner glow by brightening lighter tones and muting color saturation, making the image appear as though it were strongly back-lit. A dialog box populates with three sliders, radius, brightness, and contrast.
 
- 1. Select the *Glow* effect from the **Effects > Photo** dropdown.
+ 1. Got to **Effects** > **Photo** and select **Glow**. The **Glow** dialogue box will then appear.
 
 ![glowbox](img/glowbox.PNG)
 
 
-2. Adjust the **Radius** slider to control the strength of the effect. Higher values yield stronger results.
+2. Adjust the **Radius** slider to control the strength of the effect. Higher values yield stronger effect results.
 
-* Drag slider to the right to increase effect strength
-* Drag slider to the left to decrease effect strength
+   * Drag slider to the right to increase effect strength
+   * Drag slider to the left to decrease effect strength
 
 3. Adjust the **Brightness** slider to control the intensity of the illumination. Higher values yield brighter images, lower values yield darker images.
 
-* Drag slider to the right to increase brightness
-* Drag slider to the left to decrease brightness
+   * Drag slider to the right to increase brightness
+   * Drag slider to the left to decrease brightness
 
 4. Adjust the **Contrast** slider to control the color range, making an image appear more vivid or dull. Higher contract values yield more vibrant tones and lower values yield duller tones.
 
-* Drag slider to the right to increase contrast
-* Drag slider to the left to decrease contrast
+  * Drag slider to the right to increase contrast
+  * Drag slider to the left to decrease contrast
 
 
 
@@ -56,68 +56,62 @@ The **Glow** effect is used to give images an inner glow by brightening lighter 
 
 The **Sharpen** effect is used to reduce softness and emphasize texture in an image to draw in viewer focus. A dialog box populates with a strength slider. The strength slider controls how pronounced the edges in an image appear, increasing the contrast of edges.
 
- 1. Select the *Sharpen* effect from the **Effects > Photo** dropdown.
-
+ 1. Go to **Effects** > **Photo** and select **Sharpen**. The **Sharpen** dialogue box will then appear.
 ![sharpenbox](img/sharpenbox.PNG)
 
 2. Adjust the **Sharpness** to control how sharp the image appears. 
 
-* Drag slider to the right to increase sharpness
-* Drag slider to the left to decrease sharpness
+  * Drag slider to the right to increase sharpness
+  * Drag slider to the left to decrease sharpness
 
 ### Soften Portrait: 
-To open the Soften Portrait effect go to **Effects>Photo Effects>Soften Portrait**
 
 The **Soften Portrait** effect is used to soften images as if the lighting were diffused, adding a subtle glow. A dialog box populates with three sliders, softness, lighting, and warmth.
 
- 1. Select the *Soften Portrait* effect from the **Effects > Photo** dropdown.
-
+ 1. Go to **Effects** > **Photo** and select **Soften Portrait**. The **Soften Portrait** dialogue box will then appear.
 ![softenportraitbox](img/softenportraitbox.PNG)
 
 2. Adjust the **Softness** slider to control the strength of the effect. Higher values yield a softer, more blurred image. 
 
-* Drag slider to the right to increase softness
-* Drag slider to the left to decrease softness
+  * Drag slider to the right to increase softness
+  * Drag slider to the left to decrease softness
 
 3. Adjust the **Lighting** slider to control the strength of the illumination. Higher values yield stronger lighting and brighter images. 
 
-* Drag slider to the right to increase lighting
-* Drag slider to the left to decrease lighting
+  * Drag slider to the right to increase lighting
+  * Drag slider to the left to decrease lighting
  
 
 4. Adjust the **Warmth** slider to control the color of the lighting. Higher values yield more warmth, making tones appear more golden. Lower values yield more coolness, making tones appear bluer.
 
-* Drag slider to the right to increase warmth
-* Drag slider to the left to decrease warmth
+  * Drag slider to the right to increase warmth
+  * Drag slider to the left to decrease warmth
 
-Here's a before and after the Soften Portrait effect:
+Here's is the image before and after using the Soften Portrait effect:
 
 ![redeyeafter](img/redeye%20after.PNG)   ![softenportraitafter](img/softenportraitafter.PNG)
 
 
 ### Blur: ###
 
-The **Blur** submenu is made up of six blurring options: fragment, gaussian, motion, radial, unfocus, and zoom. These can be applied to the whole image or a selected area.
+There are six **Blur** effect options: [**Fragment**](effects.md#fragment), [**Gaussian**](effects.md#gaussian), [**Motion**](effects.md#motion), [**Radial**](effects.md#radial), [**Unfocus**](effects.md#unfocus), and [**Zoom**](effects.md#zoom). These can be applied to the whole image or a selected area.
 
 #### Fragment ####
 
-![kfcfragmentblur](img/kfcfragmentblur.PNG)
+The **Fragment** blur effect superimposes copies or “fragments” of the image or selected area. Copies or "fragments" of the image are superimposed over the original. This blur can be useful when creating an unfocussed multi-viewed version of an image. The effect is not unlike modern interpretations of insect-like vision and could be used to fake "drunken" or "semi-conscious" vision. 
 
-The **Fragment Blur** effect superimposes copies or “fragments” of the image or selected area. copies or "fragments" of the image are superimposed over the original. This blur can be useful when creating an unfocussed multi-viewed version of an image. The effect is not unlike modern interpretations of insect-like vision and could be used to fake "drunken" or "semi-conscious" vision. A dialog box populates with three sliders for fragments, distance, and rotation.
-
+1. Go to **Effects** > **Blur** and select **Fragment**. The **Fragment** dialogue box will then appear.
 ![fragmentblurbox](img/fragmentblurbox.PNG)
-
- 1. Select the *Fragment* effect from the **Effects > Blur** dropdown.
 
 2. Adjust the **Fragments** slider to control how many fragments appear. A higher value yields more fragments.
 
-* Drag slider to the right to increase number of fragments
-* Drag slider to the left to decrease number of fragments
+  * Drag slider to the right to increase number of fragments
+  * Drag slider to the left to decrease number of fragments
      
 3. Adjust the **Distance** slider to control how close or far fragments appear from one another. A higher value yields more distance between fragments.
 
-* Drag slider to the right to increase distance
-* Drag slider to the left to decrease distance
+  * Drag slider to the right to increase distance
+  * Drag slider to the left to decrease distance
      
 4. Adjust the **Rotation** circle slider to control the angle at which the fragments sit. It can be rotated 360 degrees. 
 
@@ -125,16 +119,17 @@ The **Fragment Blur** effect superimposes copies or “fragments” of the image
 
 ![kfcgaussianblur](img/kfcgaussianblur.PNG)
 
-The **Gaussian Blur** effect applies a defocusing blur to the image or selected area. A dialog box populates with one slider for radius.
+The **Gaussian Blur** effect applies a defocusing blur to the image or selected area.
 
- 1. Select the *Gaussian* effect from the **Effects > Blur** dropdown.
+1. Go to **Effects** > **Blur** and select **Gaussian**. The **Gaussian** dialogue box will then appear.
+
 
 ![gaussianblurbox](img/gaussianblurbox.PNG)
 
 2. Adjust the **Radius** slider to control how widely and how strongly the blur is applied. A higher value yields a stronger effect.
 
-* Drag slider to the right to increase blur strength
-* Drag slider to the left to decrease blur strength
+  * Drag slider to the right to increase blur strength
+  * Drag slider to the left to decrease blur strength
 
 #### Motion ####
 
@@ -172,8 +167,8 @@ The **Radial Blur** effect is like the motion blur, but rather than following a 
 
 4. Adjust the **Quality** slider to define the quality of the blur. A higher value yields higher quality. It is recommended to use low quality for previews, small images, and small angles. High quality should be used for final quality, large images, and large angles. 
 
-* Drag slider to the right to increase quality
-* Drag slider to the left to decrease quality 
+  * Drag slider to the right to increase quality
+  * Drag slider to the left to decrease quality 
 
 #### Unfocus ####
 
@@ -188,8 +183,8 @@ The **Unfocus Blur** effect is like the Gaussian blur but yields a more dreamy o
 
 2. Adjust the **Radius** slider to control the strength of the effect. A higher value yields a stronger blur effect. 
 
-* Drag slider to the right to increase blur strength
-* Drag slider to the left to decrease blur strength  
+  * Drag slider to the right to increase blur strength
+  * Drag slider to the left to decrease blur strength  
 
 #### Zoom ####
 
@@ -203,8 +198,8 @@ The **Zoom Blur** effect is used to give the appearance of motion towards the fo
 
 2. Adjust the **Amount** slider to control how strong the blur appears. A higher value yields a stronger effect. 
 
-* Drag slider to the right to increase blur strength
-* Drag slider to the left to decrease blur strength  
+  * Drag slider to the right to increase blur strength
+  * Drag slider to the left to decrease blur strength  
 
 3. Adjust the **Offset** option box to configure where the effect will be interpreted from, setting the focus or center of the blur. 
 
