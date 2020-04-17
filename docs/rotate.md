@@ -8,7 +8,7 @@
 
 ## Rotate Image Preset Degrees
 
-1. Select the image you want to rotate from the *Images Window*.  
+1. Select the image you want to rotate from the **Images** window.  
 
      ![Image Window select image](img/selectimage.png)  
 
@@ -16,7 +16,7 @@
     &nbsp; 
  
   
-2. Go to the *Image Menu* and select one of the preset rotations.
+2. Go to the **Image** in the *Menu bar* and select one of the preset rotations.
 
      ![Image Window select image](img/imagerotateselect.png)  
 
@@ -33,7 +33,7 @@
 
 ## Rotate Layer Specified Degrees
 
-1.  Select the layer that you would like to rotate from the *Layer Window*.
+1.  Select the layer that you would like to rotate from the **Layer** window.
 
      ![Layer Window select layer](img/selectlayer.png)  
 
@@ -41,7 +41,7 @@
     &nbsp; 
  
   
-2. Go to the *Layer Menu* and select **Layer Properties**.
+2. Go to **Layers** in the *Menu bar* and select **Rotate/Zoom Layer**.
 
      ![Layer Properties Select](img/layerpropertiesselect.png)  
 
