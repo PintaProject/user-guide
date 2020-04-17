@@ -46,6 +46,8 @@
      ![Layer Properties Select](img/layerrotatemenu.png)  
 
      The Rotate/Zoom Layer menu will then appear on your screen.  
+     
+     ![Rotate/Zoom Layer menu](img/rotatezoomlayerdialog.png)
 &nbsp;
 
 3. From the **Rotate/Zoom Layer** Menu:  
