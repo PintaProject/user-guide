@@ -32,11 +32,11 @@ The tools we'll use for sketching are:
 Now we can get started on sketching our little secret burger! Using the default canvas layout: 
 
 1. [Add a new Layer](layers.md#add-layer)
-2. Select Layer 2 from the [**Layers** window](overview.md#layers_window). Make sure the __Background__ layer is *below* the new layer (use the up and down arrows on the **Layers** window to rearrange layers if necessary). 
-2. Double-click the layer to open __Layer Properties__ and enter __Sketch__ in the text box. 
+2. Select Layer 2 from the [**Layers** window](overview.md#layers_window). Make sure the __Background__ layer is *below* the new layer (use the up and down arrows ![arrow](img/layer/arrow.png) on the **Layers** window to rearrange layers if necessary). 
+2. Double-click the layer to open __Layer Properties__ dialog box and type __Sketch__ for the name of the layer. 
 3. Select __OK__ to close the window. 
-4. Select __Sketch__ to make it an active layer. 
-5. Select __Pencil__ to start sketching your burger. 
+4. Select the layer __Sketch__ to make it an active layer. 
+5. [Select the __Pencil__ tool](choose.md#how-to-select-a-pencil) to start sketching your burger. 
     - Use __Eraser__ to remove any markings not needed. 
     - Change the eraser size as needed in the __Tools Settings Bar__. 
     - Use any [__Selection__](select_overview.md) tool to move any sketches around. In this case, we used the __Lasso Select__ to move the text box up higher. 
