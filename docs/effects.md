@@ -22,7 +22,7 @@ To illustrate all of the effects we will be using this photo of KFC.
 
 
 ### Glow: ###
-To access the Glow effect, go to **Effects>Photo Effects>Glow**
+To open the Glow effect go to **Effects>Photo Effects>Glow**
 
 ![kfcglow](img/kfcglow.PNG)
 
@@ -50,7 +50,7 @@ The **Contrast** slider controls the color range, making an image appear more vi
 
 
 ### Sharpen: ###
-To access the Sharpen effect go, to **Effects>Photo Effects>Sharpen**
+To open the Sharpen effect go to **Effects>Photo Effects>Sharpen**
 
 ![kfcsharpen](img/kfcsharpen.PNG)
 
@@ -63,7 +63,7 @@ The **Sharpen** effect is used to reduce softness and emphasize texture in an im
 
 ### Soften Portrait: 
 
-To access the Soften Portrait effect go, to **Effects>Photo Effects>Soften Portrait**
+To open the Soften Portrait effect go to **Effects>Photo Effects>Soften Portrait**
 
 The **Soften Portrait** effect is used to soften images as if the lighting were diffused, adding a subtle glow. A dialogue box populates with three sliders, softness, lighting, and warmth.
 
@@ -96,6 +96,8 @@ The **Blur** submenu is made up of six blurring options: fragment, gaussian, mot
 
 #### Fragment ####
 
+To open Fragment blur go to **Effects>Blur>Fragment**
+
 ![kfcfragmentblur](img/kfcfragmentblur.PNG)
 
 The **Fragment Blur** effect superimposes copies or “fragments” of the image or selected area. copies or "fragments" of the image are superimposed over the original. This blur can be useful when creating an unfocussed multi-viewed version of an image. The effect is not unlike modern interpretations of insect-like vision and could be used to fake "drunken" or "semi-conscious" vision. A dialogue box populates with three sliders for fragments, distance, and rotation.
@@ -114,7 +116,9 @@ The **Distance** slider controls how close or far fragments appear from one anot
      
 The **Rotation** circle slider controls the angle at which the fragments sit. It can be rotated 360 degrees. 
 
-#### Gaussian ###
+#### Gaussian ####
+
+To open Gaussian blur go to **Effects>Blur>Gaussian**
 
 ![kfcgaussianblur](img/kfcgaussianblur.PNG)
 
@@ -128,6 +132,8 @@ The **Radius** slider controls how widely and how strongly the blur is applied. 
 * Drag slider to the left to decrease blur strength
 
 #### Motion ####
+
+To open Motion blur go to **Effects>Blur>Motion**
 
 ![kfcmotionblur](img/kfcmotionblur.PNG)
 
@@ -146,6 +152,8 @@ The **Distance** slider controls the width of the blur, how far the effect shift
 
 #### Radial ####
 
+To open Radial blur go to **Effects>Blur>Radial**
+
 ![kfcradialblur](img/kfcradialblur.PNG)
 
 The **Radial Blur** effect is like the motion blur, but rather than following a linear path, it follows a circular one. A dialogue box populates with configurable options for angle, offset, and quality. 
@@ -163,6 +171,8 @@ The **Quality** slider is used to define the quality of the blur. A higher value
 
 #### Unfocus ####
 
+To open Unfocus blur go to **Effects>Blur>Unfocus**
+
 ![kfcunfocusblur](img/kfcunfocusblur.PNG)
 
 The **Unfocus Blur** effect is like the Gaussian blur but yields a more dreamy or unfocused look to the image or selected area. A dialogue box populates with a slider for radius.
@@ -175,6 +185,8 @@ The **Radius** slider controls the strength of the effect. A higher value yields
 * Drag slider to the left to decrease blur strength  
 
 #### Zoom ####
+
+To open Zoom blur go to **Effects>Blur>Zoom**
 
 ![kfczoomblur](img/kfczoomblur.PNG)
 
@@ -195,6 +207,8 @@ The **Distort** submenu is made up of six distortion options: bulge, frosted gla
 
 #### Bulge ####
 
+To open the Bulge effect go to **Effects>Distort>Bulge**
+
 ![kfcbulge](img/kfcbulge.PNG)
 
 The **Bulge** effect makes the image or selected area swell or shrink, similar to a fisheye or reverse fisheye effect. A dialogue box populates with configurations for amount and offset.
@@ -210,6 +224,8 @@ The **Offset** option box is used to configure where the effect will be interpre
 
 #### Frosted Glass ####
 
+To open the Frosted Glass effect go to **Effects>Distort>Frosted Glass**
+
 ![kfcfrostedglass](img/kfcfrostedglass.PNG)
 
 The **Frosted Glass** effect makes the image or selected area look as though it were being viewed through frosted glass. A dialogue box will populate with an amount slider.
@@ -223,6 +239,8 @@ The **Amount** slider controls the harshness and number of displaced pixels givi
 
 #### Pixelate ####
 
+To open the Pixelate effect go to **Effects>Distort>Pixelate**
+
 ![kfcpixelate](img/kfcpixelate.PNG)
 
 The **Pixelate** effect gives the image or selected area a pixelated look, reducing detail by enlarging regularly sampled pixels. A dialogue box populates with a slider for cell size.
@@ -235,6 +253,8 @@ The **Cell Size** slider controls the size of the pixels. A higher value yields 
 * Drag slider to the left to decrease pixel size 
 
 #### Polar Inversion ####
+
+To open the Polar Inversion effect go to **Effects>Distort>Polar Inversion**
 
 ![kfcpolarinversion](img/kfcpolarinversion.PNG)
 
@@ -251,6 +271,8 @@ The **Offset** option box is used to configure where the effect will be interpre
 The **Edge Behavior** dropdown selection defines how the effect behaves as the transformation reaches then exceeds the edge of the canvas.
 
 #### Tile Reflection ####
+
+To open the Tile Reflection effect go to **Effects>Distort>Tile Reflection**
 
 ![kfctilereflection](img/kfctilereflection.PNG)
 
@@ -272,6 +294,8 @@ The **Intensity** slider controls the curvature of each tile, determining how mu
 
 #### Twist ####
 
+To open the Twist effect go to **Effects>Distort>Bulge**
+
 ![kfctwist](img/kfctwist.PNG)
 
 The **Twist** effect mimics winding the image around the center point of the image. A dialogue box populates with two sliders for amount and antialias.
@@ -292,6 +316,8 @@ The **Artistic Medium** submenu is made up of Ink Sketch, Oil Painting, and Penc
 
 ##### Ink Sketch ####
 
+To open the Ink Sketch effect go to **Effects>Artistic>Ink Sketch**
+
 ![inksketch](img/kfcinksketch.PNG)
 
 The **Ink Sketch** effect makes the image appear as if it were drawn using a pen. A dialogue box populates with two sliders, ink outline and coloring.
@@ -309,6 +335,8 @@ The **Coloring** slider controls how much of the original image’s color bleeds
 * Drag slider to the left to decrease color
 
 ##### Oil Painting ####
+
+To open the Oil Painting effect go to **Effects>Artistic>Oil Painting**
 
 ![kfcoilpainting](img/kfcoilpainting.PNG)
 
@@ -328,6 +356,8 @@ The **Coarseness** slider controls how much detail is captured in the transforma
 * Drag slider to the left to decrease detail
 
 ##### Pencil Sketch ####
+
+To open the Pencil Sketch effect go to **Effects>Artistic>Pencil Sketch**
 
 ![kfcpencilsketch](img/kfcpencilsketch.PNG)
 
@@ -349,6 +379,8 @@ _The **Color Range** slider has no effect on the image as it’s generated in gr
 The **Render** submenu is made up of Clouds, Julia Fractal, and Mandelbrot Fractal, these three effects create completely new renderings, replacing all color information in the active layer or selection. 
 
 ##### Clouds ####
+
+To open the Clouds effect go to **Effects>Render>Clouds**
 
 ![cloudrender](img/cloudrender.PNG)
 
@@ -392,6 +424,8 @@ The **Coloring** of the rendered clouds depends on the two colors selected in th
 
 #### Julia Fractal ####
 
+To open the Julia Fractal effect go to **Effects>Render>Julia Fractal**
+
 ![juliafractalrender](img/juliafractalrender.PNG)
 
 The **Julia Fractal** effect renders a Julia Fractal on the layer or desired selection. A dialogue box with four sliders, for factor, quality, zoom, and angle will populate. The colors of this fractal are not configurable.
@@ -416,6 +450,8 @@ The **Zoom** slider controls the scale, allowing you to zoom in or out.
 The **Angle** circle slider controls the angle at which the fractal sits. It can be rotated 360 degrees. 
 
 #### Mandelbrot Fractal ####
+
+To open the Mandelbrot Fractal effect go to **Effects>Render>Mandelbrot Fractal**
 
 ![mandelbrotfractalrender](img/mandelbrotfractalrender.PNG)
 
@@ -448,6 +484,8 @@ The Stylize menu is made up of four options: Edge Detect, Emboss, Outline, and R
      
 #### Edge Detect ####
 
+To open the Edge Detect effect go to **Effects>Stylize>Edge Detect**
+
 ![kfcedgedetect](img/kfcedgedetect.PNG)
 
 The **Edge Detect** effect highlights the edges of an image or selected area, creating an almost embossed effect. A dialogue box populates with a circle slider for the angle. 
@@ -458,6 +496,8 @@ The **Angle** circle slider controls the angle at which the edges appear, contro
 
 #### Emboss ####
 
+To open the Emboss effect go to **Effects>Stylize>Emboss**
+
 ![kfcemboss](img/kfcemboss.PNG)
 
 The **Emboss** effect is similar to the edge effect. It generates a black and white rendering of the image where the edges have been given a 3D highlight as though they were physically embossed. A dialogue box populates with a circle slider for the angle.
@@ -467,6 +507,9 @@ The **Emboss** effect is similar to the edge effect. It generates a black and wh
 The **Angle** circle slider controls the angle at which the edges appear, controlling the direction of the light source. It can be rotated 360 degrees.
 
 #### Outline ####
+
+
+To open the Outline effect go to **Effects>Stylize>Outline**
 
 ![kfcoutline](img/kfcoutline.PNG)
 
@@ -485,6 +528,8 @@ The **Intensity** slider controls the strength of the effect, or the number of p
 * Drag slider to the left to decrease intensity
 
 #### Relief ####
+
+To open the Relief effect go to **Effects>Stylize>Relief**
 
 ![kfcrelief](img/kfcrelief.PNG)
 
