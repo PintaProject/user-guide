@@ -43,7 +43,7 @@
   
 2. Go to **Layers** in the *Menu bar* and select **Rotate/Zoom Layer**.
 
-     ![Layer Properties Select](img/layerpropertiesselect.png)  
+     ![Layer Properties Select](img/layerrotatemenu.png)  
 
      The Rotate/Zoom Layer menu will then appear on your screen.  
 &nbsp;
