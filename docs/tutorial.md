@@ -29,9 +29,10 @@ The tools we'll use for sketching are:
 - Lines  
 - Text
 
-Now we can get started on sketching our little secret burger!
+Now we can get started on sketching our little secret burger! Using the default canvas layout: 
 
-1. Select Layer 2. Make sure the __Background__ layer is *below* the new layer. 
+1. [Add a new Layer](layers.md#add-layer)
+2. Select Layer 2 from the [**Layers** window](overview.md#layers_window). Make sure the __Background__ layer is *below* the new layer (use the up and down arrows on the **Layers** window to rearrange layers if necessary). 
 2. Double-click the layer to open __Layer Properties__ and enter __Sketch__ in the text box. 
 3. Select __OK__ to close the window. 
 4. Select __Sketch__ to make it an active layer. 
