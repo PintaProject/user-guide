@@ -25,7 +25,7 @@ Here's what the example image looks like after selecting **Crop to Selection**:
 
 ## **Auto Crop**
 
-1. Select the image you want to auto crop from the **Images** window, or go to **File > Open Image File** to open up a new image from a file.  
+1. Select the image you want to auto crop from the **Images** window, or go to **File** > **Open Image File** to open up a new image from a file.  
   ![Image Window select image](img/crop/imageflowerselect.png)  
 
     &nbsp; 
