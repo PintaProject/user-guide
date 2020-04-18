@@ -19,7 +19,6 @@ Select a customized color by using Set Color Values or Select an Exact Color Mat
   
 2. From the **Choose Primary** or **Choose Secondary** Menu you have the following options to set the color:  
 
-
     -  **Triangle Dial Selector**:
 
         &nbsp;
