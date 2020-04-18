@@ -11,14 +11,14 @@ Pinta provides the following filters found in the **Adjustments** drop-down menu
 
 ## Sepia
 
-Go to **Adjustments > Sepia** to apply the sepia filter.  
+Go to **Adjustments** > **Sepia** to apply the sepia filter.  
 ![kfcsepia](img/kfcsepia.PNG)  
 
 The **Sepia** adjustment gives images an aged photograph look. It renders the image in black and white and adds a sepia tone. It doesn't have any configurable options. 
 
 ## Posterize
 
-Go to **Adjustments > Posterize** to apply the posterize filter.  
+Go to **Adjustments** > **Posterize** to apply the posterize filter.  
 ![kfcposterize](img/kfcposterize.PNG)
 
 The **Posterize** adjustment reduces the number of color values that each pixel uses, giving the image a “posterized” effect. A dialog box with three sliders, one for red, one for green, and one for blue will appear.  
@@ -31,14 +31,14 @@ Each RGB (Red, Green, Blue) color channel has 256 possible values so the sliders
 
 ## Black and White
 
-Go to **Adjustments > Black and White** to apply the black and white filter.  
+Go to **Adjustments** > **Black and White** to apply the black and white filter.  
 ![kfcbw](img/kfcbw.PNG)
 
 The **Black and White** adjustment strips the image of all color information, desaturating it, and renders it in greyscale. The image will be made up of only black, white, and greyscale. It doesn't have any configurable options.  
 
 #### Invert Colors
 
-Go to **Adjustments > Invert Colors** to apply the invert colors filter.  
+Go to **Adjustments** > **Invert Colors** to apply the invert colors filter.  
 ![kfcinvert](img/kfcinvert.PNG)
 
 The **Invert Colors** adjustment is the digital equivalent of a negative. The tones are inverted so that black becomes white and vice versa. If applied a second time, the image reverts to its original colors. It doesn't have any configurable options.  
