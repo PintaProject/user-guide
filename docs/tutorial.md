@@ -57,7 +57,7 @@ Before we move on to inking over the sketch, we want to change the color of the 
 7. Save ![save](img/overview/save.png) your progress and it should look like this: 
 ![colored sketch](img/burger/colored_sketch.gif)
 
-As you can see from the thumbnail in the __Layers Window__, the [__Color Burn__](edit.md#color-burn) layer is fully colored in but from the drawing, it only burned in the color onto the pencil sketch itself. This can only work when the layers are [stacked](concept.md#layers) accordingly and [properties](edit.md) of the layers are modified. Otherwise, the color would just lay on top of the sketch layer, completely covering it in its [normal](edit.md#normal) state.
+As you can see from the thumbnail in the __Layers__ window, the [__Color Burn__](edit.md#color-burn) layer is fully colored in but from the drawing, it only burned in the color onto the pencil sketch itself. This can only work when the layers are [stacked](concept.md#layers) accordingly and [properties](edit.md) of the layers are modified. Otherwise, the color would just lay on top of the sketch layer, completely covering it in its [normal](edit.md#normal) state.
 
 ## __Inking__ ##
 The tools we'll use for inking are:  
@@ -69,7 +69,7 @@ The tools we'll use for inking are:
 
 This part of the process, we'll be inking the rough sketch itself so that all the lines needed are more distinct.
 
-1. Create a new layer in the __Layers Window__. Make sure this new layer is *above* __Color Sketch__ layer. 
+1. Create a new layer in the __Layers__ window. Make sure this new layer is *above* __Color Sketch__ layer. 
 2. Open __Layer Properties__ dialog box for the new layer and enter __Ink__ in the text box. 
 3. Select __OK__ to close the window.  
 4. Select __Ink__ to make it an active layer. 
@@ -96,7 +96,7 @@ This is now the fun part: coloring! For the purposes of this tutorial, we also a
 ### __Bun__ ###
 Now let's begin with the bun:
 
-1. Uncheck the box for __Sketch__ in the __Layers Window__ to [hide the layer](edit.md#hide/unhide-layers) from view. We won't be needing it for this process.
+1. Uncheck the box for __Sketch__ in the __Layers__ window to [hide the layer](edit.md#hide/unhide-layers) from view. We won't be needing it for this process.
 2. Create a new layer. Make sure this new layer is *below* __Ink__ layer. 
 3. Double-click the new layer to open __Layer Properties__ dialog box and under the name type __Bun Color__. 
 4. Select __OK__ to close the window.  
@@ -156,12 +156,12 @@ The tools we'll use for adding texts and shapes are:
 From here, we can start to add these elements against the sketch layer again.
   
 1. Create a new layer. Make sure this new layer is *below* __Ink__ layer.
-2. Check the box for __Sketch__ in the __Layers Window__ to [unhide](edit.md#hide/unhide-layers) the sketch.
+2. Check the box for __Sketch__ in the __Layers__ window to [unhide](edit.md#hide/unhide-layers) the sketch.
 3. Select [__Ellipse__](objects.md) and select [__Line__](objects.md) to create a speech bubble over the sketched speech bubble.
 4. Select [__Eraser__](remove.md#eraser) to erase a part of the ellipse that's connected to the lines to complete the speech bubble.
 5. Select [__Text__](text.md) and modify the font in the *Tools Settings Bar*.
 6. Click inside the speech bubble to create a line of text.
-    - __Text__ can only be modified before you place it on the drawing so use the __History Window__ to track where you want to [__Undo and Redo__](setup.md#using-undo-or-redo-functions) your actions.
+    - __Text__ can only be modified before you place it on the drawing so use the __History__ window to track where you want to [__Undo and Redo__](setup.md#using-undo-or-redo-functions) your actions.
     - __Text__ can be done line by line so you will need to play around with __Undo__ and __Redo__ until you position your text where you want it to be.
 8. Uncheck the box for __Sketch__ to hide the sketch as we'll no longer need the sketch layer to view.
 9. Save your progress and it should look something like this: 
