@@ -3,7 +3,7 @@
 You can draw simple objects using a number of preset shapes and freeform tools that Pinta has to offer:  
 
 -  **Lines/Curves** 
-    - [Line/curve with *Pencil* or *Paint Brush* tools](objects.md#lines-and-curves-with-the-pencil-or-brush) ![pencil](img/overview/pencil.png) ![brush](img/overview/brush.png)
+    - [Line/curve with *Pencil* or *Paintbrush* tools](objects.md#lines-and-curves-with-the-pencil-or-brush) ![pencil](img/overview/pencil.png) ![brush](img/overview/brush.png)
     - [Line/curve with *Form* tool](objects.md#lines-and-curves-with-a-form-tool) ![line curve icon](img/overview/line.png)
 -  [**Rectangles** with *Rectangle* tool](objects.md#rectangles-rounded-rectangles-or-ellipses) ![rectangle icon](img/overview/rec.png) 
 -  [**Rounded Rectangles** with *Rounded Rectangle* tool](objects.md#rectangles-rounded-rectangles-or-ellipses) ![rounded rectangle icon](img/overview/roundrec.png)
@@ -13,14 +13,14 @@ You can draw simple objects using a number of preset shapes and freeform tools t
 &nbsp;
 ## Lines and Curves
 
-### Lines and Curves with the Pencil or Brush
+### Lines and Curves with the Pencil or Paintbrush
 
-Before selecting a pencil or brush, it's recommended to [**add a new layer**](layers.md) to the workspace so that it's easier to isolate/edit your pencil and brush strokes in the future.
+Before selecting a pencil or paintbrush, it's recommended to [**add a new layer**](layers.md) to the workspace so that it's easier to isolate/edit your pencil and brush strokes in the future.
 
-1. Select [**Paint Brush** ![brush tool](img/overview/brush.png) or **Pencil** ![pencil tool](img/overview/pencil.png)](choose.md#how-to-select-a-pencil).  
+1. Select [**Paintbrush** ![brush tool](img/overview/brush.png) or **Pencil** ![pencil tool](img/overview/pencil.png)](choose.md#how-to-select-a-pencil).  
 2. Select a [primary color](palette.md) from the color **Palette** menu.
 3. Left-click on a starting point location on the image where you would like to draw a line/curve.
-4. Right-click and hold the mouse button while dragging the **Pencil** or **Paint Brush** from the starting point (A) to your desired end point (B).  
+4. Right-click and hold the mouse button while dragging the **Pencil** or **Paintbrush** from the starting point (A) to your desired end point (B).  
 
     ![brush example](img/brushexample.png) ![pencil example](img/Pencilexample.png)
 
@@ -113,7 +113,7 @@ The following steps explain how to draw a line using the **Line/curve** tool. Af
 ## Freeform Shapes
 The **Freeform Shape** tool enables you to draw a shape that has both curved and straight segments.
 
-1. Select **Freeform Shape** from the **Tools** nenu.![Free Form icon](img/overview/freeform.png)  
+1. Select **Freeform Shape** from the **Tools** menu.![Free Form icon](img/overview/freeform.png)  
 2. Create a starting point by clicking on the image display area. 
 3. Hold down the mouse button and draw the freeform shape that you wish to draw. Unlike other draw software, Pinta requires you to continuously hold down the mouse button while drawing the freeform shape which requires a very steady hand. If you are having a hard time drawing, you may wish to zoom in your screen before using the draw tool for more controlled movements.
 4. Release the mouse button once you have completed drawing your desired shape. If you don't end at your starting point (**A**), Pinta will default to drawing a straight line between the end point (**B**) and start point of the closed shape (refer to Draw Freeform Shape Example diagram below).  
