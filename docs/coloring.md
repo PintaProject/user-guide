@@ -19,14 +19,13 @@ Select a customized color by using Set Color Values or Select an Exact Color Mat
   
 2. From the **Choose Primary** or **Choose Secondary** Menu you have the following options to set the color:  
 
-
     -  **Triangle Dial Selector**:
 
         &nbsp;
         1.  Click on the *selection marker* on the ring and drag it around to select a color
             ![Triangle Dial Color Selector](img/color/triangledialcolor.png)
-
-            &nbsp;  
+            
+            
         2.  Select the darkness or lightness of the ring color by clicking on a shade of the color in the inner triangle.  
 
             ![Triangle Dial Selector Shade](img/color/triangledialshade.png)
@@ -45,7 +44,7 @@ Select a customized color by using Set Color Values or Select an Exact Color Mat
     
    1. Select the **Color Picker** ![color picker](img/overview/picker.png) from the **Tools** menu.
    
-      ![eye dropper](img/color/colorpicker.png).
+      ![eye dropper](img/color/colorpicker.png)  
    
    2. Left-click to set the primary color and right-click to set the secondary color.
    3. Move the **Color Picker** ![color picker](img/overview/picker.png) across the workspace and click on the image color pixel you would like to capture.

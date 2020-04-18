@@ -44,8 +44,9 @@
 
      The **Rotate / Zoom Layer** dialog box will appear on your screen.  
      
-     ![Rotate/Zoom Layer menu](img/rotatezoomlayerdialog.png)
-     &nbsp;
+     ![Rotate/Zoom Layer menu](img/rotatezoomlayerdialog.png)  
+ 
+     &nbsp;  
 
 3. From the **Rotate / Zoom Layer** dialog box:  
     1. Select the level of degree that you'd like to rotate the layer by the following methods:
