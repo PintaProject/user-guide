@@ -1,5 +1,4 @@
-## Glossary ##
-
+# Glossary #
 
 **Active layer**
 The layer which has the editing focus. It is highlighted in the Layers Window.
@@ -83,8 +82,7 @@ One of the paint.net menus. The menu items cover saving, loading and printing of
 Colors the current selection with the Primary or Secondary color.
 
 **Flatten**
-Merge all layers into a single layer.
-
+Merge all layers into a single layer. 
 
 **Global (Fill Mode)**
 A fill mode which colors non-adjacent pixels according to similarity to the source pixel.
@@ -225,6 +223,8 @@ Reverse the last editing operation.
 **Zoom in / out**
 Expand or contract the view size of an image.
 
-##### _______________________________________________________________________________________________________________ #####
-###### Some definitions take from getpaint.net and learnubuntumate.weebly.com ######
+##### _________________________________ #####
+###### References ######
+- getpaint.net  
+- learnubuntumate.weebly.com  
 
