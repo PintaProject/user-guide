@@ -1,15 +1,15 @@
 # Choose Pencil or Brush
 
- Pinta provides two tools for drawing (painting) directly to the image: The *Pencil* tool and the *Brush* tool. 
+ Pinta provides two tools for drawing (painting) directly to the image: the **Pencil** and the **Brush**. 
 
- The *Pencil* tool uses a hard edge and there is only one width and type of pencil. Whereas the *Brush* tool can be used to paint with smooth edges and you can change the brush width and type of brush (normal, circles, grid, splatter and squares). 
+ The **Pencil** tool uses a hard edge and there's only one width and type of pencil. Whereas the **Brush** tool can be used to paint with smooth edges and you can change the width and type of brush (normal, circles, grid, splatter and squares). 
 
- Before selecting a pencil or brush, it is recommended to **add a new layer** to the workpage so that it is easier to isolate/edit your pencil and brush stokes in the future.
+ Before selecting the **Pencil* or **Brush**, it is recommended to [**add a new layer**](layers.md) to the workpage so that it is easier to isolate/edit your pencil and brush stokes in the future.
 
 
 ## How to Select a Pencil 
 
- 1. Select the *Pencil* tool ![pencil tool](img/pencil.png) from the **Tools** menu.
+ 1. Select the **Pencil** ![pencil tool](img/pencil.png) from the **Tools** menu.
 
      ![pencil select](img/pencilselect.png)
 
@@ -17,20 +17,20 @@
 
 ## How to Select a Brush     
 
-1.  Select the *Brush* tool ![brush tool](img/brush.png) from the **Tools** menu.
+1.  Select the **Brush** ![brush tool](img/brush.png) from the **Tools** menu.
 
      ![brush select](img/brushselect.png)
 
      &nbsp;  
 
-2.  Select the desired brush width (1-55) from the **Brush width** menu options.
+2.  Select the desired brush width (1-55) from the **Brush width** in the Tools Settings Bar.
 
     ![Brush Width](img/brushwidth.png)
 
       &nbsp;  
 
 
-3.  Select the desired brush type from the **Type** menu options. 
+3.  Select the desired brush type from the **Type** in the Tools Settings Bar. 
 
     ![Brush Type](img/brushtype.png)
     
