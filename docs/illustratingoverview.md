@@ -1,20 +1,13 @@
 # Illustrating Overview
 
-![illustrating icon](img/illustratingicon.png)
+![illustrating icon](img/illustratingicon.png)  
 
-
-For simple or complex illustrations Pinta enables you to:
+For simple or complex illustrations, Pinta enables you to:
 
   -  [**Choose a Pencil or Brush**](choose.md)
   -  [**Create Simple Objects**](objects.md)
 
-As well, Pinta provides you with a variety of capabilities such as:
+Pinta also provides you with a variety of capabilities such as:
  
   -  [**Text Management**](text.md) 
   -  [**Remove Items**](remove_items.md) techniques
-
-
-
-
-
-  
