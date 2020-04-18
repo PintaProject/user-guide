@@ -17,7 +17,7 @@
 
 ### Lines and Curves with the Pencil or Brush
 
-Before selecting a pencil or brush, it is recommended to **add a new layer** to the workpage so that it is easier to isolate/edit your pencil and brush stokes in the future.
+Before selecting a pencil or brush, it is recommended to [**add a new layer**](layers.md) to the workpage so that it is easier to isolate/edit your pencil and brush stokes in the future.
 
 1. [Select the *Brush* or *Pencil* tool](choose.md#how-to-select-a-pencil) (![brush tool](img/overview/brush.png) or ![pencil tool](img/overview/pencil.png)).
 
