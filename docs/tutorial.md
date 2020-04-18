@@ -43,7 +43,7 @@ Now we can get started on sketching our little secret burger! Using the default 
     ![selections sketch](img/burger/selectionssketch.gif)
     - Use [__Shapes__, __Lines__](objects.md) and [__Text__](text.md) to help create your sketch if that is your preference. 
     - You can also upload a hand-drawn sketch as well. Go to [Import File into Layer](setup.md#import-file-into-layer) to learn more.     
-7. Go to __File > Save As...__ to save your progress as a [project *.ora file](setup.md#saving-the-new-project) and it should look something like this:   
+7. Go to __File__ > __Save As...__ to save your progress as a [project *.ora file](setup.md#saving-the-new-project) and it should look something like this:   
 ![sketch](img/burger/sketch.png)  
 
 Before we move on to inking over the sketch, we want to change the color of the pencil sketch so that it's easier to see between the (black) inking and the (black) sketch itself. Blue would be a nice color to see through, but use whatever color you prefer.
@@ -73,7 +73,7 @@ This part of the process, we'll be inking the rough sketch itself so that all th
 2. Open __Layer Properties__ dialog box for the new layer and enter __Ink__ in the text box. 
 3. Select __OK__ to close the window.  
 4. Select __Ink__ to make it an active layer. 
-5. [Select __Paint Brush__](choose.md#how-to-select-a-brush) to start inking over your rough sketches. 
+5. [Select __Paintbrush__](choose.md#how-to-select-a-brush) to start inking over your rough sketches. 
     - Same as with sketching, use __Eraser__ to remove any markings not needed. 
     - Use __Shapes__ and __Lines__ to help create your objects if needed, but we will skip on the __Text__ tool for a later step.
 6. Save your progress and it should look something like this:  
@@ -86,7 +86,7 @@ The tools we'll use for coloring are:
 - Burger image reference  
 - Palette  
 - Color Picker  
-- Paint Brush  
+- Paintbrush  
 - Eraser  
 - Gradient  
 
@@ -101,9 +101,9 @@ Now let's begin with the bun:
 3. Double-click the new layer to open __Layer Properties__ dialog box and under the name type __Bun Color__. 
 4. Select __OK__ to close the window.  
 5. Select __Bun Color__ to make it an active layer. 
-6. Go to __File > Open...__ and open the saved burger image reference.
+6. Go to __File__ > __Open...__ and open the saved burger image reference.
 7. Select [__Color Picker__](coloring.md#select-an-exact-color-match-from-an-image) to pick the bun color from the reference image and switch back to the burger project under the __Image__ window. You can create and modify your own color by double-clicking on the primary or secondary color boxes under [__Palette__](palette.md).
-8. Select __Paint Brush__ to color in the entire burger. You can enlarge the size of the __Paint Brush__ in the __Tools Settings Bar__ to speed up the process.
+8. Select __Paintbrush__ to color in the entire burger. You can enlarge the size of the __Paintbrush__ in the __Tools Settings Bar__ to speed up the process.
 9. Select [__Eraser__](remove.md#eraser) to clean up any color that doesn't belong. 
 10. Save your progress and it should look something like this: 
 ![color bun](img/burger/color_bun.gif)
@@ -116,7 +116,7 @@ We'll now work on the cheese, tomatoes, and lettuce:
 3. Select __OK__ to close the window. 
 4. Select __Other Color__ to make it an active layer. 
 5. Using the same concept as the bun, select __Color Picker__ to pick the colors from the reference image to apply to the project for the cheese, tomatoes, and lettuce. 
-6. Select __Paint Brush__ and __Eraser__ to color in the appropriate areas. 
+6. Select __Paintbrush__ and __Eraser__ to color in the appropriate areas. 
 7. Save your progress and it should look like this: 
 ![other color](img/burger/other_color.png)
 
@@ -142,7 +142,7 @@ This area is optional so you can skip to the [next section](#adding-texts-&-shap
 2. Select the corresponding active layer to apply shadows and highlights.
 3. Select __Color Picker__ to pick the bun color (or cheese, tomatoes, lettuce).
 4. Double-click the primary color in the __Palette__ and modify the color to a lighter color for __Highlights__ and repeat with the darker color for __Shadows__. Click __OK__ to close the window.
-5. Select __Paint Brush__ and __Eraser__ to color in the appropriate areas. Resize the two tools to a smaller size for precision.
+5. Select __Paintbrush__ and __Eraser__ to color in the appropriate areas. Resize the two tools to a smaller size for precision.
 6. Save your progress.
 
 ## __Adding Texts & Shapes__ ##
