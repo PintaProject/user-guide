@@ -9,7 +9,7 @@ Pinta comes with a default palette of 48 Colors that you can use to quickly sele
 
 1.  Go to **Edit** > **Palette**.
 
-     ![Select Palette Menu](img/color/selectpalettemenu.png)
+     ![Select Palette Menu](img/color/selectpalettemenus.png)
  
 
 &nbsp;  
