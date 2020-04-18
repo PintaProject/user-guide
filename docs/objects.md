@@ -28,7 +28,7 @@ Before selecting a pencil or brush, it's recommended to [**add a new layer**](la
 
 The following steps explain how to draw a line using the **Line/curve** tool. After creating a straight line, you can modify it to be a curvy line and are explained below.
 
-1. Select **Lines/Curve** from the **Tools** menu.![line curve icon](img/overview/line.png)
+1. Select **Lines/Curve** ![line curve icon](img/overview/line.png) from the **Tools** menu.
 2. Select the desired brush width and line style from the **Line/Curve** *Tools Settings Bar*. 
     -  **Brush width**   
         ![Brush Width](img/brushwidth.png)    
@@ -85,7 +85,7 @@ The following steps explain how to draw a line using the **Line/curve** tool. Af
 
 ## Rectangles, Rounded Rectangles, or Ellipses
 
-1. Select **Rectangle** ![rectangle icon](img/overview/rec.png), **Rounded Rectangle** ![rounded rectangle icon](img/overview/roundedrec.png) or **Ellipse** ![ellipse icon](img/overview/ell.png) shape from the **Tools** menu. 
+1. Select **Rectangle** ![rectangle icon](img/overview/rec.png), **Rounded Rectangle** ![rounded rectangle icon](img/overview/roundrec.png) or **Ellipse** ![ellipse icon](img/overview/ell.png) shape from the **Tools** menu. 
 2. Select the desired options from the *Tools Settings Bar*. 
     -  **Brush width**   
         ![Brush Width](img/brushwidth.png)    
