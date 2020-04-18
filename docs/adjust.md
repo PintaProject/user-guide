@@ -10,15 +10,15 @@ The **Resize Canvas** dialog box will pop up.
 ![Resize Canvas Window](img/resizecanvaswindow.png)  
 &nbsp;  
 3. Select from **Resize Canvas** dialog box:
-  - **By Percentage**: Enter the percentage value to resize the canvas. You can also use the up and down arrows to adjust the percentage values incrementally.  
+    - **By Percentage**: Enter the percentage value to resize the canvas. You can also use the up and down arrows to adjust the percentage values incrementally. 
     ![Resize Canvas By Percentage](img/resizecanvasbypercentage.png)
     &nbsp;  
     &nbsp;  
-  - **By Absolute Size**: Choose this option if you know the canvas size in pixels to resize. You can select **Maintain aspect ratio** to maintain the original ratio of the canvas. You'll also need to enter the **Width** and  **Height** in pixels.  
+    - **By Absolute Size**: Choose this option if you know the canvas size in pixels to resize. You can select **Maintain aspect ratio** to maintain the original ratio of the canvas. You'll also need to enter the **Width** and  **Height** in pixels.  
     &nbsp;  
      Note: if **Maintain aspect ratio** was chosen, you only need to enter the **Width** or **Height** values, not both.  
     &nbsp;  
-  - **Anchor**: Select the portion of the canvas that you want to use as a starting point before the resize transformation is done on the canvas.  
+    - **Anchor**: Select the portion of the canvas that you want to use as a starting point before the resize transformation is done on the canvas.  
     &nbsp;  
     You can choose from nine anchor choices. In the example below, the bottom-middle portion of the image was selected but you can pick any of nine anchor sections from the grid. For example, if you want to include the top-right side of the image, you would select the top-right anchor.  
     ![Resize Canvas By Percentage](img/canvassizeanchor.png)  

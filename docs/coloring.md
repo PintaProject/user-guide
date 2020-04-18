@@ -22,12 +22,14 @@ Select a customized color by using Set Color Values or Select an Exact Color Mat
         i. Click on the *selection marker* on the ring and drag it around to select a color.  
         ![Triangle Dial Color Selector](img/color/triangledialcolor.png)  
         ii. Select the darkness or lightness of the ring color by clicking on a shade of the color in the inner triangle.  
-        ![Triangle Dial Selector Shade](img/color/triangledialshade.png)  
+        ![Triangle Dial Selector Shade](img/color/triangledialshade.png)    
+&nbsp;  
     -  **Hue**, **Saturation**, **Value**: Enter in the desired values. The triangle dial selector will move automatically to the corresponding values selected.  
     -  **Red**, **Green**, **Blue**: Enter the RGB Color. The triangle dial selector will move then to the selected RGB value.  
     -  **Opacity**: Enter in the value desired (0 - 255). The lower the number chosen the more translucent the color will be.  
     -  **Color Name**: If you know the color name you want you can directly input the value. Entering in a number will change the RGB color and move the dial selector settings to the corresponding color. If the RGB color or the triangle dial selector was used to select a color this color name value will be updated.  
-    -  **Eye Dropper**: Click on the eyedropper ![eye dropper](img/color/eyedropper.png) and then click a color anywhere on your screen to select that color. The corresponding color values will then be displayed on the **Choose Primary Color** or **Choose Secondary Color** dialog box.  
+    -  **Eye Dropper**: Click on the eyedropper ![eye dropper](img/color/eyedropper.png) and then click a color anywhere on your screen to select that color. The corresponding color values will then be displayed on the **Choose Primary Color** or **Choose Secondary Color** dialog box. 
+    &nbsp;   
 
 ## Select an Exact Color Match From an Image  
     
