@@ -153,4 +153,4 @@ __Window__ - has two commands. Below those commands you'll notice an image name 
 
 ![Rounded Rectangle](img/overview/roundrec.png) __Rounded Rectangle__ - is similar to the rectangle tool except it creates rectangles with rounded corners.
 
-![Freeform Shape](img/overview/freeform.png) __Freeform Shape__ - used to create irregular shapes that can be either outlined or filled shapes.
+![Freeform Shape](img/overview/freeform.png) __Freeform Shape__ - use to create irregular shapes that can be either outlined or filled shapes.
