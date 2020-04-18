@@ -26,8 +26,8 @@ Use the **Move Selected Pixels** tool to move and rotate a selected portion of y
  
     &nbsp;
 
-!!! Note 
-    The checkerboard pattern indicates that the region is transparent and serves as a visual cue (not part of the visible image).
+    !!! Note 
+        The checkerboard pattern indicates that the region is transparent and serves as a visual cue (not part of the visible image).
 
 4.  Right-click and drag the selection to rotate the selected outline (Example position **C**) by the desired rotation amount.  
 
