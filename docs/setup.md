@@ -12,7 +12,7 @@ If you aren't familiar with the tools and the menus, we recommend to check out t
 Open Pinta if you haven't already and you will see a blank workspace that looks like this:  
 ![workspace](img/setup/workspace.png)
 
-As you can see from the **Layers** window, you have one layer called __Background__. When you want to work on an illustration or a photograph, you will need to [create a new layer](layers.md) to work on because you want to keep the background layer for any background elements that will show in your final composite image. T
+As you can see from the **Layers** window, you have one layer called __Background__. When you want to work on an illustration or a photograph, you will need to [create a new layer](layers.md) to work on because you want to keep the background layer for any background elements that will show in your final composite image.  
 
 Once you have setup your new layer, you can start working on your project in that new layer or any other new layers you have created. As well you can [import an image to a layer from a file](layers.md#import-file-into-layer).
 
@@ -32,7 +32,7 @@ To customize the canvas size, create a new image and select the desired sizing o
 
 You can create a project with a screenshot of your screen(s). If you have multiple screens, it will also capture those too so it's recommended to use the [cropping tool](crop.md) to keep what you need.
 
-Go to **File** > **New Screenshot...** ![screenshot](img/setup/screenshot.png).
+1. Go to **File** > **New Screenshot...** ![screenshot](img/setup/screenshot.png).
 2. Choose the length of the delay you require for the capture to start.  
 ![capture](img/setup/capture.png)
 3. Select __OK__ to capture.  
