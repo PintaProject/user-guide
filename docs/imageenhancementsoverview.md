@@ -2,7 +2,7 @@
 
 ![image enhancement icon](img/imageenhancementicon.png)
 
-Pinta enables you to perform a number of image enhancements to your images. These include:
+Pinta allows you to perform a number of enhancements to your images. These include:
 
 -  [**Improving Colors**](colors.md): Modify the colors of your images.  
     -  [**Auto Level**](colors.md#auto-level)  
