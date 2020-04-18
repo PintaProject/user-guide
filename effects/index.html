@@ -144,11 +144,11 @@
                     </li>
                     <li class="toctree-l1 current"><a class="reference internal current" href="./">Image Effects</a>
     <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#glow">Glow:</a>
+    <li class="toctree-l2"><a class="reference internal" href="#glow">Glow</a>
     </li>
     <li class="toctree-l2"><a class="reference internal" href="#sharpen">Sharpen:</a>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#soften-portrait">Soften Portrait:</a>
+    <li class="toctree-l2"><a class="reference internal" href="#soften-portrait">Soften Portrait</a>
     </li>
     <li class="toctree-l2"><a class="reference internal" href="#blur">Blur:</a>
         <ul>
@@ -284,424 +284,604 @@
           <div role="main">
             <div class="section">
               
-                <h2 id="image-effects"><a class="toclink" href="#image-effects"><strong>Image Effects</strong></a><a class="headerlink" href="#image-effects" title="Permanent link">&para;</a></h2>
+                <h1 id="image-effects"><a class="toclink" href="#image-effects"><strong>Image Effects</strong></a><a class="headerlink" href="#image-effects" title="Permanent link">&para;</a></h1>
 <p>Pinta offers a wide range of effects that can be applied to images or selected areas of an image.</p>
 <ul>
-<li><a href="#glow"><strong>Glow</strong></a>: Overlays an illuminating glow as if the image were strongly backlit</li>
-<li><a href="#sharpen"><strong>Sharpen</strong></a>: Sharpens the image by removing softness</li>
-<li><a href="#soften-portrait"><strong>Soften Portrait</strong></a>: Makes the portrait lighting appear more diffused</li>
-<li><a href="#blur"><strong>Blur</strong></a>: Makes the image appear blurred</li>
-<li><a href="#distort"><strong>Distort</strong></a>: Warps, twists, transforms or convolutes an image.</li>
-<li><a href="#artistic-medium"><strong>Artistic Medium</strong></a>: Makes the image appear as if it were painted or sketched</li>
-<li><a href="#render"><strong>Render</strong></a>: Renders clouds or fractals</li>
-<li><a href="#stylize"><strong>Stylize</strong></a>: Changes the image based on edge detection</li>
+<li><a href="#glow"><strong>Glow</strong></a>: use to overlay an illuminating glow as if the image were strongly backlit.</li>
+<li><a href="#sharpen"><strong>Sharpen</strong></a>: use to sharpen the image by removing softness.</li>
+<li><a href="#soften-portrait"><strong>Soften Portrait</strong></a>: use to make the portrait lighting appear more diffused.</li>
+<li><a href="#blur"><strong>Blur</strong></a>: use to make the image appear blurred.</li>
+<li><a href="#distort"><strong>Distort</strong></a>: use to warp, twist, transform, or convolute an image.</li>
+<li><a href="#artistic-medium"><strong>Artistic Medium</strong></a>: use to make the image appear as if it were painted or sketched.</li>
+<li><a href="#render"><strong>Render</strong></a>: use to render clouds or fractals.</li>
+<li><a href="#stylize"><strong>Stylize</strong></a>: use to change the image based on edge detection.</li>
 </ul>
-<p>All of the effects can be found in the effects menu:</p>
-<p><img alt="effectsmenu" src="../img/overview/effects.png" /></p>
-<p>To illustrate all of the effects we will be using this photo of KFC.</p>
-<p><img alt="kfcoriginal" src="../img/kfcoriginal.PNG" /></p>
-<h3 id="glow"><a class="toclink" href="#glow">Glow:</a><a class="headerlink" href="#glow" title="Permanent link">&para;</a></h3>
-<p>To open the Glow effect go to <strong>Effects&gt;Photo Effects&gt;Glow</strong></p>
-<p><img alt="kfcglow" src="../img/kfcglow.PNG" /></p>
-<p>The <strong>Glow</strong> effect is used to give images an inner glow by brightening lighter tones and muting color saturation, making the image appear as though it were strongly back-lit. A dialogue box populates with three sliders, radius, brightness, and contrast.</p>
-<p><img alt="glowbox" src="../img/glowbox.PNG" /></p>
-<p>The <strong>Radius</strong> slider controls the strength of the effect. Higher values yield stronger results.</p>
-<ul>
-<li>Drag slider to the right to increase effect strength</li>
-<li>Drag slider to the left to decrease effect strength</li>
-</ul>
-<p>The <strong>Brightness</strong> slider controls the intensity of the illumination. Higher values yield brighter images, lower values yield darker images.</p>
-<ul>
-<li>Drag slider to the right to increase brightness</li>
-<li>Drag slider to the left to decrease brightness</li>
-</ul>
-<p>The <strong>Contrast</strong> slider controls the color range, making an image appear more vivid or dull. Higher contract values yield more vibrant tones and lower values yield duller tones.</p>
-<ul>
-<li>Drag slider to the right to increase contrast</li>
-<li>Drag slider to the left to decrease contrast</li>
-</ul>
-<h3 id="sharpen"><a class="toclink" href="#sharpen">Sharpen:</a><a class="headerlink" href="#sharpen" title="Permanent link">&para;</a></h3>
-<p>To open the Sharpen effect go to <strong>Effects&gt;Photo Effects&gt;Sharpen</strong></p>
-<p><img alt="kfcsharpen" src="../img/kfcsharpen.PNG" /></p>
-<p>The <strong>Sharpen</strong> effect is used to reduce softness and emphasize texture in an image to draw in viewer focus. A dialogue box populates with a strength slider. The strength slider controls how pronounced the edges in an image appear, increasing the contrast of edges.</p>
+<p>All of the effects can be found in the <strong>Effects</strong> menu:<br />
+<img alt="effectsmenu" src="../img/overview/effects.png" /></p>
+<p>To illustrate all of the effects, we'll be using this photo of KFC.<br />
+<img alt="kfcoriginal" src="../img/kfcoriginal.PNG" /></p>
+<h2 id="glow"><a class="toclink" href="#glow">Glow</a><a class="headerlink" href="#glow" title="Permanent link">&para;</a></h2>
+<p><img alt="kfcglow" src="../img/kfcglow.PNG" />  </p>
+<p>The <strong>Glow</strong> effect is used to give images an inner glow by brightening lighter tones and muting color saturation, making the image appear as though it were strongly back-lit. A dialog box populates with three sliders, radius, brightness, and contrast.</p>
+<ol>
+<li>
+<p>Go to <strong>Effects</strong> &gt; <strong>Photo</strong> and select <strong>Glow</strong>. The <strong>Glow</strong> dialog box will appear.<br />
+<img alt="glowbox" src="../img/glowbox.PNG" />  </p>
+</li>
+<li>
+<p>Adjust the <strong>Radius</strong> slider to control the strength of the effect. Higher values yield stronger effect results.  </p>
+</li>
+<li>Drag slider to the right to increase effect strength.  </li>
+<li>
+<p>Drag slider to the left to decrease effect strength.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Brightness</strong> slider to control the intensity of the illumination. Higher values yield brighter images and lower values yield darker images.  </p>
+</li>
+<li>Drag slider to the right to increase brightness.  </li>
+<li>
+<p>Drag slider to the left to decrease brightness.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Contrast</strong> slider to control the color range, making an image appear more vivid or dull. Higher contrast values yield more vibrant tones and lower values yield duller tones.  </p>
+</li>
+<li>Drag slider to the right to increase contrast.  </li>
+<li>Drag slider to the left to decrease contrast.  </li>
+</ol>
+<h2 id="sharpen"><a class="toclink" href="#sharpen">Sharpen:</a><a class="headerlink" href="#sharpen" title="Permanent link">&para;</a></h2>
+<p><img alt="kfcsharpen" src="../img/kfcsharpen.PNG" />  </p>
+<p>The <strong>Sharpen</strong> effect is used to reduce softness and emphasize texture in an image to draw in viewer focus. A dialog box populates with a strength slider. The strength slider controls how pronounced the edges in an image appear, increasing the contrast of edges. </p>
+<ol>
+<li>
+<p>Go to <strong>Effects</strong> &gt; <strong>Photo</strong> and select <strong>Sharpen</strong>. The <strong>Sharpen</strong> dialog box will appear.  </p>
 <p><img alt="sharpenbox" src="../img/sharpenbox.PNG" /></p>
-<ul>
-<li>Drag slider to the right to increase sharpness</li>
-<li>Drag slider to the left to decrease sharpness</li>
-</ul>
-<h3 id="soften-portrait"><a class="toclink" href="#soften-portrait">Soften Portrait:</a><a class="headerlink" href="#soften-portrait" title="Permanent link">&para;</a></h3>
-<p>To open the Soften Portrait effect go to <strong>Effects&gt;Photo Effects&gt;Soften Portrait</strong></p>
-<p>The <strong>Soften Portrait</strong> effect is used to soften images as if the lighting were diffused, adding a subtle glow. A dialogue box populates with three sliders, softness, lighting, and warmth.</p>
+</li>
+<li>
+<p>Adjust the Sharpness <strong>Amount</strong> to control how sharp the image appears. </p>
+</li>
+<li>
+<p>Drag slider to the right to increase sharpness.  </p>
+</li>
+<li>Drag slider to the left to decrease sharpness.  </li>
+</ol>
+<h2 id="soften-portrait"><a class="toclink" href="#soften-portrait">Soften Portrait</a><a class="headerlink" href="#soften-portrait" title="Permanent link">&para;</a></h2>
+<p>The <strong>Soften Portrait</strong> effect is used to soften images as if the lighting were diffused, adding a subtle glow. </p>
+<ol>
+<li>Go to <strong>Effects</strong> &gt; <strong>Photo</strong> and select <strong>Soften Portrait</strong>. The <strong>Soften Portrait</strong> dialog box will appear.  </li>
+</ol>
 <p><img alt="softenportraitbox" src="../img/softenportraitbox.PNG" /></p>
-<p>The <strong>Softness</strong> slider controls the strength of the effect. Higher values yield a softer, more blurred image. </p>
-<ul>
-<li>Drag slider to the right to increase softness</li>
-<li>Drag slider to the left to decrease softness</li>
-</ul>
-<p>The <strong>Lighting</strong> slider controls the strength of the illumination. Higher values yield stronger lighting and brighter images. </p>
-<ul>
-<li>Drag slider to the right to increase lighting</li>
-<li>Drag slider to the left to decrease lighting</li>
-</ul>
-<p>The <strong>Warmth</strong> slider controls the color of the lighting. Higher values yield more warmth, making tones appear more golden. Lower values yield more coolness, making tones appear bluer.</p>
-<ul>
-<li>Drag slider to the right to increase warmth</li>
-<li>Drag slider to the left to decrease warmth</li>
-</ul>
-<p>Here's a before and after the Soften Portrait effect:</p>
-<p><img alt="redeyeafter" src="../img/redeye%20after.PNG" />   <img alt="softenportraitafter" src="../img/softenportraitafter.PNG" /></p>
-<h3 id="blur"><a class="toclink" href="#blur">Blur:</a><a class="headerlink" href="#blur" title="Permanent link">&para;</a></h3>
-<p>The <strong>Blur</strong> submenu is made up of six blurring options: fragment, gaussian, motion, radial, unfocus, and zoom. These can be applied to the whole image or a selected area.</p>
-<h4 id="fragment"><a class="toclink" href="#fragment">Fragment</a><a class="headerlink" href="#fragment" title="Permanent link">&para;</a></h4>
-<p>To open Fragment blur go to <strong>Effects&gt;Blur&gt;Fragment</strong></p>
-<p><img alt="kfcfragmentblur" src="../img/kfcfragmentblur.PNG" /></p>
-<p>The <strong>Fragment Blur</strong> effect superimposes copies or “fragments” of the image or selected area. copies or "fragments" of the image are superimposed over the original. This blur can be useful when creating an unfocussed multi-viewed version of an image. The effect is not unlike modern interpretations of insect-like vision and could be used to fake "drunken" or "semi-conscious" vision. A dialogue box populates with three sliders for fragments, distance, and rotation.</p>
-<p><img alt="fragmentblurbox" src="../img/fragmentblurbox.PNG" /></p>
-<p>The <strong>Fragments</strong> slider controls how many fragments appear. A higher value yields more fragments.</p>
-<ul>
-<li>Drag slider to the right to increase number of fragments</li>
-<li>Drag slider to the left to decrease number of fragments</li>
-</ul>
-<p>The <strong>Distance</strong> slider controls how close or far fragments appear from one another. A higher value yields more distance between fragments.</p>
-<ul>
-<li>Drag slider to the right to increase distance</li>
-<li>Drag slider to the left to decrease distance</li>
-</ul>
-<p>The <strong>Rotation</strong> circle slider controls the angle at which the fragments sit. It can be rotated 360 degrees. </p>
-<h4 id="gaussian"><a class="toclink" href="#gaussian">Gaussian</a><a class="headerlink" href="#gaussian" title="Permanent link">&para;</a></h4>
-<p>To open Gaussian blur go to <strong>Effects&gt;Blur&gt;Gaussian</strong></p>
-<p><img alt="kfcgaussianblur" src="../img/kfcgaussianblur.PNG" /></p>
-<p>The <strong>Gaussian Blur</strong> effect applies a defocusing blur to the image or selected area. A dialogue box populates with one slider for radius.</p>
+<ol>
+<li>
+<p>Adjust the <strong>Softness</strong> slider to control the strength of the effect. Higher values yield a softer, more blurred image. </p>
+</li>
+<li>
+<p>Drag slider to the right to increase softness.  </p>
+</li>
+<li>
+<p>Drag slider to the left to decrease softness.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Lighting</strong> slider to control the strength of the illumination. Higher values yield stronger lighting and brighter images. </p>
+</li>
+<li>
+<p>Drag slider to the right to increase lighting.  </p>
+</li>
+<li>
+<p>Drag slider to the left to decrease lighting.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Warmth</strong> slider to control the color of the lighting. Higher values yield more warmth, making tones appear more golden. Lower values yield more coolness, making tones appear bluer.</p>
+</li>
+<li>
+<p>Drag slider to the right to increase warmth.</p>
+</li>
+<li>Drag slider to the left to decrease warmth.</li>
+</ol>
+<p>Here's the image before and after using the Soften Portrait effect:  </p>
+<p><img alt="redeyeafter" src="../img/redeye%20after.PNG" />  <img alt="softenportraitafter" src="../img/softenportraitafter.PNG" /></p>
+<h2 id="blur"><a class="toclink" href="#blur">Blur:</a><a class="headerlink" href="#blur" title="Permanent link">&para;</a></h2>
+<p>There are six <strong>Blur</strong> effect options: <a href="./#fragment"><strong>Fragment</strong></a>, <a href="./#gaussian"><strong>Gaussian</strong></a>, <a href="./#motion"><strong>Motion</strong></a>, <a href="./#radial"><strong>Radial</strong></a>, <a href="./#unfocus"><strong>Unfocus</strong></a>, and <a href="./#zoom"><strong>Zoom</strong></a>. These can be applied to the whole image or a selected area.</p>
+<h3 id="fragment"><a class="toclink" href="#fragment">Fragment</a><a class="headerlink" href="#fragment" title="Permanent link">&para;</a></h3>
+<p>The <strong>Fragment</strong> blur effect superimposes copies or “fragments” of the image or selected area. Copies or "fragments" of the image are superimposed over the original. This blur can be useful when creating an unfocussed multi-viewed version of an image. The effect is not unlike modern interpretations of insect-like vision and could be used to fake "drunken" or "semi-conscious" vision. </p>
+<ol>
+<li>Go to <strong>Effects</strong> &gt; <strong>Blur</strong> and select <strong>Fragment</strong>. The <strong>Fragment</strong> dialog box will appear.  </li>
+</ol>
+<p><img alt="fragmentblurbox" src="../img/fragmentblurbox.PNG" />  </p>
+<ol>
+<li>
+<p>Adjust the <strong>Fragments</strong> slider to control how many fragments appear. A higher value yields more fragments.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase number of fragments.  </p>
+</li>
+<li>
+<p>Drag slider to the left to decrease number of fragments.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Distance</strong> slider to control how close or far fragments appear from one another. A higher value yields more distance between fragments.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase distance.  </p>
+</li>
+<li>
+<p>Drag slider to the left to decrease distance.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Rotation</strong> circle slider to control the angle at which the fragments sit. It can be rotated 360 degrees.  </p>
+</li>
+</ol>
+<h3 id="gaussian"><a class="toclink" href="#gaussian">Gaussian</a><a class="headerlink" href="#gaussian" title="Permanent link">&para;</a></h3>
+<p><img alt="kfcgaussianblur" src="../img/kfcgaussianblur.PNG" />  </p>
+<p>The <strong>Gaussian Blur</strong> effect applies a defocusing blur to the image or selected area.  </p>
+<ol>
+<li>Go to <strong>Effects</strong> &gt; <strong>Blur</strong> and select <strong>Gaussian</strong>. The <strong>Gaussian</strong> dialog box will appear.  </li>
+</ol>
 <p><img alt="gaussianblurbox" src="../img/gaussianblurbox.PNG" /></p>
-<p>The <strong>Radius</strong> slider controls how widely and how strongly the blur is applied. A higher value yields a stronger effect.</p>
-<ul>
-<li>Drag slider to the right to increase blur strength</li>
-<li>Drag slider to the left to decrease blur strength</li>
-</ul>
-<h4 id="motion"><a class="toclink" href="#motion">Motion</a><a class="headerlink" href="#motion" title="Permanent link">&para;</a></h4>
-<p>To open Motion blur go to <strong>Effects&gt;Blur&gt;Motion</strong></p>
-<p><img alt="kfcmotionblur" src="../img/kfcmotionblur.PNG" /></p>
-<p>The <strong>Motion Blur</strong> effect creates the illusion of motion in an image or selected area. A dialogue box populates with two sliders, for angle and distance.</p>
-<p><img alt="motionblurbox" src="../img/motionblurbox.PNG" /></p>
-<p>The <strong>Angle</strong> circle slider controls the angle at which the motion blur appears It can be rotated 360 degrees.</p>
-<p>The <strong>Distance</strong> slider controls the width of the blur, how far the effect shifts the original pixels. A higher value yields a wider effect.</p>
-<ul>
-<li>Drag slider to the right to increase motion blur effect</li>
-<li>Drag slider to the left to decrease motion blur effect. </li>
-</ul>
-<h4 id="radial"><a class="toclink" href="#radial">Radial</a><a class="headerlink" href="#radial" title="Permanent link">&para;</a></h4>
-<p>To open Radial blur go to <strong>Effects&gt;Blur&gt;Radial</strong></p>
-<p><img alt="kfcradialblur" src="../img/kfcradialblur.PNG" /></p>
-<p>The <strong>Radial Blur</strong> effect is like the motion blur, but rather than following a linear path, it follows a circular one. A dialogue box populates with configurable options for angle, offset, and quality. </p>
-<p><img alt="radialblurbox" src="../img/radialblurbox.PNG" /></p>
-<p>The <strong>Angle</strong> circle slider controls the angle at which the blur appears It can be rotated 360 degrees.</p>
-<p>The <strong>Center</strong> option box is used to configure where the effect will be interpreted from, setting the focus or center of the blur. </p>
-<p>The <strong>Quality</strong> slider is used to define the quality of the blur. A higher value yields higher quality. It is recommended to use low quality for previews, small images, and small angles. High quality should be used for final quality, large images, and large angles. </p>
-<ul>
-<li>Drag slider to the right to increase quality</li>
-<li>Drag slider to the left to decrease quality </li>
-</ul>
-<h4 id="unfocus"><a class="toclink" href="#unfocus">Unfocus</a><a class="headerlink" href="#unfocus" title="Permanent link">&para;</a></h4>
-<p>To open Unfocus blur go to <strong>Effects&gt;Blur&gt;Unfocus</strong></p>
-<p><img alt="kfcunfocusblur" src="../img/kfcunfocusblur.PNG" /></p>
-<p>The <strong>Unfocus Blur</strong> effect is like the Gaussian blur but yields a more dreamy or unfocused look to the image or selected area. A dialogue box populates with a slider for radius.</p>
+<ol>
+<li>
+<p>Adjust the <strong>Radius</strong> slider to control how widely and how strongly the blur is applied. A higher value yields a stronger effect.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase blur strength.  </p>
+</li>
+<li>Drag slider to the left to decrease blur strength.  </li>
+</ol>
+<h3 id="motion"><a class="toclink" href="#motion">Motion</a><a class="headerlink" href="#motion" title="Permanent link">&para;</a></h3>
+<p><img alt="kfcmotionblur" src="../img/kfcmotionblur.PNG" />  </p>
+<p>The <strong>Motion Blur</strong> effect creates the illusion of motion in an image or selected area. A dialog box populates with two sliders, for angle and distance.  </p>
+<ol>
+<li>Go to <strong>Effects</strong> &gt; <strong>Blur</strong> and select <strong>Motion</strong>. The <strong>Motion</strong> dialog box will appear.  </li>
+</ol>
+<p><img alt="motionblurbox" src="../img/motionblurbox.PNG" />  </p>
+<ol>
+<li>
+<p>Adjust the <strong>Angle</strong> circle slider to control the angle at which the motion blur appears. It can be rotated 360 degrees.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Distance</strong> slider to control the width of the blur, how far the effect shifts the original pixels. A higher value yields a wider effect.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase motion blur effect.  </p>
+</li>
+<li>Drag slider to the left to decrease motion blur effect.  </li>
+</ol>
+<h3 id="radial"><a class="toclink" href="#radial">Radial</a><a class="headerlink" href="#radial" title="Permanent link">&para;</a></h3>
+<p><img alt="kfcradialblur" src="../img/kfcradialblur.PNG" />  </p>
+<p>The <strong>Radial Blur</strong> effect is like the motion blur, but rather than following a linear path, it follows a circular one.  </p>
+<ol>
+<li>
+<p>Go to <strong>Effects</strong> &gt; <strong>Blur</strong> and select <strong>Radial Blur</strong>. The <strong>Radial Blur</strong> dialog box will appear.  </p>
+<p><img alt="radialblurbox" src="../img/radialblurbox.PNG" />  </p>
+</li>
+<li>
+<p>Adjust the <strong>Angle</strong> circle slider to control the angle at which the blur appears. It can be rotated 360 degrees.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Center</strong> option box to configure where the effect will be interpreted from, setting the focus or center of the blur.   </p>
+</li>
+<li>
+<p>Adjust the <strong>Quality</strong> slider to define the quality of the blur. A higher value yields higher quality. It is recommended to use low quality for previews, small images, and small angles. High quality should be used for final quality, large images, and large angles.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase quality.  </p>
+</li>
+<li>Drag slider to the left to decrease quality.  </li>
+</ol>
+<h3 id="unfocus"><a class="toclink" href="#unfocus">Unfocus</a><a class="headerlink" href="#unfocus" title="Permanent link">&para;</a></h3>
+<p><img alt="kfcunfocusblur" src="../img/kfcunfocusblur.PNG" />  </p>
+<p>The <strong>Unfocus Blur</strong> effect is like the <strong>Gaussian</strong> blur but yields a more <em>dreamy</em> or unfocused look to the image or selected area.  </p>
+<ol>
+<li>
+<p>Go to <strong>Effects</strong> &gt; <strong>Blur</strong> and select <strong>Unfocus</strong>. The <strong>Unfocus</strong> dialog box will appear. </p>
 <p><img alt="unfocusblurbox" src="../img/unfocusblurbox.PNG" /></p>
-<p>The <strong>Radius</strong> slider controls the strength of the effect. A higher value yields a stronger blur effect. </p>
-<ul>
-<li>Drag slider to the right to increase blur strength</li>
-<li>Drag slider to the left to decrease blur strength  </li>
-</ul>
-<h4 id="zoom"><a class="toclink" href="#zoom">Zoom</a><a class="headerlink" href="#zoom" title="Permanent link">&para;</a></h4>
-<p>To open Zoom blur go to <strong>Effects&gt;Blur&gt;Zoom</strong></p>
+</li>
+<li>
+<p>Adjust the <strong>Radius</strong> slider to control the strength of the effect. A higher value yields a stronger blur effect. </p>
+</li>
+<li>
+<p>Drag slider to the right to increase blur strength.  </p>
+</li>
+<li>Drag slider to the left to decrease blur strength.  </li>
+</ol>
+<h3 id="zoom"><a class="toclink" href="#zoom">Zoom</a><a class="headerlink" href="#zoom" title="Permanent link">&para;</a></h3>
 <p><img alt="kfczoomblur" src="../img/kfczoomblur.PNG" /></p>
-<p>The <strong>Zoom Blur</strong> effect is used to give the appearance of motion towards the focal point of an image, as if the viewer were closing in on the focal point. It is like the Motion blur but applied outwards from a central point. A dialogue box populated with two configurable options, amount and offset.</p>
-<p><img alt="zoomblurbox" src="../img/zoomblurbox.PNG" /></p>
-<p>The <strong>Amount</strong> slider controls how strong the blur appears. A higher value yields a stronger effect. </p>
-<ul>
-<li>Drag slider to the right to increase blur strength</li>
-<li>Drag slider to the left to decrease blur strength  </li>
-</ul>
-<p>The <strong>Offset</strong> option box is used to configure where the effect will be interpreted from, setting the focus or center of the blur. </p>
-<h3 id="distort"><a class="toclink" href="#distort">Distort:</a><a class="headerlink" href="#distort" title="Permanent link">&para;</a></h3>
-<p>The <strong>Distort</strong> submenu is made up of six distortion options: bulge, frosted glass, pixelate, polar inversion, tile reflection, and twist. These can be applied to the whole image or a selected area.</p>
-<h4 id="bulge"><a class="toclink" href="#bulge">Bulge</a><a class="headerlink" href="#bulge" title="Permanent link">&para;</a></h4>
-<p>To open the Bulge effect go to <strong>Effects&gt;Distort&gt;Bulge</strong></p>
+<p>The <strong>Zoom Blur</strong> effect is used to give the appearance of motion towards the focal point of an image, as if the viewer were closing in on the focal point. It's like the <strong>Motion</strong> blur but applied outwards from a central point. </p>
+<ol>
+<li>Go to <strong>Effects</strong> &gt; <strong>Blur</strong> and select <strong>Zoom Blur</strong>. The <strong>Zoom Blur</strong> dialog box will appear.  </li>
+</ol>
+<p><img alt="zoomblurbox" src="../img/zoomblurbox.PNG" />  </p>
+<ol>
+<li>
+<p>Adjust the <strong>Amount</strong> slider to control how strong the blur appears. A higher value yields a stronger effect.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase blur strength.  </p>
+</li>
+<li>
+<p>Drag slider to the left to decrease blur strength.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Offset</strong> option box to configure where the effect will be interpreted from, setting the focus or center of the blur.  </p>
+</li>
+</ol>
+<h2 id="distort"><a class="toclink" href="#distort">Distort:</a><a class="headerlink" href="#distort" title="Permanent link">&para;</a></h2>
+<p>There are six <strong>Distort</strong> options: [<strong>Bulge</strong>](effects.md#bulge, <a href="./#frosted-glass"><strong>Frosted Glass</strong></a>, <a href="./#pixelate"><strong>Pixelate</strong></a>, <a href="./#polar-inversion"><strong>Polar Inversion</strong></a> <a href="./#tile-reflection"><strong>Tile Reflection</strong></a>, and <a href="./#twist"><strong>Twist</strong></a>. These can be applied to the whole image or a selected area.</p>
+<h3 id="bulge"><a class="toclink" href="#bulge">Bulge</a><a class="headerlink" href="#bulge" title="Permanent link">&para;</a></h3>
 <p><img alt="kfcbulge" src="../img/kfcbulge.PNG" /></p>
-<p>The <strong>Bulge</strong> effect makes the image or selected area swell or shrink, similar to a fisheye or reverse fisheye effect. A dialogue box populates with configurations for amount and offset.</p>
-<p><img alt="bulgebox" src="../img/buldgebox.PNG" /></p>
-<p>The <strong>Amount</strong> slider controls how strong the swelling or shrinking appears. A higher value yields a stronger effect. </p>
-<ul>
-<li>Drag slider to the right to increase swelling</li>
-<li>Drag slider to the left to decrease swelling </li>
-</ul>
-<p>The <strong>Offset</strong> option box is used to configure where the effect will be interpreted from, setting the focus or center of the bulge. </p>
-<h4 id="frosted-glass"><a class="toclink" href="#frosted-glass">Frosted Glass</a><a class="headerlink" href="#frosted-glass" title="Permanent link">&para;</a></h4>
-<p>To open the Frosted Glass effect go to <strong>Effects&gt;Distort&gt;Frosted Glass</strong></p>
-<p><img alt="kfcfrostedglass" src="../img/kfcfrostedglass.PNG" /></p>
-<p>The <strong>Frosted Glass</strong> effect makes the image or selected area look as though it were being viewed through frosted glass. A dialogue box will populate with an amount slider.</p>
-<p><img alt="frostedglassbox" src="../img/frostedglassbox.PNG" /></p>
-<p>The <strong>Amount</strong> slider controls the harshness and number of displaced pixels giving off the frosted effect. A higher value yields a more frosted, pixelated look. </p>
-<ul>
-<li>Drag slider to the right to increase frosted appearance</li>
-<li>Drag slider to the left to decrease frosted appearance </li>
-</ul>
-<h4 id="pixelate"><a class="toclink" href="#pixelate">Pixelate</a><a class="headerlink" href="#pixelate" title="Permanent link">&para;</a></h4>
-<p>To open the Pixelate effect go to <strong>Effects&gt;Distort&gt;Pixelate</strong></p>
-<p><img alt="kfcpixelate" src="../img/kfcpixelate.PNG" /></p>
-<p>The <strong>Pixelate</strong> effect gives the image or selected area a pixelated look, reducing detail by enlarging regularly sampled pixels. A dialogue box populates with a slider for cell size.</p>
-<p><img alt="pixelatebox" src="../img/pixelatebox.PNG" /></p>
-<p>The <strong>Cell Size</strong> slider controls the size of the pixels. A higher value yields larger pixels, and lower values yield smaller, finer pixels. </p>
-<ul>
-<li>Drag slider to the right to increase pixel size</li>
-<li>Drag slider to the left to decrease pixel size </li>
-</ul>
-<h4 id="polar-inversion"><a class="toclink" href="#polar-inversion">Polar Inversion</a><a class="headerlink" href="#polar-inversion" title="Permanent link">&para;</a></h4>
-<p>To open the Polar Inversion effect go to <strong>Effects&gt;Distort&gt;Polar Inversion</strong></p>
-<p><img alt="kfcpolarinversion" src="../img/kfcpolarinversion.PNG" /></p>
-<p>The <strong>Polar Inversion</strong> effect applies a transformation between Cartesian and Polar coordinate systems, resulting in a positional transformation which recursively wraps the image around itself in an endlessly repeating pattern. A dialogue box populates with multiple configurations.</p>
-<p><img alt="polarinversionbox" src="../img/polarinversionbox.PNG" /></p>
-<p>The <strong>Amount</strong> slider controls the strength of the effect. A higher value yields a stronger inversion.</p>
-<ul>
-<li>Drag slider to the right to increase strength</li>
-<li>Drag slider to the left to decrease strength </li>
-</ul>
-<p>The <strong>Offset</strong> option box is used to configure where the effect will be interpreted from, setting the focus or center of the inversion. 
-The <strong>Edge Behavior</strong> dropdown selection defines how the effect behaves as the transformation reaches then exceeds the edge of the canvas.</p>
-<h4 id="tile-reflection"><a class="toclink" href="#tile-reflection">Tile Reflection</a><a class="headerlink" href="#tile-reflection" title="Permanent link">&para;</a></h4>
-<p>To open the Tile Reflection effect go to <strong>Effects&gt;Distort&gt;Tile Reflection</strong></p>
-<p><img alt="kfctilereflection" src="../img/kfctilereflection.PNG" /></p>
-<p>The <strong>Tile Reflection</strong> effect makes the image or selection appear as if it were reflected in a wall of mirrored tiles. A dialogue box populates with configuration options for rotation, tile size, and intensity. </p>
-<p><img alt="tilereflectionbox" src="../img/tilereflectionbox.PNG" /></p>
-<p>The <strong>Rotation</strong> circle slider controls the angle at which the tiles appear. It can be rotated 360 degrees.</p>
-<p>The <strong>Tile Size</strong> slider controls how big or how small the tiles appear, they always remain square. A higher value yields larger tiles.</p>
-<ul>
-<li>Drag slider to the right to increase tile size</li>
-<li>Drag slider to the left to decrease tile size</li>
-</ul>
-<p>The <strong>Intensity</strong> slider controls the curvature of each tile, determining how much of the surrounding are reflected in each tile. A higher value yields curvier tiles, making the image appear more abstracted. </p>
-<ul>
-<li>Drag slider to the right to increase tile curvature</li>
-<li>Drag slider to the left to decrease tile curvature </li>
-</ul>
-<h4 id="twist"><a class="toclink" href="#twist">Twist</a><a class="headerlink" href="#twist" title="Permanent link">&para;</a></h4>
-<p>To open the Twist effect go to <strong>Effects&gt;Distort&gt;Bulge</strong></p>
-<p><img alt="kfctwist" src="../img/kfctwist.PNG" /></p>
-<p>The <strong>Twist</strong> effect mimics winding the image around the center point of the image. A dialogue box populates with two sliders for amount and antialias.</p>
-<p><img alt="twistbox" src="../img/twistbox.PNG" /></p>
-<p>The <strong>Amount</strong> slider controls the intensity of the twist. Numbers closer to 0 make the effect less intense, with 0 leaving the image unaltered.
-The <strong>Antialias</strong> slider controls the amount of detail. A higher value yields a smoother appearance, while lower values yield a more jagged, pixelated appearance. </p>
-<ul>
-<li>Drag slider to the right to increase smoothness</li>
-<li>Drag slider to the left to decrease smoothness</li>
-</ul>
-<h3 id="artistic-medium"><a class="toclink" href="#artistic-medium">Artistic Medium:</a><a class="headerlink" href="#artistic-medium" title="Permanent link">&para;</a></h3>
-<p>The <strong>Artistic Medium</strong> submenu is made up of Ink Sketch, Oil Painting, and Pencil Sketch, all mimicking traditional artistic mediums. </p>
-<h5 id="ink-sketch"><a class="toclink" href="#ink-sketch">Ink Sketch</a><a class="headerlink" href="#ink-sketch" title="Permanent link">&para;</a></h5>
-<p>To open the Ink Sketch effect go to <strong>Effects&gt;Artistic&gt;Ink Sketch</strong></p>
-<p><img alt="inksketch" src="../img/kfcinksketch.PNG" /></p>
-<p>The <strong>Ink Sketch</strong> effect makes the image appear as if it were drawn using a pen. A dialogue box populates with two sliders, ink outline and coloring.</p>
-<p><img alt="inksketchbox" src="../img/inksketchbox.PNG" /></p>
-<p>The <strong>Ink Outline</strong> slider controls the weight of the outline or edging. </p>
-<ul>
-<li>Drag slider to the right to increase outline strength</li>
-<li>Drag slider to the left to decrease outline strength</li>
-</ul>
-<p>The <strong>Coloring</strong> slider controls how much of the original image’s color bleeds through, higher values yield higher saturation.</p>
-<ul>
-<li>Drag slider to the right to increase color</li>
-<li>Drag slider to the left to decrease color</li>
-</ul>
-<h5 id="oil-painting"><a class="toclink" href="#oil-painting">Oil Painting</a><a class="headerlink" href="#oil-painting" title="Permanent link">&para;</a></h5>
-<p>To open the Oil Painting effect go to <strong>Effects&gt;Artistic&gt;Oil Painting</strong></p>
-<p><img alt="kfcoilpainting" src="../img/kfcoilpainting.PNG" /></p>
-<p>The <strong>Oil Painting</strong> effect makes the image appears as if it were painted with oil paints. A dialogue box populates with two sliders,
-brush size and coarseness. </p>
-<p><img alt="oilpaintingbox" src="../img/oilpaintingbox.PNG" /></p>
-<p>The <strong>Brush Size</strong> slider controls the size of the paintbrush tip, larger values yield larger strokes and smaller values yield finer strokes.</p>
-<ul>
-<li>Drag slider to the right to increase brush size</li>
-<li>Drag slider to the left to decrease brush size</li>
-</ul>
-<p>The <strong>Coarseness</strong> slider controls how much detail is captured in the transformation. A larger value yields a more detailed oil painting render and a smaller value yields a less detailed oil painting render. </p>
-<ul>
-<li>Drag slider to the right to increase detail</li>
-<li>Drag slider to the left to decrease detail</li>
-</ul>
-<h5 id="pencil-sketch"><a class="toclink" href="#pencil-sketch">Pencil Sketch</a><a class="headerlink" href="#pencil-sketch" title="Permanent link">&para;</a></h5>
-<p>To open the Pencil Sketch effect go to <strong>Effects&gt;Artistic&gt;Pencil Sketch</strong></p>
-<p><img alt="kfcpencilsketch" src="../img/kfcpencilsketch.PNG" /></p>
-<p>The <strong>Pencil Sketch</strong> effect makes the image appear as though it were sketched with a pencil. A dialogue box populates with two sliders, pencil tip and range.</p>
-<p><img alt="pencilsketchbox" src="../img/pencilsketchbox.PNG" /></p>
-<p>The <strong>Pencil Tip</strong> slider controls the sharpness of the virtual pencil. A larger value yields a blunter tip, making lines thicker and heavier. A smaller value yields a sharper tip, making lines finer, and the image appear lighter. </p>
-<ul>
-<li>Drag slider to the right to increase line thickness</li>
-<li>Drag slider to the left to decrease line thickness</li>
-</ul>
+<p>The <strong>Bulge</strong> effect makes the image or selected area swell or shrink, similar to a fisheye or reverse fisheye effect.  </p>
+<ol>
+<li>Go to <strong>Effects</strong> &gt; <strong>Distort</strong> and select <strong>Bulge</strong>. The <strong>Bulge</strong> dialog box will appear.  </li>
+</ol>
+<p><img alt="bulgebox" src="../img/buldgebox.PNG" />  </p>
+<ol>
+<li>
+<p>Adjust the <strong>Amount</strong> slider to control how strong the swelling or shrinking appears. A higher value yields a stronger effect.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase swelling.  </p>
+</li>
+<li>
+<p>Drag slider to the left to decrease swelling.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Offset</strong> option box to configure where the effect will be interpreted from, setting the focus or center of the bulge.  </p>
+</li>
+</ol>
+<h3 id="frosted-glass"><a class="toclink" href="#frosted-glass">Frosted Glass</a><a class="headerlink" href="#frosted-glass" title="Permanent link">&para;</a></h3>
+<p><img alt="kfcfrostedglass" src="../img/kfcfrostedglass.PNG" />  </p>
+<p>The <strong>Frosted Glass</strong> effect makes the image or selected area look as though it were being viewed through frosted glass.  </p>
+<ol>
+<li>Go to <strong>Effects</strong> &gt; <strong>Distorted</strong> and select <strong>Frosted Glass</strong>. The <strong>Frosted Glass</strong> dialog box will appear.  </li>
+</ol>
+<p><img alt="frostedglassbox" src="../img/frostedglassbox.PNG" />  </p>
+<ol>
+<li>
+<p>Adjust the <strong>Amount</strong> slider to control the harshness and number of displaced pixels, giving off the frosted effect. A higher value yields a more frosted, pixelated look.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase frosted appearance.  </p>
+</li>
+<li>Drag slider to the left to decrease frosted appearance.  </li>
+</ol>
+<h3 id="pixelate"><a class="toclink" href="#pixelate">Pixelate</a><a class="headerlink" href="#pixelate" title="Permanent link">&para;</a></h3>
+<p><img alt="kfcpixelate" src="../img/kfcpixelate.PNG" />  </p>
+<p>The <strong>Pixelate</strong> effect gives the image or selected area a pixelated look, reducing detail by enlarging regularly sampled pixels.  </p>
+<ol>
+<li>Go to <strong>Effects</strong> &gt; <strong>Distorted</strong> and select <strong>Pixelate</strong>. The <strong>Pixelate</strong> dialog box will appear.  </li>
+</ol>
+<p><img alt="pixelatebox" src="../img/pixelatebox.PNG" />  </p>
+<ol>
+<li>
+<p>Adjust the <strong>Cell Size</strong> slider to control the size of the pixels. A higher value yields larger pixels, and lower values yield smaller, finer pixels.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase pixel size.  </p>
+</li>
+<li>Drag slider to the left to decrease pixel size.  </li>
+</ol>
+<h3 id="polar-inversion"><a class="toclink" href="#polar-inversion">Polar Inversion</a><a class="headerlink" href="#polar-inversion" title="Permanent link">&para;</a></h3>
+<p><img alt="kfcpolarinversion" src="../img/kfcpolarinversion.PNG" />  </p>
+<p>The <strong>Polar Inversion</strong> effect applies a transformation between Cartesian and Polar coordinate systems, resulting in a positional transformation which recursively wraps the image around itself in an endlessly repeating pattern.  </p>
+<ol>
+<li>Go to <strong>Effects</strong> &gt; <strong>Distorted</strong> and select <strong>Polar Inversion</strong>. The <strong>Polar Inversion</strong> dialog box will appear.  </li>
+</ol>
+<p><img alt="polarinversionbox" src="../img/polarinversionbox.PNG" />  </p>
+<ol>
+<li>
+<p>Adjust the <strong>Amount</strong> slider to control the strength of the effect. A higher value yields a stronger inversion.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase strength.  </p>
+</li>
+<li>
+<p>Drag slider to the left to decrease strength.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Offset</strong> option box to configure where the effect will be interpreted from, setting the focus or center of the inversion.  </p>
+</li>
+</ol>
+<p>The <strong>Edge Behavior</strong> drop-down selection defines how the effect behaves as the transformation reaches, then exceeds the edge of the canvas.  </p>
+<h3 id="tile-reflection"><a class="toclink" href="#tile-reflection">Tile Reflection</a><a class="headerlink" href="#tile-reflection" title="Permanent link">&para;</a></h3>
+<p><img alt="kfctilereflection" src="../img/kfctilereflection.PNG" />  </p>
+<p>The <strong>Tile Reflection</strong> effect makes the image or selection appear as if it were reflected in a wall of mirrored tiles.  </p>
+<ol>
+<li>
+<p>Go to <strong>Effects</strong> &gt; <strong>Distorted</strong> and select <strong>Tile Reflection</strong>. The <strong>Tile Reflection</strong> dialog box will appear.<br />
+<img alt="tilereflectionbox" src="../img/tilereflectionbox.PNG" />  </p>
+</li>
+<li>
+<p>Adjust the <strong>Rotation</strong> circle slider to control the angle at which the tiles appear. It can be rotated 360 degrees.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Tile Size</strong> slider to control how big or how small the tiles appear: they always remain square. A higher value yields larger tiles.</p>
+</li>
+<li>
+<p>Drag slider to the right to increase tile size.  </p>
+</li>
+<li>
+<p>Drag slider to the left to decrease tile size.  </p>
+</li>
+<li>
+<p>Adjust <strong>Intensity</strong> slider to control the curvature of each tile, determining how much of the surrounding are reflected in each tile. A higher value yields curvier tiles, making the image appear more abstracted.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase tile curvature.  </p>
+</li>
+<li>Drag slider to the left to decrease tile curvature.  </li>
+</ol>
+<h3 id="twist"><a class="toclink" href="#twist">Twist</a><a class="headerlink" href="#twist" title="Permanent link">&para;</a></h3>
+<p><img alt="kfctwist" src="../img/kfctwist.PNG" />  </p>
+<p>The <strong>Twist</strong> effect mimics winding the image around the center point of the image.  </p>
+<ol>
+<li>
+<p>Go to <strong>Effects</strong> &gt; <strong>Distorted</strong> and select <strong>Twist</strong>. The <strong>Twist</strong> dialog box will appear.<br />
+<img alt="twistbox" src="../img/twistbox.PNG" />  </p>
+</li>
+<li>
+<p>Adjust the <strong>Amount</strong> slider to control the intensity of the twist. Numbers closer to 0 make the effect less intense, with 0 leaving the image unaltered.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Antialias</strong> slider to control the amount of detail. A higher value yields a smoother appearance, while lower values yield a more jagged, pixelated appearance.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase smoothness.  </p>
+</li>
+<li>Drag slider to the left to decrease smoothness.  </li>
+</ol>
+<h2 id="artistic-medium"><a class="toclink" href="#artistic-medium">Artistic Medium:</a><a class="headerlink" href="#artistic-medium" title="Permanent link">&para;</a></h2>
+<p>There are 3 <strong>Artistic Medium</strong> options: <a href="./#ink-sketch"><strong>Ink Sketch</strong></a>, <a href="./#oil-painting"><strong>Oil Painting</strong></a>, and <a href="./#pencill-sketch"><strong>Pencil Sketch</strong></a>, all mimicking traditional artistic mediums. </p>
+<h3 id="ink-sketch"><a class="toclink" href="#ink-sketch">Ink Sketch</a><a class="headerlink" href="#ink-sketch" title="Permanent link">&para;</a></h3>
+<p><img alt="inksketch" src="../img/kfcinksketch.PNG" />  </p>
+<p>The <strong>Ink Sketch</strong> effect makes the image appear as if it were drawn using a pen.  </p>
+<ol>
+<li>
+<p>Go to <strong>Effects</strong> &gt; <strong>Artistic</strong> and select <strong>Ink Sketch</strong>. The <strong>Ink Sketch</strong> dialog box will appear.<br />
+<img alt="inksketchbox" src="../img/inksketchbox.PNG" /></p>
+</li>
+<li>
+<p>Adjust the <strong>Ink Outline</strong> slider to control the weight of the outline or edging.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase outline strength.  </p>
+</li>
+<li>
+<p>Drag slider to the left to decrease outline strength.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Coloring</strong> slider to control how much of the original image’s color bleeds through, higher values yield higher saturation.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase color.  </p>
+</li>
+<li>Drag slider to the left to decrease color.  </li>
+</ol>
+<h3 id="oil-painting"><a class="toclink" href="#oil-painting">Oil Painting</a><a class="headerlink" href="#oil-painting" title="Permanent link">&para;</a></h3>
+<p><img alt="kfcoilpainting" src="../img/kfcoilpainting.PNG" />  </p>
+<p>The <strong>Oil Painting</strong> effect makes the image appear as if it were painted with oil paints.  </p>
+<ol>
+<li>
+<p>Go to <strong>Effects</strong> &gt; <strong>Artistic</strong> and select <strong>Oil Painting</strong>. The <strong>Oil Painting</strong> dialog box will appear.<br />
+<img alt="oilpaintingbox" src="../img/oilpaintingbox.PNG" />  </p>
+</li>
+<li>
+<p>Adjust the <strong>Brush Size</strong> slider to control the size of the paintbrush tip, larger values yield larger strokes and smaller values yield finer strokes.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase brush size.  </p>
+</li>
+<li>
+<p>Drag slider to the left to decrease brush size.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Coarseness</strong> slider to control how much detail is captured in the transformation. A larger value yields a more detailed oil painting render and a smaller value yields a less detailed oil painting render.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase detail.  </p>
+</li>
+<li>Drag slider to the left to decrease detail.  </li>
+</ol>
+<h3 id="pencil-sketch"><a class="toclink" href="#pencil-sketch">Pencil Sketch</a><a class="headerlink" href="#pencil-sketch" title="Permanent link">&para;</a></h3>
+<p><img alt="kfcpencilsketch" src="../img/kfcpencilsketch.PNG" />  </p>
+<p>The <strong>Pencil Sketch</strong> effect makes the image appear as though it were sketched with a pencil.  </p>
+<ol>
+<li>
+<p>Go to <strong>Effects</strong> &gt; <strong>Artistic</strong> and select <strong>Pencil</strong>. The <strong>Pencil</strong> dialog box will appear.<br />
+<img alt="pencilsketchbox" src="../img/pencilsketchbox.PNG" />  </p>
+</li>
+<li>
+<p>Adjust the <strong>Pencil Tip</strong> slider to control the sharpness of the virtual pencil. A larger value yields a blunter tip, making lines thicker and heavier. A smaller value yields a sharper tip, making lines finer, and the image appear lighter.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase line thickness.  </p>
+</li>
+<li>Drag slider to the left to decrease line thickness.  </li>
+</ol>
 <p><em>The <strong>Color Range</strong> slider has no effect on the image as it’s generated in greyscale. This slider is arbitrary and can be ignored.</em> </p>
-<h3 id="render"><a class="toclink" href="#render">Render:</a><a class="headerlink" href="#render" title="Permanent link">&para;</a></h3>
-<p>The <strong>Render</strong> submenu is made up of Clouds, Julia Fractal, and Mandelbrot Fractal, these three effects create completely new renderings, replacing all color information in the active layer or selection. </p>
-<h5 id="clouds"><a class="toclink" href="#clouds">Clouds</a><a class="headerlink" href="#clouds" title="Permanent link">&para;</a></h5>
-<p>To open the Clouds effect go to <strong>Effects&gt;Render&gt;Clouds</strong></p>
-<p><img alt="cloudrender" src="../img/cloudrender.PNG" /></p>
-<p>The <strong>Clouds</strong> effect renders a randomized cloud pattern to the layer or desired selection. A dialogue box with two sliders, for scale and power, and a dropdown selection for blend mode will populate.</p>
-<p><img alt="cloudbox" src="../img/cloudbox.PNG" /></p>
-<p>The <strong>Scale</strong> slider controls the size of clouds. Higher values yield larger clouds and lower values yield finer clouds. </p>
+<h2 id="render"><a class="toclink" href="#render">Render:</a><a class="headerlink" href="#render" title="Permanent link">&para;</a></h2>
+<p>There are 3 <strong>Render</strong> options: <a href="./#clouds"><strong>Clouds</strong></a>, <a href="./#julia-fractal"><strong>Julia Fractal</strong></a>, and <a href="./#madelbrot-fractal"><strong>Mandelbrot Fractal</strong></a>, these three effects create completely new renderings, replacing all color information in the active layer or selection.  </p>
+<h3 id="clouds"><a class="toclink" href="#clouds">Clouds</a><a class="headerlink" href="#clouds" title="Permanent link">&para;</a></h3>
+<p><img alt="cloudrender" src="../img/cloudrender.PNG" />  </p>
+<p>The <strong>Clouds</strong> effect renders a randomized cloud pattern to the layer or desired selection.  </p>
+<ol>
+<li>
+<p>Go to <strong>Effects</strong> &gt; <strong>Render</strong> and select <strong>Clouds</strong>. The <strong>Cloud</strong> dialog box will appear.<br />
+<img alt="cloudbox" src="../img/cloudbox.PNG" /></p>
+</li>
+<li>
+<p>Adjust the <strong>Scale</strong> slider to control the size of clouds. Higher values yield larger clouds and lower values yield finer clouds.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase cloud size.  </p>
+</li>
+<li>
+<p>Drag slider to the left to decrease cloud size.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Power</strong> slider to control how coarse or how fluffy the clouds appear, dealing with their texture. Higher values yield coarser, more detailed clouds and lower values yield softer, more blurred clouds.</p>
+</li>
+<li>
+<p>Drag slider to the right to increase cloud texture.  </p>
+</li>
+<li>
+<p>Drag slider to the left to decrease cloud texture.  </p>
+</li>
+<li>
+<p>Select a <strong>Blend Mode</strong> from the drop-down menu to configure how the rendered clouds will be blended with the original image or layer.  </p>
+</li>
+</ol>
+<p>See a full list of blend modes and their deciprtions in the <a href="../edit/#apply-blend-mode">Edit Layer Properties</a> page.</p>
 <ul>
-<li>Drag slider to the right to increase cloud size</li>
-<li>Drag slider to the left to decrease cloud size</li>
-</ul>
-<p>The <strong>Power</strong> slider controls how coarse or how fluffy the clouds appear, dealing with their texture. Higher values yield coarser, more detailed clouds and lower values yield softer, more blurred clouds.</p>
-<ul>
-<li>Drag slider to the right to increase cloud texture</li>
-<li>Drag slider to the left to decrease cloud texture</li>
-</ul>
-<p>The <strong>Blend Mode</strong> dropdown menu lets you decide how the rendered clouds will be blended with the original image or layer.</p>
-<table>
-<thead>
-<tr>
-<th align="center">Name</th>
-<th align="center">Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><strong>Normal</strong></td>
-<td align="center">This is the default and standard blend mode. Each pixel in the layer is blended with the composition depending on its alpha value.</td>
-</tr>
-<tr>
-<td align="center"><strong>Multiply</strong></td>
-<td align="center">Each pixel's RGB component intensity is   multiplied with the pixel value from the composition. The result of this   blend mode is always darker than the original.  White pixels in the   blend layer are effectively rendered transparent by the Multiply blend.</td>
-</tr>
-<tr>
-<td align="center"><strong>Additive</strong></td>
-<td align="center">Each pixel's RGB component intensity is   added to the intensity of the pixel values from the composition.  The Additive blend   has the effect of brightening pixels in the final composition. Black   pixels in the blend layer are rendered as transparent by the Additive blend.</td>
-</tr>
-<tr>
-<td align="center"><strong>Color Burn</strong></td>
-<td align="center">This blend mode has the effect of making   dark pixels darker while lighter pixels must be blended with other light   colored pixels in order to remain bright.</td>
-</tr>
-<tr>
-<td align="center"><strong>Color Dodge</strong></td>
-<td align="center">This can be thought of as the opposite   of Color   Burn. Lighter pixels retain their brightness while darker   pixels must be blended with other dark pixels in order to remain dark.</td>
-</tr>
-<tr>
-<td align="center"><strong>Reflect</strong></td>
-<td align="center">This blend mode can be used for adding   shiny objects or areas of light. Black pixels in the blend layer are   ignored as if they were transparent.</td>
-</tr>
-<tr>
-<td align="center"><strong>Glow</strong></td>
-<td align="center">This is the reverse of the Reflect mode:   it works the same as swapping the layer positions and using Reflect.   Glow effectively   brightens the composition by the amount of brightness in the blend   layer.  Black pixels in the blend layer are rendered as if they were   transparent.</td>
-</tr>
-<tr>
-<td align="center"><strong>Overlay</strong></td>
-<td align="center">This is a combination of Screen and Multiply modes   which uses the blend pixel intensity to determine the result.  For   darker colors, this acts like Multiply. For   lighter colors, this acts like Screen.</td>
-</tr>
-<tr>
-<td align="center"><strong>Difference</strong></td>
-<td align="center">The counterpart to Additive blending. The   layer pixel's intensity is subtracted from the composition pixel's intensity   resulting in darker colors.  Subtraction could produce a negative   intensity which is unable to be displayed, so an absolute value is   returned.  Thus, both "white minus black" and "black   minus white" will both produce white. Difference blend   is often useful when using the Clouds effect.</td>
-</tr>
-<tr>
-<td align="center"><strong>Negation</strong></td>
-<td align="center">At first glance this seems similar to Difference,   however it actually produces the opposite effect.  Instead of making   colors darker, it will make them brighter.</td>
-</tr>
-<tr>
-<td align="center"><strong>Lighten</strong></td>
-<td align="center">The lightest pixel of either the blend   layer or the composition is used.</td>
-</tr>
-<tr>
-<td align="center"><strong>Darken</strong></td>
-<td align="center">The darkest pixel of either the blend layer or the composition is used.</td>
-</tr>
-<tr>
-<td align="center"><strong>Screen</strong></td>
-<td align="center">This can be thought of as the opposite of the Multiply blend mode. It is used to make pixels brighter, with black being effectively transparent.</td>
-</tr>
-<tr>
-<td align="center"><strong>Xor</strong></td>
-<td align="center">This is short for "exclusive   OR", which is an advanced blending mode that is primarily used for image analysis.  Pixels in the blend layer which exactly match the composition   will be rendered black. Where differences exist, colors are shown.</td>
-</tr>
-</tbody>
-</table>
+<li>
 <p>The <strong>Reseed</strong> button randomizes the cloud pattern. </p>
-<p>The <strong>Coloring</strong> of the rendered clouds depends on the two colors selected in the color palette. To render clouds as a single color, lower the secondary color’s opacity to 0 in the color selection menu. </p>
-<h4 id="julia-fractal"><a class="toclink" href="#julia-fractal">Julia Fractal</a><a class="headerlink" href="#julia-fractal" title="Permanent link">&para;</a></h4>
-<p>To open the Julia Fractal effect go to <strong>Effects&gt;Render&gt;Julia Fractal</strong></p>
-<p><img alt="juliafractalrender" src="../img/juliafractalrender.PNG" /></p>
-<p>The <strong>Julia Fractal</strong> effect renders a Julia Fractal on the layer or desired selection. A dialogue box with four sliders, for factor, quality, zoom, and angle will populate. The colors of this fractal are not configurable.</p>
-<p><img alt="juliafractalbox" src="../img/juliafractalbox.PNG" /></p>
-<p>The <strong>Factor</strong> slider controls the color saturation. Higher values yield more vivid colors and lower values yield duller colors, with 1 rendering a greyscale fractal. </p>
-<ul>
-<li>Drag slider to the right to increase saturation</li>
-<li>Drag slider to the left to decrease saturation</li>
+</li>
+<li>
+<p>The <strong>Coloring</strong> of the rendered clouds depends on the two colors selected in the color palette. To render clouds as a single color, lower the secondary color’s opacity to 0 in the color selection menu.  </p>
+</li>
 </ul>
-<p>The <strong>Quality</strong> slider controls the amount of detail in the fractal. Higher values yield a smoother, more detailed fractal and lower values yield a more jagged, “pixelated” fractal. </p>
-<ul>
-<li>Drag slider to the right to increase fractal detail</li>
-<li>Drag slider to the left to decrease fractal detail</li>
-</ul>
-<p>The <strong>Zoom</strong> slider controls the scale, allowing you to zoom in or out. </p>
-<ul>
-<li>Drag slider to the right to zoom in</li>
-<li>Drag slider to the left to zoom out</li>
-</ul>
-<p>The <strong>Angle</strong> circle slider controls the angle at which the fractal sits. It can be rotated 360 degrees. </p>
-<h4 id="mandelbrot-fractal"><a class="toclink" href="#mandelbrot-fractal">Mandelbrot Fractal</a><a class="headerlink" href="#mandelbrot-fractal" title="Permanent link">&para;</a></h4>
-<p>To open the Mandelbrot Fractal effect go to <strong>Effects&gt;Render&gt;Mandelbrot Fractal</strong></p>
-<p><img alt="mandelbrotfractalrender" src="../img/mandelbrotfractalrender.PNG" /></p>
-<p>The <strong>Mandelbrot Fractal</strong> effect renders a Mandelbrot Fractal on the layer or desired selection. A dialogue box with four sliders, for factor, quality, zoom, and angle will populate. </p>
-<p><img alt="mandebrotfractalbox" src="../img/mandelbrotfractalbox.PNG" /></p>
-<p>The colors of this fractal are not configurable but can be inverted. Checking the ☑ Invert Colors checkbox has the same effect as applying <strong>Adjustments &gt; Invert Colors.</strong> </p>
-<p>The <strong>Factor</strong> slider controls the color saturation. Higher values yield more vivid colors and lower values yield duller colors, with 1 rendering a greyscale fractal. </p>
-<ul>
-<li>Drag slider to the right to increase saturation</li>
-<li>Drag slider to the left to decrease saturation</li>
-</ul>
-<p>The <strong>Quality</strong> slider controls the amount of detail in the fractal. Higher values yield a smoother, more detailed fractal and lower values yield a more jagged, “pixelated” fractal. </p>
-<ul>
-<li>Drag slider to the right to increase fractal detail</li>
-<li>Drag slider to the left to decrease fractal detail</li>
-</ul>
-<p>The <strong>Zoom</strong> slider controls the scale, allowing you to zoom in or out. </p>
-<ul>
-<li>Drag slider to the right to zoom in</li>
-<li>Drag slider to the left to zoom out</li>
-</ul>
-<p>The <strong>Angle</strong> circle slider controls the angle at which the fractal sits. It can be rotated 360 degrees. </p>
-<h3 id="stylize"><a class="toclink" href="#stylize">Stylize:</a><a class="headerlink" href="#stylize" title="Permanent link">&para;</a></h3>
-<p>The Stylize menu is made up of four options: Edge Detect, Emboss, Outline, and Relief to change the image or selected area based on edge detection.</p>
-<h4 id="edge-detect"><a class="toclink" href="#edge-detect">Edge Detect</a><a class="headerlink" href="#edge-detect" title="Permanent link">&para;</a></h4>
-<p>To open the Edge Detect effect go to <strong>Effects&gt;Stylize&gt;Edge Detect</strong></p>
-<p><img alt="kfcedgedetect" src="../img/kfcedgedetect.PNG" /></p>
-<p>The <strong>Edge Detect</strong> effect highlights the edges of an image or selected area, creating an almost embossed effect. A dialogue box populates with a circle slider for the angle. </p>
-<p><img alt="edgedetectbox" src="../img/edgedetectbox.PNG" /></p>
-<p>The <strong>Angle</strong> circle slider controls the angle at which the edges appear, controlling the direction of the light source. It can be rotated 360 degrees.</p>
-<h4 id="emboss"><a class="toclink" href="#emboss">Emboss</a><a class="headerlink" href="#emboss" title="Permanent link">&para;</a></h4>
-<p>To open the Emboss effect go to <strong>Effects&gt;Stylize&gt;Emboss</strong></p>
-<p><img alt="kfcemboss" src="../img/kfcemboss.PNG" /></p>
-<p>The <strong>Emboss</strong> effect is similar to the edge effect. It generates a black and white rendering of the image where the edges have been given a 3D highlight as though they were physically embossed. A dialogue box populates with a circle slider for the angle.</p>
-<p><img alt="embossbox" src="../img/embossbox.PNG" /></p>
-<p>The <strong>Angle</strong> circle slider controls the angle at which the edges appear, controlling the direction of the light source. It can be rotated 360 degrees.</p>
-<h4 id="outline"><a class="toclink" href="#outline">Outline</a><a class="headerlink" href="#outline" title="Permanent link">&para;</a></h4>
-<p>To open the Outline effect go to <strong>Effects&gt;Stylize&gt;Outline</strong></p>
-<p><img alt="kfcoutline" src="../img/kfcoutline.PNG" /></p>
-<p>The <strong>Outline</strong> effect enhances edges found in an image by tracing around them with an outline of requested radius.  A dialogue box populates with two sliders for thickness and intensity.</p>
-<p><img alt="outlinebox" src="../img/outlinebox.PNG" /></p>
-<p>The <strong>Thickness</strong> slider controls how thick the outline appears. Higher values yield thicker outlines and lower values yield finer outline.</p>
-<ul>
-<li>Drag slider to the right to increase thickness</li>
-<li>Drag slider to the left to decrease thickness</li>
-</ul>
-<p>The <strong>Intensity</strong> slider controls the strength of the effect, or the number of pixels that the effect is applied to. Higher values yield a stronger effect. </p>
-<ul>
-<li>Drag slider to the right to increase intensity</li>
-<li>Drag slider to the left to decrease intensity</li>
-</ul>
-<h4 id="relief"><a class="toclink" href="#relief">Relief</a><a class="headerlink" href="#relief" title="Permanent link">&para;</a></h4>
-<p>To open the Relief effect go to <strong>Effects&gt;Stylize&gt;Relief</strong></p>
-<p><img alt="kfcrelief" src="../img/kfcrelief.PNG" /></p>
-<p>The <strong>Relief</strong> effect is similar to the edge detect effect, but instead it blends the raised edges back into the original image, giving it a full colored embossed look. A dialogue box populates with a circle slider for the angle. </p>
-<p><img alt="reliefbox" src="../img/reliefbox.PNG" /></p>
-<p>The <strong>Angle</strong> circle slider controls the angle at which the edges appear, controlling the direction of the light source. It can be rotated 360 degrees.</p>
+<h3 id="julia-fractal"><a class="toclink" href="#julia-fractal">Julia Fractal</a><a class="headerlink" href="#julia-fractal" title="Permanent link">&para;</a></h3>
+<p><img alt="juliafractalrender" src="../img/juliafractalrender.PNG" />  </p>
+<p>The <strong>Julia Fractal</strong> effect renders a Julia Fractal on the layer or desired selection.  </p>
+<ol>
+<li>
+<p>Go to <strong>Effects</strong> &gt; <strong>Render</strong> and select <strong>Julia Fractal</strong>. The <strong>Julia Fractal</strong> dialog box will appear.<br />
+<img alt="juliafractalbox" src="../img/juliafractalbox.PNG" /></p>
+</li>
+<li>
+<p>Adjust the <strong>Factor</strong> slider to control the color saturation. Higher values yield more vivid colors and lower values yield duller colors, with 1 rendering a greyscale fractal.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase saturation.  </p>
+</li>
+<li>
+<p>Drag slider to the left to decrease saturation.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Quality</strong> slider to control the amount of detail in the fractal. Higher values yield a smoother, more detailed fractal and lower values yield a more jagged, “pixelated” fractal.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase fractal detail.  </p>
+</li>
+<li>
+<p>Drag slider to the left to decrease fractal detail.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Zoom</strong> slider to control the scale, allowing you to zoom in or out.  </p>
+</li>
+<li>
+<p>Drag slider to the right to zoom in.  </p>
+</li>
+<li>
+<p>Drag slider to the left to zoom out.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Angle</strong> circle slider to control the angle at which the fractal sits. It can be rotated 360 degrees.  </p>
+</li>
+</ol>
+<h3 id="mandelbrot-fractal"><a class="toclink" href="#mandelbrot-fractal">Mandelbrot Fractal</a><a class="headerlink" href="#mandelbrot-fractal" title="Permanent link">&para;</a></h3>
+<p><img alt="mandelbrotfractalrender" src="../img/mandelbrotfractalrender.PNG" />  </p>
+<p>The <strong>Mandelbrot Fractal</strong> effect renders a Mandelbrot Fractal on the layer or desired selection.  </p>
+<ol>
+<li>
+<p>Go to <strong>Effects</strong> &gt; <strong>Render</strong> and select <strong>Mandelbrot Fractal</strong>. The <strong>Mandelbrot Fractal</strong> dialog box will appear.<br />
+<img alt="mandebrotfractalbox" src="../img/mandelbrotfractalbox.PNG" /></p>
+</li>
+<li>
+<p>The colors of this fractal are not configurable but can be inverted. Checking the ☑ Invert Colors checkbox has the same effect as applying <strong>Adjustments &gt; Invert Colors.</strong>  </p>
+</li>
+<li>
+<p>Adjust the <strong>Factor</strong> slider to control the color saturation. Higher values yield more vivid colors and lower values yield duller colors, with 1 rendering a greyscale fractal.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase saturation.  </p>
+</li>
+<li>
+<p>Drag slider to the left to decrease saturation.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Quality</strong> slider to control the amount of detail in the fractal. Higher values yield a smoother, more detailed fractal and lower values yield a more jagged, “pixelated” fractal.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase fractal detail.  </p>
+</li>
+<li>
+<p>Drag slider to the left to decrease fractal detail.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Zoom</strong> slider to control the scale, allowing you to zoom in or out.  </p>
+</li>
+<li>
+<p>Drag slider to the right to zoom in.  </p>
+</li>
+<li>
+<p>Drag slider to the left to zoom out.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Angle</strong> circle slider to control the angle at which the fractal sits. It can be rotated 360 degrees.  </p>
+</li>
+</ol>
+<h2 id="stylize"><a class="toclink" href="#stylize">Stylize:</a><a class="headerlink" href="#stylize" title="Permanent link">&para;</a></h2>
+<p>The Stylize menu is made up of four options: <a href="./#edge-detect"><strong>Edge Detect</strong></a>, <a href="./#emboss"><strong>Emboss</strong></a>, <a href="./#outline"><strong>Outline</strong></a>, and <a href="./#relief"><strong>Relief</strong></a> to change the image or selected area based on edge detection.  </p>
+<h3 id="edge-detect"><a class="toclink" href="#edge-detect">Edge Detect</a><a class="headerlink" href="#edge-detect" title="Permanent link">&para;</a></h3>
+<p><img alt="kfcedgedetect" src="../img/kfcedgedetect.PNG" />  </p>
+<p>The <strong>Edge Detect</strong> effect highlights the edges of an image or selected area, creating an almost embossed effect.  </p>
+<ol>
+<li>
+<p>Go to <strong>Effects</strong> &gt; <strong>Stylize</strong> and select <strong>Edge Detect</strong>. The <strong>Edge Detect</strong> dialog box will appear.<br />
+<img alt="edgedetectbox" src="../img/edgedetectbox.PNG" />  </p>
+</li>
+<li>
+<p>Adjust the <strong>Angle</strong> circle slider to control the angle at which the edges appear, controlling the direction of the light source. It can be rotated 360 degrees.  </p>
+</li>
+</ol>
+<h3 id="emboss"><a class="toclink" href="#emboss">Emboss</a><a class="headerlink" href="#emboss" title="Permanent link">&para;</a></h3>
+<p><img alt="kfcemboss" src="../img/kfcemboss.PNG" />  </p>
+<p>The <strong>Emboss</strong> effect is similar to the edge effect. It generates a black and white rendering of the image where the edges have been given a 3D highlight as though they were physically embossed.  </p>
+<ol>
+<li>
+<p>Go to <strong>Effects</strong> &gt; <strong>Stylize</strong> and select <strong>Emboss</strong>. The <strong>Emboss</strong> dialog box will appear.<br />
+<img alt="embossbox" src="../img/embossbox.PNG" />  </p>
+</li>
+<li>
+<p>Adjust the <strong>Angle</strong> circle slider to control the angle at which the edges appear, controlling the direction of the light source. It can be rotated 360 degrees.  </p>
+</li>
+</ol>
+<h3 id="outline"><a class="toclink" href="#outline">Outline</a><a class="headerlink" href="#outline" title="Permanent link">&para;</a></h3>
+<p><img alt="kfcoutline" src="../img/kfcoutline.PNG" />  </p>
+<p>The <strong>Outline</strong> effect enhances edges found in an image by tracing around them with an outline of requested radius.  </p>
+<ol>
+<li>
+<p>Go to <strong>Effects</strong> &gt; <strong>Stylize</strong> and select <strong>Outline</strong>. The <strong>Outline</strong> dialog box will appear.<br />
+<img alt="outlinebox" src="../img/outlinebox.PNG" />  </p>
+</li>
+<li>
+<p>Adjust the <strong>Thickness</strong> slider to control how thick the outline appears. Higher values yield thicker outlines and lower values yield finer outline.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase thickness.  </p>
+</li>
+<li>
+<p>Drag slider to the left to decrease thickness.  </p>
+</li>
+<li>
+<p>Adjust the <strong>Intensity</strong> slider to control the strength of the effect or the number of pixels that the effect is applied to. Higher values yield a stronger effect.  </p>
+</li>
+<li>
+<p>Drag slider to the right to increase intensity.  </p>
+</li>
+<li>Drag slider to the left to decrease intensity.  </li>
+</ol>
+<h3 id="relief"><a class="toclink" href="#relief">Relief</a><a class="headerlink" href="#relief" title="Permanent link">&para;</a></h3>
+<p><img alt="kfcrelief" src="../img/kfcrelief.PNG" />  </p>
+<p>The <strong>Relief</strong> effect is similar to the edge detect effect but instead, it blends the raised edges back into the original image, giving it a full colored embossed look. A dialog box populates with a circle slider for the angle.  </p>
+<ol>
+<li>
+<p>Go to <strong>Effects</strong> &gt; <strong>Stylize</strong> and select <strong>Relief</strong>. The <strong>Relief</strong> dialog box will appear.<br />
+<img alt="reliefbox" src="../img/reliefbox.PNG" /></p>
+</li>
+<li>
+<p>Adjust the <strong>Angle</strong> circle slider to control the angle at which the edges appear, controlling the direction of the light source. It can be rotated 360 degrees.  </p>
+</li>
+</ol>
               
             </div>
           </div>
