@@ -67,6 +67,6 @@ You can undo and redo any actions taken in Pinta:
 - Go to **Edit** and select **Undo** or **Redo**
 - Select **Undo** or **Redo** from **Toolbar**.
 - Select [shortcuts](shortcuts.md) for undo `CTRL` + `Z` and redo `CTRL` + `Y`.
-- Select the action in the [History](overview.md) window list - skip back to undo a row of actions and skip ahead to redo those actions. 
+- Select the action in the [__History__](overview.md) window list - skip back to undo a row of actions and skip ahead to redo those actions. 
 
 Your actions are unlimited so you can undo the whole history if you wanted to. Just take note, those actions will disappear once you close Pinta, even if the project file was saved as an .ora file.
