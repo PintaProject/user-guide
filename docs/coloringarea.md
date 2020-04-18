@@ -6,7 +6,7 @@ The *Paint Bucket* ![paint bucket](img/overview/bucket.png) tool can be used to 
 
     ![select paint bucket](img/color/selectpaintbucket.png)
 
-    The paint bucket menu options will then be displayed on the menu bar.
+    The paint bucket options will then be displayed on the *Tools Settings Bar*.
 
     ![paint menu](img/color/paintbucketmenu.png)
     

@@ -13,7 +13,7 @@ Pinta provides the following filters found in the **Adjustments** dropdown:
 
 #### Sepia
 
-To apply the Sepia filter go to **Adjustments>Sepia**
+To apply the Sepia filter go to **Adjustments** > **Sepia**
 
 ![kfcsepia](img/kfcsepia.PNG)
 
@@ -25,7 +25,7 @@ The **Sepia** adjustment gives images an aged photograph look. It renders the im
 #### Posterize
 
 
-To apply the Sepia filter go to **Adjustments>Posterize**
+To apply the Sepia filter go to **Adjustments** > **Posterize**
 
 ![kfcposterize](img/kfcposterize.PNG)
 
@@ -42,7 +42,7 @@ Each RGB (Red, Green, Blue) color channel has 256 possible values, the sliders l
 #### Black and White
 
 
-To apply the Back and White filter go to **Adjustments>Black and White**
+To apply the Back and White filter go to **Adjustments** > **Black and White**
 
 ![kfcbw](img/kfcbw.PNG)
 
@@ -51,7 +51,7 @@ The **Black and White** adjustment strips the image of all color information, de
 #### Invert Colors
 
 
-To apply the Invert Colors filter go to **Adjustments>Invert Colors**
+To apply the Invert Colors filter go to **Adjustments** > **Invert Colors**
 
 ![kfcinvert](img/kfcinvert.PNG)
 

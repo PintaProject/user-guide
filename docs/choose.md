@@ -4,7 +4,7 @@
 
  The **Pencil** tool uses a hard edge and there's only one width and type of pencil. Whereas the **Brush** tool can be used to paint with smooth edges and you can change the width and type of brush (normal, circles, grid, splatter and squares). 
 
- Before selecting a pencil or brush, it's recommended to [**add a new layer**](layers.md) to the workspace so that it's easier to isolate/edit your pencil and brush strokes in the future.
+ Before selecting the **Pencil* or **Brush**, it is recommended to [**add a new layer**](layers.md) to the workpage so that it is easier to isolate/edit your pencil and brush stokes in the future.
 
 
 ## How to Select a Pencil 
