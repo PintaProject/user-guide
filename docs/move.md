@@ -35,4 +35,4 @@ Use the **Move Selected Pixels** tool to move and rotate a selected portion of y
  
     &nbsp;
 !!! Note 
-    The right-click button usually controls rotation - regardless of the location of the cursor.  
+    The right-click button always controls rotation - regardless of the location of the cursor.  
