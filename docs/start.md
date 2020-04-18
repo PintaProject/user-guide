@@ -33,7 +33,7 @@ Considering that there are some minor differences between each Windows system, t
 
 ### __Uninstall__ ###
 
-1. Open Finder > Applications.
+1. Open **Finder** > **Applications**.
 2. Select Pinta.
 3. Move to trash in three different ways:
     - Drag the Pinta icon to the Trash icon in the Dock.
