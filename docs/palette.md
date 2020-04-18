@@ -13,10 +13,10 @@ Pinta comes with a default palette of 48 Colors that you can use to quickly sele
  
 
 &nbsp;  
-2.  From the **Palette** submenu you can select: 
+2.  From the **Palette** submenu, you can select: 
 
-  -  **Open...**: Use to open an existing saved Palette
-  -  **Save As...**: Use to save your Palette
+  -  **Open...**: Use to open an existing saved Palette.
+  -  **Save As...**: Use to save your Palette.
   -  **Reset to Default**:  Use to restore your Palette back to the default setting of 48 colors.
   -  **Set Number of Colors**: Use to adjust the number of colors in the Palette. When selected the **Resize Palette** Window will appear and you can choose to have between 1-48 colors. 
 
