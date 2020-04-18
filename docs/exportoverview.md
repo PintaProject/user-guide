@@ -2,8 +2,8 @@
 
 ![button](img/exporticon.png)
 
-When working with Pinta you may wish to export your files. 
+When working with Pinta you will need to export your files in a variety of file formats and printed styles. 
 Pinta enables you to:
 
-  -  [**Save a Project**](save.md): To a file
-  -  [**Print a Project**](print.md): Although there is no print function on Pinta, if you save a file you can print it from your device from the saved file.
+  -  [**Save Project**](save.md): Keeping a copy of the file on your computer in a file format.
+  -  [**Print Project**](print.md): Although there's no print function on Pinta, if you save a file, you can print it from your device from the saved file format.
