@@ -2,7 +2,7 @@
 
 When the Pinta workspace first loads, you'll notice it has an uncluttered layout that is similar to MS Paint, but has more advanced features in comparison.
 
-![workspace](img/overview/workspace.png)
+![workspace](img/overview/workspacetools.png)
 
 ## __Pinta Workspace__ ##
 [__Menu Bar__](#menu-bar-features) - contains drop-down menus.
