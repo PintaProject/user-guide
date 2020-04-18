@@ -21,9 +21,9 @@ Once you have setup your new layer, you can start working on your project in tha
 When you open Pinta, it starts with a default canvas size of 640 x 480. You can create a custom size depending on the project you are creating. For example, you may want to create a banner such as this:
 ![canvas](img/setup/canvas.png)
 
-To customize the canvas size create a new image and select the desired sizing of your canvas.
+To customize the canvas size, create a new image and select the desired sizing of your canvas.
 
-1. Select __New...__ ![new](img/setup/new.png) in the Toolbar or go to **File** under menu bar and select **New**.
+1. Select __New...__ ![new](img/setup/new.png) in the Toolbar or go to **File > New...**.
 2. Select a preset to change the canvas size or customize with the listed options to modify the width, height, orientation, and the type of background. You can see a preview of it in the window when you are making the modifications.  
 ![canvas change](img/setup/canvaschange.png)
 3. Select __OK__ to apply the change.
@@ -32,7 +32,7 @@ To customize the canvas size create a new image and select the desired sizing of
 
 You can create a project with a screenshot of your screen(s). If you have multiple screens, it will also capture those too so it's recommended to use the [cropping tool](crop.md) to keep what you need.
 
-1. Go to File under the menu bar and select __New Screenshot...__ ![screenshot](img/setup/screenshot.png).
+Go to **File > New Screenshot...** ![screenshot](img/setup/screenshot.png).
 2. Choose the length of the delay you require for the capture to start.  
 ![capture](img/setup/capture.png)
 3. Select __OK__ to capture.  
@@ -55,16 +55,16 @@ Once you have created your project in the workspace, save your progress as an OR
 
 If the file is saved as a PNG, JPEG, or TIFF as an example, it becomes a final compostion of the image and the visible layers will be flatten together to export to a final image file. To export the file as an [image](concept.md#image), please see the exporting information under the [Exporting Project](exportoverview.md) page.
 
-1. Go to **File** under the menu bar and select __Save As...__ ![save as](img/setup/saveas.png)
+1. Go to **File > Save As...** ![save as](img/setup/saveas.png).
 2. Choose the directory to save the project in.
 3. Select __OpenRaster image (*.ora, *.ORA)__ from the drop-down list.
 4. Select __Save__ to save the new project.
 
 ## __Using Undo or Redo Functions__ ##
 
-You can undo and redo any actions taken in Pinta by:
+You can undo and redo any actions taken in Pinta:
 - Go to **Edit** and select **Undo** or **Redo**
-- Select **Edit** or **Undo** from the *Toolbar* buttons.
+- Select **Undo** or **Redo** from **Toolbar**.
 - Select [shortcuts](shortcuts.md) for undo `CTRL` + `Z` and redo `CTRL` + `Y`.
 - Select the action in the [History Window](overview.md) list - skip back to undo a row of actions and skip ahead to redo those actions. 
 
