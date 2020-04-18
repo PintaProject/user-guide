@@ -176,7 +176,7 @@ The **Zoom Blur** effect is used to give the appearance of motion towards the fo
 3. Adjust the **Offset** option box to configure where the effect will be interpreted from, setting the focus or center of the blur.  
 
 ## Distort: ##
-There are six **Distort** options: [**Bulge**](effects.md#bulge, [**Frosted Glass**](effects.md#frosted-glass), [**Pixelate**](effects.md#pixelate), [**Polar Inversion**](effects.md#polar-inversion) [**Tile Reflection**](effects.md#tile-reflection), and [**Twist**](effects.md#twist). These can be applied to the whole image or a selected area.
+There are six **Distort** options: [**Bulge**](effects.md#bulge), [**Frosted Glass**](effects.md#frosted-glass), [**Pixelate**](effects.md#pixelate), [**Polar Inversion**](effects.md#polar-inversion) [**Tile Reflection**](effects.md#tile-reflection), and [**Twist**](effects.md#twist). These can be applied to the whole image or a selected area.
 
 ### Bulge ###
 
