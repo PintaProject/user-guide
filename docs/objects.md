@@ -54,10 +54,10 @@ The following steps explain how to draw a line using the **Line/curve** tool. Af
 5. Position the cursor crosshair to the location on the screen where you want to start drawing the line/curve.  
 
 6. Click and hold to move the crosshair cursor to the end of the line/curve position.  
-    ![line/curve first image](img/linecurveone.png) 
+    ![line/curve first image](img/linecurveone.png)
 
-&nbsp;  
-
+    &nbsp;  
+    
 7. Release the mouse button.  
 &nbsp;
 
@@ -72,7 +72,7 @@ The following steps explain how to draw a line using the **Line/curve** tool. Af
 3. Repeat the above two steps if you would like to extend out any other curves to the line.  
     ![line curve four](img/linecurvefour.png) ![line curve five](img/linecurvefive.png)  
 
-&nbsp;   f
+&nbsp;   
 **To make modifications after a line or curve has been created:**  
  
 1. Select **Line/Curve**.  
