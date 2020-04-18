@@ -27,7 +27,7 @@
 
 3. Go to **Edit** and select **Cut**. Alternatively, press `Delete` on your keyboard.  
 
-    ![Select cut](img/remove/cutwindow.png)  
+    ![Select cut](img/remove/cutwindows.png)  
 
 
     Here's what the example image looks like after selecting **Cut** or `Delete`:  
