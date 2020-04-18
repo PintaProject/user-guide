@@ -28,7 +28,7 @@ To perform these **Selection** options:
 
 1.  Go to **Edit** and select **Select All**, **Deselect All**, or **Invert Selection**.  
 
-     ![Select All Commands](img/selectall.png)
+     ![Select All Commands](img/selectallnow.png)
 
   After selecting **Select All**, a dotted line selection encompasses the outer edge of the whole image. Now you can perform image transformations such as [rotate](rotate.md), [flip](flip.md), [resize](resize.md), and [crop](crop.md) to all parts of the image at the same time, or [remove all items](remove_items.md).
   
