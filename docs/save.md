@@ -1,31 +1,30 @@
-## Save Project ##
+# Save Project
 
-### Save vs Save As: ###
-Pinta has two save options a quick save and a save as function.
+## Save vs. Save As... ##
+Pinta has two save options: **Quick Save** and **Save As** function.
 
-To **Quick Save** you can use the (`CTRL` + `S`) shortcut or click on *Save* ![save](img/filesave.PNG) under the File menu. All images are automatically saved as JPEGs. A dialogue box will populate with a slider for JPEG Quality, with one being the lowest possible quality and 100 being the highest possible quality.
+To **Quick Save**, you can use the (`CTRL` + `S`) shortcut or go to **File** > **Save** ![save](img/filesave.PNG). All images are automatically saved as JPEGs. A dialog box will populate with a slider for JPEG Quality, with one being the lowest possible quality and 100 being the highest possible quality.
 
 ![jpegquality](img/jpegquality.PNG)
 
-* Drag slider to the right to increase JPEG quality
-* Drag slider to the left to decrease JPEG quality
+* Drag slider to the right to increase JPEG quality.  
+* Drag slider to the left to decrease JPEG quality.  
 
-
-For the more advanced **Save As** function, you can use the (`CTRL` + `SHIFT` + `S`) shortcut or click on *Save As...* ![save as](img/setup/saveas.png) under the File menu. An advanced dialogue box will populate where you can name the file, select file type, and select the directory. 
+For the more advanced **Save As** function, you can use the (`CTRL` + `SHIFT` + `S`) shortcut or go to **File** > **Save As...**  ![save as](img/setup/saveas.png). An advanced dialog box will populate where you can name the file, select file type, and select the directory. 
 
 ![saveas](img/saveas.PNG)
 
-1. Click on *Save As...* ![save as](img/setup/saveas.png) under the File menu.
+1. Go to **File** > **Save As...**   ![save as](img/setup/saveas.png).
 2. Select the directory to save the project in.
-3. Select "OpenRaster image (*.ora, *.ORA)" under the bottom drop-down list.
-4. Click Save to save the new project.
+3. Select *OpenRaster image (*.ora, *.ORA)* in the bottom drop-down list.
+4. Click **Save** to save the new project.
 
-Once you hit save, a second dialogue box will populate with a slider for JPEG Quality, with one being the lowest possible quality and 100 being the highest possible quality. 
+Once you hit **Save**, a second dialog box will populate with a slider for JPEG Quality, with one being the lowest possible quality and 100 being the highest possible quality. 
 
 ![jpegquality](img/jpegquality.PNG)
 
-* Drag slider to the right to increase JPEG quality
-* Drag slider to the left to decrease JPEG quality
+* Drag slider to the right to increase JPEG quality.  
+* Drag slider to the left to decrease JPEG quality.  
 
 ### Exporting your project ###
 
