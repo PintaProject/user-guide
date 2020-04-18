@@ -22,8 +22,8 @@ Before selecting a pencil or brush, it is recommended to [**add a new layer**](l
 1. [Select the *Brush* or *Pencil* tool](choose.md#how-to-select-a-pencil) (![brush tool](img/overview/brush.png) or ![pencil tool](img/overview/pencil.png)).
 
 2. [Select a primary color](palette.md) from the color *Palette* menu.
-3. Create a starting point by clicking on the image display area with the left mouse button. 
-4. Hold down the mouse button and move the cursor away from the starting point (A) to your desired end point (B)
+3. Left-click on a starting point location on the image where you would like to draw a line/curve.
+4. Right-click and hold the mouse button and drag the *Pencil* or *Brush* from the starting point (A) to your desired end point (B)
 
     ![brush example](img/brushexample.png) ![pencil example](img/Pencilexample.png)
 
