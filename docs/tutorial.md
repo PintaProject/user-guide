@@ -29,29 +29,30 @@ The tools we'll use for sketching are:
 - Lines  
 - Text
 
-Now we can get started on sketching our little secret burger!
+Now we can get started on sketching our little secret burger! Using the default canvas layout: 
 
-1. Select Layer 2. Make sure the __Background__ layer is *below* the new layer. 
-2. Double-click the layer to open __Layer Properties__ and enter __Sketch__ in the text box. 
-3. Select __OK__ to close the window. 
-4. Select __Sketch__ to make it an active layer. 
-5. Select __Pencil__ to start sketching your burger. 
-    - Use __Eraser__ to remove any markings not needed. 
-    - Change the eraser size as needed in the __Tools Settings Bar__. 
+1. Select __Add Layer__ ![add layer](img/layer/addwin.png) to add a new layer in the __Layers__ window.
+2. Select Layer 2 from the [**Layers** window](overview.md#layers_window). Make sure the __Background__ layer is *below* the new layer (use the up and down arrows ![arrow](img/layer/arrow.png) on the **Layers** window to rearrange layers if necessary). 
+3. Double-click the layer to open __Layer Properties__ dialog box and type __Sketch__ for the name of the layer. 
+4. Select __OK__ to close the window. 
+5. Select __Sketch__ to make it an active layer. 
+6. Select [__Pencil__](choose.md#how-to-select-a-pencil) to start sketching your burger. 
+    - Use [__Eraser__ to remove](remove.md#remove-item-with-eraser) any markings not needed. 
+    - Change the eraser size as needed in the *Tools Settings Bar*. 
     - Use any [__Selection__](select_overview.md) tool to move any sketches around. In this case, we used the __Lasso Select__ to move the text box up higher. 
     ![selections sketch](img/burger/selectionssketch.gif)
     - Use [__Shapes__, __Lines__](objects.md) and [__Text__](text.md) to help create your sketch if that is your preference. 
-    - You can also upload a hand-drawn sketch as well. Go to [Import File into Layer](setup.md#import-file-into-layer) to learn more.
-6. Go to __File > Save As...__ to save your progress as a [project *.ora file](setup.md#saving-the-new-project) and it should look like this: 
-![sketch](img/burger/sketch.png)
+    - You can also upload a hand-drawn sketch as well. Go to [Import File into Layer](setup.md#import-file-into-layer) to learn more.     
+7. Go to __File > Save As...__ to save your progress as a [project *.ora file](setup.md#saving-the-new-project) and it should look something like this:   
+![sketch](img/burger/sketch.png)  
 
-Before we move on to inking over the sketch, we want to change the color of the pencil sketch so that it's easier to see between the (black) inking and the (black) sketch itself. Blue would be a nice color to see through, but you're welcome to use whichever color you prefer.
+Before we move on to inking over the sketch, we want to change the color of the pencil sketch so that it's easier to see between the (black) inking and the (black) sketch itself. Blue would be a nice color to see through, but use whatever color you prefer.
 
-1. Select __Add Layer__ ![add layer](img/layer/addwin.png) to create a new layer in the __Layers Window__. Make sure this new layer is *above* __Sketch__ layer. 
-2. Open __Layer Properties__ for the new layer and enter __Color Sketch__ in the text box. 
-3. Select [__Color Burn__](edit.md#color-burn) under the [__Blend Mode__](edit.md#apply-blend-mode) drop-down list and select __OK__ to close the window. 
+1. Create a new layer. Make sure this new layer is *above* __Sketch__ layer.
+2. Open __Layer Properties__ dialog box for the new layer and enter __Color Sketch__ in the text box.
+3. Select [__Color Burn__](edit.md#color-burn) under the [__Blend Mode__](edit.md#apply-blend-mode) drop-down list and select __OK__. 
 4. Select __Color Burn__ to make it an active layer. 
-5. Select __Paint Bucket__ and choose a [__Palette__](palette.md) color. 
+5. [Select __Paint Bucket__ tool](coloringareas.md) and choose a [__Palette__](palette.md) color. 
 6. Click on the project to apply the color on the __Color Burn__ layer. 
 7. Save ![save](img/overview/save.png) your progress and it should look like this: 
 ![colored sketch](img/burger/colored_sketch.gif)
@@ -69,13 +70,13 @@ The tools we'll use for inking are:
 This part of the process, we'll be inking the rough sketch itself so that all the lines needed are more distinct.
 
 1. Create a new layer in the __Layers Window__. Make sure this new layer is *above* __Color Sketch__ layer. 
-2. Open __Layer Properties__ for the new layer and enter __Ink__ in the text box. 
+2. Open __Layer Properties__ dialog box for the new layer and enter __Ink__ in the text box. 
 3. Select __OK__ to close the window.  
 4. Select __Ink__ to make it an active layer. 
-5. Select __Paint Brush__ to start inking over your rough sketches. 
+5. [Select __Paint Brush__](choose.md#how-to-select-a-brush) to start inking over your rough sketches. 
     - Same as with sketching, use __Eraser__ to remove any markings not needed. 
     - Use __Shapes__ and __Lines__ to help create your objects if needed, but we will skip on the __Text__ tool for a later step.
-6. Save your progress and it should look like this:  
+6. Save your progress and it should look something like this:  
 
 ![inking](img/burger/inking.png)
 
@@ -95,23 +96,23 @@ This is now the fun part: coloring! For the purposes of this tutorial, we also a
 ### __Bun__ ###
 Now let's begin with the bun:
 
-1. Uncheck the box for __Sketch__ in the __Layers Window__ to [hide](edit.md#hide/unhide-layers) the sketch from view. We won't be needing it for this process.
+1. Uncheck the box for __Sketch__ in the __Layers Window__ to [hide the layer](edit.md#hide/unhide-layers) from view. We won't be needing it for this process.
 2. Create a new layer. Make sure this new layer is *below* __Ink__ layer. 
-3. Open __Layer Properties__ for the new layer and enter __Bun Color__ in the text box. 
+3. Double-click the new layer to open __Layer Properties__ dialog box and under the name type __Bun Color__. 
 4. Select __OK__ to close the window.  
 5. Select __Bun Color__ to make it an active layer. 
 6. Go to __File > Open...__ and open the saved burger image reference.
-7. Select __Color Picker__ to pick the bun color from the reference image and switch back to the burger project under the __Image Window__. You can create and modify your own color by double-clicking on the primary or secondary color boxes under [__Palette__](palette.md).
+7. Select [__Color Picker__](coloring.md#select-an-exact-color-match-from-an-image) to pick the bun color from the reference image and switch back to the burger project under the __Image__ window. You can create and modify your own color by double-clicking on the primary or secondary color boxes under [__Palette__](palette.md).
 8. Select __Paint Brush__ to color in the entire burger. You can enlarge the size of the __Paint Brush__ in the __Tools Settings Bar__ to speed up the process.
-9. Select __Eraser__ to clean up any color that doesn't belong. 
-10. Save your progress and it should look like this: 
+9. Select [__Eraser__](remove.md#eraser) to clean up any color that doesn't belong. 
+10. Save your progress and it should look something like this: 
 ![color bun](img/burger/color_bun.gif)
 
 ### __Cheese, Tomatoes & Lettuce__ ###
 We'll now work on the cheese, tomatoes, and lettuce:
 
 1. Create a new layer. Make sure this new layer is *below* __Ink__ and *above* __Bun Color__ layers.
-2. Open __Layer Properties__ for the new layer and enter __Other Color__ in the text box. 
+2. Open __Layer Properties__ dialog box for the new layer and enter __Other Color__ in the text box. 
 3. Select __OK__ to close the window. 
 4. Select __Other Color__ to make it an active layer. 
 5. Using the same concept as the bun, select __Color Picker__ to pick the colors from the reference image to apply to the project for the cheese, tomatoes, and lettuce. 
@@ -123,14 +124,14 @@ We'll now work on the cheese, tomatoes, and lettuce:
 For the patty, we want to create a gradient to replicate the grilled side of the patty:
 
 1. Create a new layer. Make sure this new layer is *below* __Ink__ and *above* __Other Color__ layers.
-2. Open __Layer Properties__ for the new layer, enter __Patty Color__, and enter opacity to 90. 
+2. Open __Layer Properties__ for the new layer, enter __Patty Color__, and enter an **Opacity** value of 90. 
 3. Select __OK__ to close the window. 
 4. Select __Patty Color__ to make it an active layer. 
 5. Using the same concept as earlier, select __Color Picker__ to pick the patty color from the reference image and switch back to the project. 
 6. Right-click the black color in the __Palette__ to set the secondary color and select __Gradient__. 
 7. Click and hold on the drawing in any area while moving the cursor in different directions to form a gradient. Let go once you're satisfied with the way the color is distributed. Repeat if necessary.
 8. Select __Eraser__ to erase anything that is outside of the patty. Resize __Eraser__ to get the required size.
-9. Double-click on __Patty Color__ and enter opacity to 100. Select __OK__ to close the window. 
+9. Double-click on __Patty Color__ in the **Layers** window and enter **Opacity** value of 100. Select __OK__ to close the window. 
 10. Save your progress and the whole process should look like this: 
 ![burger color](img/burger/patty_color.gif)
 
@@ -156,14 +157,14 @@ From here, we can start to add these elements against the sketch layer again.
   
 1. Create a new layer. Make sure this new layer is *below* __Ink__ layer.
 2. Check the box for __Sketch__ in the __Layers Window__ to [unhide](edit.md#hide/unhide-layers) the sketch.
-3. Select __Ellipse__ and __Line__ to create a speech bubble over the sketched speech bubble.
-5. Select __Eraser__ to erase a part of the ellipse that's connected to the lines to complete the speech bubble.
-6. Select __Text__ and modify the font in the __Tools Settings Bar__.
-7. Click inside the speech bubble to create a line of text.
+3. Select [__Ellipse__](objects.md) and select [__Line__](objects.md) to create a speech bubble over the sketched speech bubble.
+4. Select [__Eraser__](remove.md#eraser) to erase a part of the ellipse that's connected to the lines to complete the speech bubble.
+5. Select [__Text__](text.md) and modify the font in the *Tools Settings Bar*.
+6. Click inside the speech bubble to create a line of text.
     - __Text__ can only be modified before you place it on the drawing so use the __History Window__ to track where you want to [__Undo and Redo__](setup.md#using-undo-or-redo-functions) your actions.
     - __Text__ can be done line by line so you will need to play around with __Undo__ and __Redo__ until you position your text where you want it to be.
 8. Uncheck the box for __Sketch__ to hide the sketch as we'll no longer need the sketch layer to view.
-9. Save your progress and it should look like this: 
+9. Save your progress and it should look something like this: 
 ![text_high_sha](img/burger/text_high_sha.png)
 
 ## __Finished Image__ ##
