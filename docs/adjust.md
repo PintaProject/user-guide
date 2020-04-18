@@ -3,14 +3,12 @@
 1. Select the image from the __Image__ window to adjust the __Canvas__ size.  
 ![Image Window select image](img/selectimageflower.png)  
 &nbsp; 
-    
 2. Go to the **Image** Menu and select **Resize Image**.  
 ![Resize Image](img/resizecanvas.png)  
 &nbsp;  
 The **Resize Canvas** dialog box will pop up.  
 ![Resize Canvas Window](img/resizecanvaswindow.png)  
 &nbsp;  
-
 3. Select from **Resize Canvas** dialog box:
   - **By Percentage**: Enter the percentage value to resize the canvas. You can also use the up and down arrows to adjust the percentage values incrementally.  
     ![Resize Canvas By Percentage](img/resizecanvasbypercentage.png)

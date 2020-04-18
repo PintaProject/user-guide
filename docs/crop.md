@@ -8,17 +8,11 @@ You can remove unwanted outer areas from an image by cropping the image. There a
 ## **Crop to Selection** 
 
 1. Select the image you want to crop from the **Images** window.  
-  ![Image Window select image](img/crop/imageflowerselect.png)  
-
-   &nbsp; 
-  
-2. [Select part of an image you want to crop using one of the selection tools](select_overview.md).  
-
-  The following example uses the rectangle selection to select part of the image:  
-  ![Crop Example](img/crop/cropexample.png)  
-
-   &nbsp; 
-
+![Image Window select image](img/crop/imageflowerselect.png)  
+&nbsp;
+2. [Select part of an image you want to crop using one of the selection tools](select_overview.md). The following example uses the rectangle selection to select part of the image:  
+![Crop Example](img/crop/cropexample.png)  
+&nbsp;
 3. Go to **Image** and select **Crop to Selection**.  
   ![Select crop](img/crop/croptoselectionwindow.png)  
 
@@ -28,15 +22,11 @@ You can remove unwanted outer areas from an image by cropping the image. There a
 ## **Auto Crop**
 
 1. Select the image you want to auto crop from the **Images** window, or go to **File** > **Open Image File** to open up a new image from a file.  
-  ![Image Window select image](img/crop/imageflowerselect.png)  
-
-   &nbsp; 
- 
+![Image Window select image](img/crop/imageflowerselect.png)  
+&nbsp;
 2. Go to **Image** and select **Auto Crop**.  
-  ![Select crop](img/crop/autocropwindow.png) 
-
-   &nbsp; 
-
+![Select crop](img/crop/autocropwindow.png)  
+&nbsp;
 3. Select **Auto Crop** from the menu a number of times to reduce the amount of border on your selected image. 
 
     Here's an example of an image of how Auto Crop, selected a number of times, has reduced the amount of white space on the right side of the image.  
