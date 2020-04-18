@@ -13,7 +13,7 @@ When the Pinta workspace first loads, you'll notice it has an uncluttered layout
 
 ![toolbar](img/overview/toolbar.png)
 
-[__Tools Menu__](#tools-menu-features) - contains a group of icons or buttons grouped together that provide a quick way to select  commonly used tools. It works in conjunction to the Tools Settings Bar just right above it to modify the tool properties.
+[__Tools Menu__](#tools-menu-features) - contains a group of icons or buttons grouped together that provide a quick way to select commonly used tools. It works in conjunction to the Tools Settings Bar just right above it to modify the tool properties.
 
 ![tools](img/overview/tools.png)
 
