@@ -19,9 +19,9 @@ Select a customized color by using Set Color Values or Select an Exact Color Mat
   
 2. From the **Choose Primary** or **Choose Secondary** Menu you have the following options to set the color:  
     -  **Triangle Dial Selector**:  
-        i. Click on the *selection marker* on the ring and drag it around to select a color.  
+        1. Click on the *selection marker* on the ring and drag it around to select a color.  
         ![Triangle Dial Color Selector](img/color/triangledialcolor.png)  
-        ii. Select the darkness or lightness of the ring color by clicking on a shade of the color in the inner triangle.  
+        2. Select the darkness or lightness of the ring color by clicking on a shade of the color in the inner triangle.  
         ![Triangle Dial Selector Shade](img/color/triangledialshade.png)  
     -  **Hue**, **Saturation**, **Value**: Enter in the desired values. The triangle dial selector will move automatically to the corresponding values selected.  
     -  **Red**, **Green**, **Blue**: Enter the RGB Color. The triangle dial selector will move then to the selected RGB value.  
