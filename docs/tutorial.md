@@ -37,7 +37,7 @@ Now we can get started on sketching our little secret burger! Using the default 
 4. Select __OK__ to close the window. 
 5. Select __Sketch__ to make it an active layer. 
 6. Select [__Pencil__](choose.md#how-to-select-a-pencil) to start sketching your burger. 
-    - Use [__Eraser__ to remove](remove.md#remove-item-with-eraser) any markings not needed. 
+    - Use [__Eraser__ to remove](remove_items.md#remove-item-with-eraser-tool) any markings not needed. 
     - Change the eraser size as needed in the *Tools Settings Bar*. 
     - Use any [__Selection__](select_overview.md) tool to move any sketches around. In this case, we used the __Lasso Select__ to move the text box up higher. 
     ![selections sketch](img/burger/selectionssketch.gif)
@@ -52,7 +52,7 @@ Before we move on to inking over the sketch, we want to change the color of the 
 2. Open __Layer Properties__ dialog box for the new layer and enter __Color Sketch__ in the text box.
 3. Select [__Color Burn__](edit.md#color-burn) under the [__Blend Mode__](edit.md#apply-blend-mode) drop-down list and select __OK__. 
 4. Select __Color Burn__ to make it an active layer. 
-5. [Select __Paint Bucket__ tool](coloringareas.md) and choose a [__Palette__](palette.md) color. 
+5. [Select __Paint Bucket__ tool](coloringarea.md) and choose a [__Palette__](palette.md) color. 
 6. Click on the project to apply the color on the __Color Burn__ layer. 
 7. Save ![save](img/overview/save.png) your progress and it should look like this: 
 ![colored sketch](img/burger/colored_sketch.gif)
@@ -104,7 +104,7 @@ Now let's begin with the bun:
 6. Go to __File__ > __Open...__ and open the saved burger image reference.
 7. Select [__Color Picker__](coloring.md#select-an-exact-color-match-from-an-image) to pick the bun color from the reference image and switch back to the burger project under the __Image__ window. You can create and modify your own color by double-clicking on the primary or secondary color boxes under [__Palette__](palette.md).
 8. Select __Paintbrush__ to color in the entire burger. You can enlarge the size of the __Paintbrush__ in the __Tools Settings Bar__ to speed up the process.
-9. Select [__Eraser__](remove.md#eraser) to clean up any color that doesn't belong. 
+9. Select [__Eraser__](remove_items.md#remove-item-with-eraser-tool) to clean up any color that doesn't belong. 
 10. Save your progress and it should look something like this: 
 ![color bun](img/burger/color_bun.gif)
 
@@ -158,7 +158,7 @@ From here, we can start to add these elements against the sketch layer again.
 1. Create a new layer. Make sure this new layer is *below* __Ink__ layer.
 2. Check the box for __Sketch__ in the __Layers__ window to [unhide](edit.md#hide/unhide-layers) the sketch.
 3. Select [__Ellipse__](objects.md) and select [__Line__](objects.md) to create a speech bubble over the sketched speech bubble.
-4. Select [__Eraser__](remove.md#eraser) to erase a part of the ellipse that's connected to the lines to complete the speech bubble.
+4. Select [__Eraser__](remove_items.md#remove-item-with-eraser-tool) to erase a part of the ellipse that's connected to the lines to complete the speech bubble.
 5. Select [__Text__](text.md) and modify the font in the *Tools Settings Bar*.
 6. Click inside the speech bubble to create a line of text.
     - __Text__ can only be modified before you place it on the drawing so use the __History__ window to track where you want to [__Undo and Redo__](setup.md#using-undo-or-redo-functions) your actions.
