@@ -17,7 +17,7 @@ By the end of this tutorial, we will create this little secret burger:
 
 Although this is a tutorial on creating a graphic image, this is not a drawing tutorial so we cannot guarantee if your drawing will look *exactly* as our image. If you haven't setup your workspace yet, it is highly recommended because this tutorial will assume the workspace has been configured. See [Setting Up Workspace](setup.md) to learn more. 
 
-To keep the images consistent, we'll be drawing a very basic burger. It should have at least a top bun, a bottom bun, cheese, a patty, tomatoes and lettuce. This tutorial can take at least 2-3 hours to complete for some new users to Pinta.  So if you need to rearrange your time, this is the moment. Some may find that by doing this project they are able to learn quickly the various capabilities of Pinta. Alternatively if you do not have the time to do this tutorial, you can look up topics of interest in the user manual to suit your specific image editing needs.
+To keep the images consistent, we'll be drawing a very basic burger. It should have at least a top bun, a bottom bun, cheese, a patty, tomatoes and lettuce. This tutorial can take at least 2-3 hours to complete for some new users to Pinta.  So if you need to rearrange your time, this is the moment. Some may find that by doing this project, they're able to quickly learn the various capabilities Pinta has to offer. Alternatively, if you don't have the time to do this tutorial, you can look up topics of interest in the user manual to suit your specific image editing needs.
 
 ## __Sketching__ ##
 The tools we'll use for sketching are:  
