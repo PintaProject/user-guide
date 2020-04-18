@@ -3,7 +3,7 @@
 You can remove unwanted outer areas from an image by cropping the image. There are two ways with Pinta that you can crop an image:
 
   - **Crop to Selection**: Use to remove part of the image surrounding the selection. The selected part of the image will expand to the size of the canvas. For irregular-shaped selection, such as those made by the **Lasso Select** tool, the image is cropped to a rectangular bounding box that contains the selection.
-  - **Auto Crop** - Use this feature to remove small border areas from an image. For example, sometimes you may have a photo with a white border that you would like to remove and this feature enables you to remove it.
+  - **Auto Crop**: Use this feature to remove small border areas from an image. For example, sometimes you may have a photo with a white border that you would like to remove and this feature enables you to remove it.
 
 ## **Crop to Selection** 
 
