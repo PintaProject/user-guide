@@ -51,42 +51,6 @@
                     <li class="toctree-l1 current"><a class="reference internal current" href=".">Home</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#about">About</a>
-        <ul>
-    <li class="toctree-l3"><a class="reference internal" href="#project-history">Project History</a>
-    </li>
-        </ul>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#help">Help</a>
-        <ul>
-    <li class="toctree-l3"><a class="reference internal" href="#contribute">Contribute</a>
-        <ul>
-    <li class="toctree-l4"><a class="reference internal" href="#fixing-a-bug">Fixing a Bug</a>
-    </li>
-    <li class="toctree-l4"><a class="reference internal" href="#creating-a-pinta-fork">Creating a Pinta Fork</a>
-    </li>
-    <li class="toctree-l4"><a class="reference internal" href="#writing-compiling-and-testing">Writing, Compiling and Testing</a>
-    </li>
-    <li class="toctree-l4"><a class="reference internal" href="#committing-your-fix">Committing your Fix</a>
-    </li>
-    <li class="toctree-l4"><a class="reference internal" href="#sending-a-github-pull-request">Sending a GitHub Pull Request</a>
-    </li>
-    <li class="toctree-l4"><a class="reference internal" href="#translation">Translation</a>
-    </li>
-        </ul>
-    </li>
-    <li class="toctree-l3"><a class="reference internal" href="#report-bugs-feature-requests">Report Bugs &amp; Feature Requests</a>
-    </li>
-    <li class="toctree-l3"><a class="reference internal" href="#contact">Contact</a>
-        <ul>
-    <li class="toctree-l4"><a class="reference internal" href="#mailing-list">Mailing List</a>
-    </li>
-    <li class="toctree-l4"><a class="reference internal" href="#facebook">Facebook</a>
-    </li>
-    <li class="toctree-l4"><a class="reference internal" href="#pinta-creators">Pinta Creators</a>
-    </li>
-        </ul>
-    </li>
-        </ul>
     </li>
     </ul>
                     </li>
@@ -253,71 +217,26 @@
 <p><a href="firststepsoverview/"><img alt="button" src="img/firststepsicon.png" /></a> <a href="quickstartoverview/"><img alt="button" src="img/quickstarticon.png" /></a> <a href="layersoverview/"><img alt="button" src="img/imagelayericon.png" /></a> <a href="select_overview/"><img alt="button" src="img/selectingobjectsicon.png" /></a> <a href="coloringoverview/"><img alt="button" src="img/coloringicon.png" /></a> <a href="illustratingoverview/"><img alt="button" src="img/illustratingicon.png" /></a> <a href="transformoverview/"><img alt="button" src="img/imagetransformationsicon.png" /></a> <a href="imageenhancementsoverview/"><img alt="button" src="img/imageenhancementicon.png" /></a> <a href="imagerepairoverview/"><img alt="button" src="img/imagerepairicon.png" /></a> <a href="exportoverview/"><img alt="button" src="img/exporticon.png" /></a> <a href="shortcuts/"><img alt="button" src="img/referenceicon.png" /></a></p>
 <h2 id="about"><a class="toclink" href="#about"><strong>About</strong></a><a class="headerlink" href="#about" title="Permanent link">&para;</a></h2>
 <p><strong><em>Pinta Project: Painting Made Simple</em></strong></p>
-<p>Pinta is a free, open-source, raster image editor modeled after Paint.NET. Its goal is to provide users with a simple yet powerful way to draw and manipulate images on Linux, Mac, and Windows.</p>
-<p>Originally created and maintained by Jonathan Pobst (until version 1.0), a new community has taken over the project for the community in hopes of bringing this program to the heights of Paint.Net and beyond!</p>
+<p>Pinta is a free, open-source bitmap image editor with a versatile range of uses. It can be used as a basic graphics editor or paint tool similar to MS Paint and Paintbrush for Mac. While Pinta is not as feature rich as some paid software such as Adobe Photoshop, it does work with a design layered approach (unlike other free bitmap image editors) and can be used to draw, colour, and edit pictures. For example, using a screenshot from a display, one can modify the image to include arrows pointing to specific parts of the image. </p>
+<p>Some of the main feature benefits of Pinta include:  </p>
+<ul>
+<li>Multiple operating system support (Linux, Windows, and Mac OS X).  </li>
+<li>Layering (most simple bitmap editors don't have this capability). This feature is available in programs like Photoshop and GIMP but Pinta’s system is more user-friendly for all levels of users. Layers help separate and group elements of an image for easy editing.  </li>
+<li>Full history enabling users to experiment as you can always use the undo feature to easily to revert changes and actions.   </li>
+<li>Customizable workspace.  </li>
+<li>Multiple language support.  </li>
+<li>Add-ins capability ( i.e. can write a custom brush).  </li>
+<li>Has over 35 adjustments and effects for editing images.  </li>
+</ul>
 <p><img alt="Basic Pinta" src="img/basic.png" /></p>
-<p>Pinta is an editor with many features including drawing tools, image filters, and color adjustment tools. The focus on usability is reflected in several of the main features of the program:</p>
+<p>Originally created and maintained by Jonathan Pobst (until version 1.0), a new development community has taken over the project to continue support and updates.</p>
+<p>If you'd like more information about the background of Pinta and of the Pinta community, go to the <a href="https://pinta-project.com/pintaproject/pinta/">Pinta-Project.com</a> website which includes the following information:</p>
 <ul>
-<li>Unlimited undo history.</li>
-<li>Multiple language support.</li>
-<li>Flexible toolbar arrangement, including floating as windows or docking around the workspace edge.</li>
-</ul>
-<p>Unlike some simple image editing software, Pinta also features support for image layers.</p>
-<h3 id="project-history"><a class="toclink" href="#project-history"><strong>Project History</strong></a><a class="headerlink" href="#project-history" title="Permanent link">&para;</a></h3>
-<p>The development of Pinta began in February 2010 and was driven by Jonathan Pobst, who was working at Novell at the time. In September 2011, Pobst announced that he was no longer interested in developing Pinta. Thus, a new group of enthusiastic developers continued the project in support of the product.</p>
-<p>Pinta is written in C# and uses the GTK+ toolkit and the Cairo library. The Adjustment, Effect, and Filter features all originally came from Paint.NET but otherwise, the project is original code.</p>
-<h2 id="help"><a class="toclink" href="#help"><strong>Help</strong></a><a class="headerlink" href="#help" title="Permanent link">&para;</a></h2>
-<h3 id="contribute"><a class="toclink" href="#contribute"><strong>Contribute</strong></a><a class="headerlink" href="#contribute" title="Permanent link">&para;</a></h3>
-<p>If you are interested in contributing to the core of Pinta, like to fix a bug, or tweak existing code, you'll want to make your changes available as pull requests on GitHub. Using Git is an important part of contributing to Pinta, so if you want to read up on this, we recommend reading the excellent documentation on <a href="https://help.github.com/en">GitHub</a>. If you want an even deeper understanding, read <a href="http://progit.org/book/">Pro Git</a>.</p>
-<p>The source code for Pinta development is available on <a href="https://github.com/PintaProject/Pinta">PintaProject GitHub</a>.</p>
-<h4 id="fixing-a-bug"><a class="toclink" href="#fixing-a-bug">Fixing a Bug</a><a class="headerlink" href="#fixing-a-bug" title="Permanent link">&para;</a></h4>
-<p>If you plan to work on a bug that has been registered on the Launchpad <a href="https://bugs.launchpad.net/pinta/+bugs">page</a>, then go to the relevant bug and make sure no one else is already working on it, then leave a comment saying that you are working on it.</p>
-<h4 id="creating-a-pinta-fork"><a class="toclink" href="#creating-a-pinta-fork">Creating a Pinta Fork</a><a class="headerlink" href="#creating-a-pinta-fork" title="Permanent link">&para;</a></h4>
-<p>First, you need to make yourself an account with GitHub if you haven't already got one. It is recommended that you use your full name because we need something to put in the credits! Then you fork the <a href="https://github.com/PintaProject/Pinta">PintaProject Repository</a>, and pull the code down to your local machine (all explained <a href="http://help.github.com/fork-a-repo/">here</a>).</p>
-<h4 id="writing-compiling-and-testing"><a class="toclink" href="#writing-compiling-and-testing">Writing, Compiling and Testing</a><a class="headerlink" href="#writing-compiling-and-testing" title="Permanent link">&para;</a></h4>
-<p>This is where the magic happens! Make whatever changes are necessary to the source code, but please <strong>do not attempt</strong> to clean up the existing code. We are only interested in seeing functional changes to the code. If they are mixed with cosmetic changes, it becomes very difficult to see what has changed. Build your code according to the <a href="https://github.com/PintaProject/Pinta/blob/master/readme.md">building instructions</a>, and test it to make sure it does what it's supposed to and doesn't do anything it's not supposed to.</p>
-<h4 id="committing-your-fix"><a class="toclink" href="#committing-your-fix">Committing your Fix</a><a class="headerlink" href="#committing-your-fix" title="Permanent link">&para;</a></h4>
-<p>When you are satisfied that you have a great fix to share with the world, commit it to your GitHub fork. (See the second part of <a href="http://help.github.com/create-a-repo/">Create A Repo</a>.) Make sure that the commit message includes the bug number and a short description. This is vital so that the developers know what exactly they are looking at. Then it will be publicly visible for scrutiny, which comes in handy for the next step.</p>
-<h4 id="sending-a-github-pull-request"><a class="toclink" href="#sending-a-github-pull-request">Sending a GitHub Pull Request</a><a class="headerlink" href="#sending-a-github-pull-request" title="Permanent link">&para;</a></h4>
-<p>Pull requests are thoroughly explained <a href="http://help.github.com/send-pull-requests/">here</a>. You will want to send a pull request to the Pinta repository from your fork. When the developers see your request, they will test your solution and if it is good, they will merge it into the Pinta source code. They will then close the bug on Launchpad and add your name to the credits as a contributor and you get a lovely warm feeling inside from helping make the world a better place!</p>
-<h4 id="translation"><a class="toclink" href="#translation">Translation</a><a class="headerlink" href="#translation" title="Permanent link">&para;</a></h4>
-<p>Another way to contribute to Pinta without writing a line of code is to translate Pinta into a new language. This is all done through a web page, so all you need to know is a second language.</p>
-<ul>
-<li><a href="https://translations.launchpad.net/pinta">Pinta Translation Page</a></li>
-</ul>
-<h3 id="report-bugs-feature-requests"><a class="toclink" href="#report-bugs-feature-requests"><strong>Report Bugs &amp; Feature Requests</strong></a><a class="headerlink" href="#report-bugs-feature-requests" title="Permanent link">&para;</a></h3>
-<p>One way to contribute to Pinta without writing code is to file bugs when things don't work. Bug reports let developers know what needs to be fixed in Pinta. If you have a great idea for a new feature for Pinta, we've got a place where you can submit your ideas and vote on which ones should be implemented.</p>
-<ul>
-<li><a href="https://bugs.launchpad.net/pinta/+bugs">Pinta Bug Tracker</a></li>
-<li><a href="https://pinta-project.com/suggestions">Pinta Feature Requests</a></li>
-</ul>
-<h3 id="contact"><a class="toclink" href="#contact"><strong>Contact</strong></a><a class="headerlink" href="#contact" title="Permanent link">&para;</a></h3>
-<h4 id="mailing-list"><a class="toclink" href="#mailing-list">Mailing List</a><a class="headerlink" href="#mailing-list" title="Permanent link">&para;</a></h4>
-<p>You can join Pinta's mailing list on Google Groups:</p>
-<p><a href="http://groups.google.com/group/pinta?hl=en">Pinta Project Mailing List</a></p>
-<h4 id="facebook"><a class="toclink" href="#facebook">Facebook</a><a class="headerlink" href="#facebook" title="Permanent link">&para;</a></h4>
-<p>You can join Pinta's Facebook Page and Group:</p>
-<ul>
-<li><a href="http://www.facebook.com/pages/Pinta/249343198437410">Pinta Facebook Page</a></li>
-<li><a href="http://www.facebook.com/groups/198103533589299/">Pinta Facebook Group</a></li>
-</ul>
-<h4 id="pinta-creators"><a class="toclink" href="#pinta-creators"><strong>Pinta Creators</strong></a><a class="headerlink" href="#pinta-creators" title="Permanent link">&para;</a></h4>
-<ul>
-<li>
-<p><strong>Lead Maintainer:</strong> Cameron White (cameronwhite91 at gmail dot com)</p>
-</li>
-<li>
-<p><strong>Developer:</strong> Robert Nordan (rpvn at robpvn dot net)</p>
-</li>
-<li>
-<p><strong>Developer:</strong> Olivier Dufour (olivier dot duff at gmail dot com)</p>
-</li>
-<li>
-<p><strong>Developer (Project Founder):</strong> Jonathan Pobst (monkey at jpobst dot com)</p>
-</li>
-<li>
-<p><strong>Documentation &amp; PR Editor:</strong> Johnathan Morlock (johnathan underscore morlock at tsgcomputers dot net)</p>
-</li>
+<li><a href="https://pinta-project.com/pintaproject/pinta/howto/pinta-on-web">Video Tutorials</a>.  </li>
+<li><a href="https://pinta-project.com/pintaproject/pinta/contribute">How to Contribute to the Pinta-Project</a>.  </li>
+<li><a href="https://bugs.launchpad.net/pinta">Reporting Bugs</a>.  </li>
+<li><a href="https://communiroo.com/pintaproject/pinta/suggestions">Feature Requests</a>.  </li>
+<li><a href="https://pinta-project.com/pintaproject/pinta/contact">Pinta Contacts</a>.  </li>
 </ul>
               
             </div>
@@ -372,5 +291,5 @@
 
 <!--
 MkDocs version : 1.1
-Build Date UTC : 2020-04-18 19:03:24
+Build Date UTC : 2020-04-19 02:00:05
 -->
