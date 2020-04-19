@@ -7,28 +7,26 @@ This user guide was developed to help you speed up your learning curve for Pinta
 
 __*Pinta Project: Painting Made Simple*__
 
-Pinta is a free, open-source drawing application with a versatile range of uses. It can be used as a basic graphics editor or paint tool similar to MS Paint and Paintbrush for Mac. While Pinta is not as feature rich as some pay per use software such as Photoshop, however, it does work with a design layered approach (unlike other free bitmap editors) and can be used to draw, colour and edit pictures (including digital camera photos and screenshots). For example, using a screen shot from a display, one can modify the image to include arrows pointing to specific parts of the image. 
+Pinta is a free, open-source bitmap image editor with a versatile range of uses. It can be used as a basic graphics editor or paint tool similar to MS Paint and Paintbrush for Mac. While Pinta is not as feature rich as some paid software such as Adobe Photoshop, it does work with a design layered approach (unlike other free bitmap image editors) and can be used to draw, colour, and edit pictures. For example, using a screenshot from a display, one can modify the image to include arrows pointing to specific parts of the image. 
 
-Some of the main feature benefits of free Pinta software include: 
+Some of the main feature benefits of Pinta include:  
 
- -  Multiple operating system support (Linux, Windows and Mac OS X)  
- -  Layers system (most simple bitmap editors do not have this capability).  This feature is available in programs like Photoshop and GIMP but Pinta’s system is more user friendly for intermediate level users. Layers help separate and group elements of an image for easy editing.  
- -  Full history (always easy to go back) enabling users to not be afraid to experiment as you can always use the undo feature.  
- -  Customizable workspace  
- -  Multiple language support  
- - Write add-ins capability ( i.e. can write a custom brush)  
- - More features than basic image drawing/photo editing packages like Paint ( Pinta has over 35 adjustments and effects for editing images) but simpler than more advanced pay-per-use software like Photoshop.  
-
+ - Multiple operating system support (Linux, Windows, and Mac OS X).  
+ - Layering (most simple bitmap editors don't have this capability). This feature is available in programs like Photoshop and GIMP but Pinta’s system is more user-friendly for all levels of users. Layers help separate and group elements of an image for easy editing.  
+ - Full history enabling users to experiment as you can always use the undo feature to easily to revert changes and actions.   
+ - Customizable workspace.  
+ - Multiple language support.  
+ - Add-ins capability ( i.e. can write a custom brush).  
+ - Has over 35 adjustments and effects for editing images.  
+ 
 ![Basic Pinta](img/basic.png)
 
-Originally created and maintained by Jonathan Pobst (until version 1.0), a new has community took over the project for the community.
+Originally created and maintained by Jonathan Pobst (until version 1.0), a new development community has taken over the project to continue support and updates.
 
-If you would like more information about the background of Pinta and of the Pinta community go to the Pinta-project.com website which includes the following information:
+If you'd like more information about the background of Pinta and of the Pinta community, go to the [Pinta-Project.com](https://pinta-project.com/pintaproject/pinta/) website which includes the following information:
 
- - The history of the Pinta Project
- - How to contribute to the Pinta Project
- - Reporting Bugs & Feature Requests
- - Pinta Contacts
-
-
-
+ - [Video Tutorials](https://pinta-project.com/pintaproject/pinta/howto/pinta-on-web).  
+ - [How to Contribute to the Pinta-Project](https://pinta-project.com/pintaproject/pinta/contribute).  
+ - [Reporting Bugs](https://bugs.launchpad.net/pinta).  
+ - [Feature Requests](https://communiroo.com/pintaproject/pinta/suggestions).  
+ - [Pinta Contacts](https://pinta-project.com/pintaproject/pinta/contact).  
