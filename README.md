@@ -1,5 +1,5 @@
 # Pinta Pals
-https://jeneira94.github.io/pintapals/
+https://pintapals.github.io/PintaUserguide/
 
 ## Setting Up MkDocs
 Click on the following link to help get the environment started on your computer:

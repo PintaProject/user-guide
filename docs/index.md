@@ -30,3 +30,9 @@ If you'd like more information about the background of Pinta and of the Pinta co
  - [Reporting Bugs](https://bugs.launchpad.net/pinta).  
  - [Feature Requests](https://communiroo.com/pintaproject/pinta/suggestions).  
  - [Pinta Contacts](https://pinta-project.com/pintaproject/pinta/contact).  
+
+### __User Guide Team__ ###
+
+- Anastasiya Dvuzhylov: advuzhylov@gmail.com
+- Ann Karon: akaro2424@gmail.com
+- Jennifer Nguyen: jeneira94@gmail.com
