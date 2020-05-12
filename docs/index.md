@@ -1,11 +1,11 @@
-# __Welcome to our Pinta Project User Guide__ #
+# __Welcome to our Pinta User Guide__ #
 This user guide was developed to help you speed up your learning curve for Pinta. Whether you have used Pinta in the past and want to learn new features or are just getting started this user guide is for you! This guide covers how to use Pinta for simple to intermediate level projects and photo edits. It details how to use Pinta (version 1.6) basic features ranging from drawing, resizing, and rotating images to more advanced projects like posters, graphics, and professional-level photo editing and effects. To follow are some quick icon button links to the sections of this user guide. However you can also use the left navigation menu or the search function at the top of the page to find topics of interest. Following these quick link icon buttons there is an overview [**about**](index.md#about) Pinta and some [**help**](index.md#help) resources to refer to beyond this guide. 
 
 [![button](img/firststepsicon.png)](firststepsoverview.md) [![button](img/quickstarticon.png)](quickstartoverview.md) [![button](img/imagelayericon.png)](layersoverview.md) [![button](img/selectingobjectsicon.png)](select_overview.md) [![button](img/coloringicon.png)](coloringoverview.md) [![button](img/illustratingicon.png)](illustratingoverview.md) [![button](img/imagetransformationsicon.png)](transformoverview.md) [![button](img/imageenhancementicon.png)](imageenhancementsoverview.md) [![button](img/imagerepairicon.png)](imagerepairoverview.md) [![button](img/exporticon.png)](exportoverview.md) [![button](img/referenceicon.png)](shortcuts.md)
 
 ## __About__ ##
 
-__*Pinta Project: Painting Made Simple*__
+__*Pinta: Painting Made Simple*__
 
 Pinta is a free, open-source bitmap image editor with a versatile range of uses. It can be used as a basic graphics editor or paint tool similar to MS Paint and Paintbrush for Mac. While Pinta is not as feature rich as some paid software such as Adobe Photoshop, it does work with a design layered approach (unlike other free bitmap image editors) and can be used to draw, colour, and edit pictures. For example, using a screenshot from a display, one can modify the image to include arrows pointing to specific parts of the image. 
 
