@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  <link rel="shortcut icon" href="../img/favicon.ico">
+  <title>Setting Up Workspace - Pinta User Guide</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../css/theme.css" />
+  <link rel="stylesheet" href="../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Setting Up Workspace";
+    var mkdocs_page_input_path = "setup.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href=".." class="icon icon-home"> Pinta User Guide</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">First Steps</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../firststepsoverview/">First Steps Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../start/">Getting Started</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../overview/">General Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../concept/">Basic Concepts</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Quick Start</span></p>
+                <ul class="current">
+                    <li class="toctree-l1"><a class="reference internal" href="../quickstartoverview/">Quick Start Overview</a>
+                    </li>
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Setting Up Workspace</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#default-setup">Default Setup</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#setup-with-a-custom-canvas">Setup with a Custom Canvas</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#setup-with-a-screenshot">Setup with a Screenshot</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#customizing-the-workspace">Customizing the Workspace</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#saving-the-new-project">Saving the New Project</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#using-undo-or-redo-functions">Using Undo or Redo Functions</a>
+    </li>
+    </ul>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../tutorial/">Tutorial</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Image Layers</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../layersoverview/">Image Layers Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../layers/">Creating & Removing Layers</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../edit/">Edit Layer Properties</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Selecting Objects</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../select_overview/">Select Objects Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../wand/">Magic Wand</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../ellipse/">Ellipse</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../lasso/">Lasso</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../rectangle/">Rectangle</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../select_location/">Move Select Location</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Coloring</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../coloringoverview/">Coloring Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../coloring/">Customize Color</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../palette/">Creating Palette</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../coloringarea/">Coloring Areas</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Illustrating</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../illustratingoverview/">Illustrating Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../choose/">Choose Pencil and Brush</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../objects/">Creating Simple Objects</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../text/">Text Management</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../remove_items/">Removing Items</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Image Transformations</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../transformoverview/">Image Transformations Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../rotate/">Rotate</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../flip/">Flip</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../resize/">Resize</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../crop/">Crop</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../adjust/">Adjust Canvas Size</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../move/">Move Image</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Image Enhancements</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../imageenhancementsoverview/">Image Enhancements Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../colors/">Improving Colors</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../effects/">Image Effects</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../filter/">Filtering</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Image Repair & Restoration</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../imagerepairoverview/">Image Repair & Restoration Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../redeye/">Reduce Red-Eye</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../noise/">Noise Reduction</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../remove_photos/">Remove Objects from Photos</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../clone/">Clone Stamp Tool</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Exporting Project</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../exportoverview/">Exporting Project Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../save/">Save Project</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../print/">Print Project</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Reference</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../shortcuts/">Shortcuts</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../glossary/">Glossary</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="..">Pinta User Guide</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>Quick Start &raquo;</li>
+        
+      
+    
+    <li>Setting Up Workspace</li>
+    <li class="wy-breadcrumbs-aside">
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="setting-up-workspace"><a class="toclink" href="#setting-up-workspace"><strong>Setting Up Workspace</strong></a><a class="headerlink" href="#setting-up-workspace" title="Permanent link">&para;</a></h1>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>If you haven't installed the program yet, go to the <a href="../start/"><strong>Getting Started</strong></a> section of this guide for step by step installation instructions.</p>
+</div>
+<p>It's recommended to invest in a drawing tablet if you want to use the program to create digital art, but using the good old-fashioned mouse is still perfectly fine to create your art as well. In this section, we'll be guiding you on setting up your workspace and understanding how to get started on creating a project (it could be editing photographs to painting landscapes to creating a cartoon character).</p>
+<p>If you aren't familiar with the tools and the menus, we recommend to check out the <a href="../overview/"><strong>General Overview</strong></a> page to learn more and give context to the workspace.</p>
+<h2 id="default-setup"><a class="toclink" href="#default-setup"><strong>Default Setup</strong></a><a class="headerlink" href="#default-setup" title="Permanent link">&para;</a></h2>
+<p>Open Pinta if you haven't already and you will see a blank workspace that looks like this:<br />
+<img alt="workspace" src="../img/setup/workspace.png" /></p>
+<p>As you can see from the <strong>Layers</strong> window, you have one layer called <strong>Background</strong>. When you want to work on an illustration or a photograph, you will need to <a href="../layers/">create a new layer</a> to work on because you want to keep the background layer for any background elements that will show in your final composite image.  </p>
+<p>Once you have setup your new layer, you can start working on your project in that new layer or any other new layers you have created. As well you can <a href="../layers/#import-file-into-layer">import an image to a layer from a file</a>.</p>
+<h2 id="setup-with-a-custom-canvas"><a class="toclink" href="#setup-with-a-custom-canvas"><strong>Setup with a Custom Canvas</strong></a><a class="headerlink" href="#setup-with-a-custom-canvas" title="Permanent link">&para;</a></h2>
+<p>When you open Pinta, it starts with a default canvas size of 640 x 480. You can create a custom size depending on the project you are creating. For example, you may want to create a banner such as this:
+<img alt="canvas" src="../img/setup/canvas.png" /></p>
+<p>To customize the canvas size, create a new image and select the desired sizing of your canvas.</p>
+<ol>
+<li>Select <strong>New...</strong> <img alt="new" src="../img/setup/new.png" /> in the Toolbar or go to <strong>File</strong> &gt; <strong>New...</strong>.</li>
+<li>Select a preset to change the canvas size or customize with the listed options to modify the width, height, orientation, and the type of background. You can see a preview of it in the window when you are making the modifications.<br />
+<img alt="canvas change" src="../img/setup/canvaschange.png" /></li>
+<li>Select <strong>OK</strong> to apply the change.</li>
+</ol>
+<h2 id="setup-with-a-screenshot"><a class="toclink" href="#setup-with-a-screenshot"><strong>Setup with a Screenshot</strong></a><a class="headerlink" href="#setup-with-a-screenshot" title="Permanent link">&para;</a></h2>
+<p>You can create a project with a screenshot of your screen(s). If you have multiple screens, it will also capture those too so it's recommended to use the <a href="../crop/">cropping tool</a> to keep what you need.</p>
+<ol>
+<li>Go to <strong>File</strong> &gt; <strong>New Screenshot...</strong> <img alt="screenshot" src="../img/setup/screenshot.png" />.</li>
+<li>Choose the length of the delay you require for the capture to start.<br />
+<img alt="capture" src="../img/setup/capture.png" /></li>
+<li>Select <strong>OK</strong> to capture.  </li>
+</ol>
+<h2 id="customizing-the-workspace"><a class="toclink" href="#customizing-the-workspace"><strong>Customizing the Workspace</strong></a><a class="headerlink" href="#customizing-the-workspace" title="Permanent link">&para;</a></h2>
+<p>Before you begin to work on your project, you can customize how your workspace looks to make the area easier for you to use. Using the <a href="../overview/#Menu-Bar-Features">View</a> menu, you can:</p>
+<ul>
+<li>Check or uncheck the Toolbar to hide or view it.</li>
+<li>Check or uncheck the Pixel Grid to turn on or off the pixel-sized gridlines (mainly used for pixel editing).</li>
+<li>Check or uncheck the Rulers to hide or view the workspace pixel-sized rulers.</li>
+<li>Change your ruler measurement in case you needed to use inch or centimeters instead of pixels.</li>
+<li>Select the zooming function if you need to take a closer look at your work area.</li>
+<li>Select Normal Size to view your image at 100% zoom.</li>
+<li>Select Best Fit to view the image in its entirety.</li>
+<li>Check or uncheck your workspace tools and windows to hide or view any features you may need.</li>
+</ul>
+<h2 id="saving-the-new-project"><a class="toclink" href="#saving-the-new-project"><strong>Saving the New Project</strong></a><a class="headerlink" href="#saving-the-new-project" title="Permanent link">&para;</a></h2>
+<p>Once you have created your project in the workspace, save your progress as an ORA file so that you can continue it the next time you are editing the same project. ORA stands for OpenRaster Image. The purpose of this file type is to save the image project with the <a href="../concept/#layers">layers</a> still intact so you can utilize the file in Pinta or any raster graphic editor. </p>
+<p>If the file is saved as a PNG, JPEG, or TIFF as an example, it becomes a final compostion of the image and the visible layers will be flatten together to export to a final image file. To export the file as an <a href="../concept/#image">image</a>, please see the exporting information under the <a href="../exportoverview/">Exporting Project</a> page.</p>
+<ol>
+<li>Go to <strong>File</strong> &gt; <strong>Save As...</strong> <img alt="save as" src="../img/setup/saveas.png" />.</li>
+<li>Choose the directory to save the project in.</li>
+<li>Select <strong>OpenRaster image (<em>.ora, </em>.ORA)</strong> from the drop-down list.</li>
+<li>Select <strong>Save</strong> to save the new project.</li>
+</ol>
+<h2 id="using-undo-or-redo-functions"><a class="toclink" href="#using-undo-or-redo-functions"><strong>Using Undo or Redo Functions</strong></a><a class="headerlink" href="#using-undo-or-redo-functions" title="Permanent link">&para;</a></h2>
+<p>You can undo and redo any actions taken in Pinta:
+- Go to <strong>Edit</strong> and select <strong>Undo</strong> or <strong>Redo</strong>
+- Select <strong>Undo</strong> or <strong>Redo</strong> from <strong>Toolbar</strong>.
+- Select <a href="../shortcuts/">shortcuts</a> for undo <code>CTRL</code> + <code>Z</code> and redo <code>CTRL</code> + <code>Y</code>.
+- Select the action in the <a href="../overview/"><strong>History</strong></a> window list - skip back to undo a row of actions and skip ahead to redo those actions. </p>
+<p>Your actions are unlimited so you can undo the whole history if you wanted to. Just take note, those actions will disappear once you close Pinta, even if the project file was saved as an .ora file.</p>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../tutorial/" class="btn btn-neutral float-right" title="Tutorial">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../quickstartoverview/" class="btn btn-neutral" title="Quick Start Overview"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+      
+        <span><a href="../quickstartoverview/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      
+      
+        <span style="margin-left: 15px"><a href="../tutorial/" style="color: #fcfcfc">Next &raquo;</a></span>
+      
+    </span>
+</div>
+    <script>var base_url = '..';</script>
+    <script src="../js/theme.js" defer></script>
+      <script src="../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
