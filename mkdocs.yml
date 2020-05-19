@@ -1,0 +1,68 @@
+site_name: Pinta User Guide
+nav:
+  - Home: index.md
+  - First Steps:
+    - First Steps Overview: firststepsoverview.md
+    - Getting Started: start.md
+    - General Overview: overview.md
+    - Basic Concepts: concept.md
+  - Quick Start: 
+    - Quick Start Overview: quickstartoverview.md
+    - Setting Up Workspace: setup.md
+    - Tutorial: tutorial.md
+  - Image Layers:
+    - Image Layers Overview: layersoverview.md
+    - Creating & Removing Layers: layers.md
+    - Edit Layer Properties: edit.md
+  - Selecting Objects:
+    - Select Objects Overview: select_overview.md
+    - Magic Wand: wand.md
+    - Ellipse: ellipse.md
+    - Lasso: lasso.md
+    - Rectangle: rectangle.md
+    - Move Select Location: select_location.md
+  - Coloring:
+    - Coloring Overview: coloringoverview.md
+    - Customize Color: coloring.md
+    - Creating Palette: palette.md
+    - Coloring Areas: coloringarea.md
+  - Illustrating:
+    - Illustrating Overview: illustratingoverview.md
+    - Choose Pencil and Brush: choose.md
+    - Creating Simple Objects: objects.md
+    - Text Management: text.md
+    - Removing Items: remove_items.md
+  - Image Transformations:
+    - Image Transformations Overview: transformoverview.md
+    - Rotate: rotate.md
+    - Flip: flip.md
+    - Resize: resize.md
+    - Crop: crop.md
+    - Adjust Canvas Size: adjust.md
+    - Move Image: move.md
+  - Image Enhancements:
+    - Image Enhancements Overview: imageenhancementsoverview.md
+    - Improving Colors: colors.md
+    - Image Effects: effects.md
+    - Filtering: filter.md
+  - Image Repair & Restoration:
+    - Image Repair & Restoration Overview: imagerepairoverview.md    
+    - Reduce Red-Eye: redeye.md
+    - Noise Reduction: noise.md
+    - Remove Objects from Photos: remove_photos.md
+    - Clone Stamp Tool: clone.md
+  - Exporting Project:
+    - Exporting Project Overview: exportoverview.md
+    - Save Project: save.md
+    - Print Project: print.md
+  - Reference:
+    - Shortcuts: shortcuts.md
+    - Glossary: glossary.md
+theme: 
+  name: readthedocs
+markdown_extensions:
+  - admonition
+  - toc:
+        permalink: True
+        anchorlink: True
+
