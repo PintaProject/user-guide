@@ -25,7 +25,7 @@ When the Pinta workspace first loads, you'll notice it has an uncluttered layout
 
 ![layers](img/overview/layers.png)
 
-__Images Window__ - displays the opened images that you can use as part of your layers and base image. 
+__Images Window__ - displays the opened images that you can use as part of your layers and base image.
 
 ![images](img/overview/images.png)
 
@@ -37,7 +37,7 @@ __Images Window__ - displays the opened images that you can use as part of your 
 
 ![menu](img/overview/menubar.png)
 
-__File__ - contains commands that allow you to create a new image, take a screenshot of your desktop, open an image, save an image, close an image, and quit the program within Pinta. 
+__File__ - contains commands that allow you to create a new image, take a screenshot of your desktop, open an image, save an image, close an image, and quit the program within Pinta.
 
 ![file](img/overview/file.png)
 
@@ -65,7 +65,7 @@ __Adjustments__ - contains commands which modify the colorization of pixels in t
 
 ![effects](img/overview/effects.png)
 
-__Add-ins__ - will allow you to install more effects, adjustments, and tools via the Add-in Manager. The Add-In Manager provides an easy way to manage any plugins or extensions you might have installed. 
+__Add-ins__ - will allow you to install more effects, adjustments, and tools via the Add-in Manager. The Add-In Manager provides an easy way to manage any plugins or extensions you might have installed.
 
 ![addins](img/overview/addins.png)
 
@@ -73,7 +73,7 @@ __Window__ - has two commands. Below those commands you'll notice an image name 
 
 ![window](img/overview/window.png)
 
-[__Help__](index.md#help) - provides quick access to a number of online resources like the [Pinta Website](https://pinta-project.com/pintaproject/pinta/), [File a Bug](https://bugs.launchpad.net/pinta[), [Translate This Application](https://translations.launchpad.net/pinta), and About. 
+[__Help__](index.md#help) - provides quick access to a number of online resources like the [Pinta Website](https://www.pinta-project.com/), [File a Bug](https://bugs.launchpad.net/pinta[), [Translate This Application](https://translations.launchpad.net/pinta), and About.
 
 ![help](img/overview/help.png)
 
@@ -89,7 +89,7 @@ __Window__ - has two commands. Below those commands you'll notice an image name 
 
 ![Cut](img/overview/cut.png) __Cut__ - command allows you to remove a selected portion of the active layer and place it on the clipboard (a clipboard is a temporary storage area for data that the user wants to copy from one place to another).
 
-![Copy](img/overview/copy.png) __Copy__ - command duplicates the selected region to the clipboard. Unlike the Cut command, the Copy command leaves the selection on the active layer. The current selection also remains active in the active window. 
+![Copy](img/overview/copy.png) __Copy__ - command duplicates the selected region to the clipboard. Unlike the Cut command, the Copy command leaves the selection on the active layer. The current selection also remains active in the active window.
 
 ![Paste](img/overview/paste.png) __Paste__ - command allows you to insert an image or a selected section of a layer from the clipboard into the active layer.
 
@@ -129,7 +129,7 @@ __Window__ - has two commands. Below those commands you'll notice an image name 
 
 ![Text](img/overview/text.png) __Text__ - used to add text to the project. This tool has the option to change the font with any font loaded on your computer as well as the font color in the Tools Settings Bar.
 
-![Rectangle](img/overview/rec.png) __Rectangle__ - used to create rectangles that can be either outlined or filled shapes. If you hold the `Shift` key, it will create a square shape instead of a rectangle. 
+![Rectangle](img/overview/rec.png) __Rectangle__ - used to create rectangles that can be either outlined or filled shapes. If you hold the `Shift` key, it will create a square shape instead of a rectangle.
 
 ![Ellipse](img/overview/ell.png) __Ellipse__ - used to create elliptical shapes that can be either outlined or filled shapes. Like the rectangle tool, if you hold the `Shift` key, it will create a circle shape instead of an ellipse.
 
