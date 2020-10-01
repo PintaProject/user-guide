@@ -23,13 +23,13 @@ Some of the main feature benefits of Pinta include:
 
 Originally created and maintained by Jonathan Pobst (until version 1.0), a new development community has taken over the project to continue support and updates.
 
-If you'd like more information about the background of Pinta and of the Pinta community, go to the [Pinta-Project.com](https://pinta-project.com/pintaproject/pinta/) website which includes the following information:
+If you'd like more information about the background of Pinta and of the Pinta community, go to the [Pinta-Project.com](https://www.pinta-project.com/) website which includes the following information:
 
- - [Video Tutorials](https://pinta-project.com/pintaproject/pinta/howto/pinta-on-web).  
- - [How to Contribute to the Pinta-Project](https://pinta-project.com/pintaproject/pinta/contribute).  
+ - [Video Tutorials](https://www.pinta-project.com/howto/pinta-on-web).  
+ - [How to Contribute to the Pinta-Project](https://www.pinta-project.com/howto/contribute).  
  - [Reporting Bugs](https://bugs.launchpad.net/pinta).  
  - [Feature Requests](https://communiroo.com/pintaproject/pinta/suggestions).  
- - [Pinta Contacts](https://pinta-project.com/pintaproject/pinta/contact).  
+ - [Pinta Contacts](https://www.pinta-project.com/contact).  
 
 ### __User Guide Team__ ###
 

@@ -73,7 +73,7 @@ __Window__ - has two commands. Below those commands you'll notice an image name 
 
 ![window](img/overview/window.png)
 
-[__Help__](index.md#help) - provides quick access to a number of online resources like the [Pinta Website](https://pinta-project.com/pintaproject/pinta/), [File a Bug](https://bugs.launchpad.net/pinta[), [Translate This Application](https://translations.launchpad.net/pinta), and About. 
+[__Help__](index.md#help) - provides quick access to a number of online resources like the [Pinta Website](https://www.pinta-project.com/), [File a Bug](https://bugs.launchpad.net/pinta[), [Translate This Application](https://translations.launchpad.net/pinta), and About. 
 
 ![help](img/overview/help.png)
 
