@@ -65,9 +65,11 @@ __Adjustments__ - contains commands which modify the colorization of pixels in t
 
 ![effects](img/overview/effects.png)
 
+<!-- Addins are disabled as of Pinta 2.0 due to Mono.Addins missing support for .NET 6 / GTK 3. See https://bugs.launchpad.net/pinta/+bug/1998928
 __Add-ins__ - will allow you to install more effects, adjustments, and tools via the Add-in Manager. The Add-In Manager provides an easy way to manage any plugins or extensions you might have installed.
 
 ![addins](img/overview/addins.png)
+-->
 
 __Window__ - has two commands. Below those commands you'll notice an image name for each image that you currently have open. A dot will be displayed to the left of the active image. You can switch between images using the shortcut keys `Alt` + `1` for image one, `Alt` + `2` for image two, `Alt` + `3` for image three, and etc. The image names listed in the Window menu will be the same names that are listed in the Images Window.
 
