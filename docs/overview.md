@@ -113,6 +113,8 @@ __Window__ - has two commands. Below those commands you'll notice an image name 
 
 ![tools](img/overview/toolsname.png)
 
+Each item in the **Tools Menu** can be hovered over to view a tooltip with detailed information on the available mouse and keyboard actions when using the tool.
+
 ![Rectangle Select](img/overview/recsel.png) __Rectangle Select__ - used to select portions of the project in a rectangle shape. When a portion of a project is selected, tools that are used will only work in the selected area of the project. If a square selection is needed, hold the `Shift` key when selecting the area. Holding down the left-click button on your mouse to select and holding down the right-click button on your mouse to deselect.
 
 ![Lasso Select](img/overview/lasso.png) __Lasso Select__ - used to custom select which sections of the project you want selected. This is done by drawing around the portion of the project you want selected while holding down the left-click button on your mouse.
