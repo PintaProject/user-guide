@@ -27,8 +27,8 @@ If you'd like more information about the background of Pinta and of the Pinta co
 
  - [Video Tutorials](https://www.pinta-project.com/howto/pinta-on-web).
  - [How to Contribute to the Pinta-Project](https://www.pinta-project.com/howto/contribute).
- - [Reporting Bugs](https://bugs.launchpad.net/pinta).
- - [Feature Requests](https://communiroo.com/pintaproject/pinta/suggestions).
+ - [Reporting Bugs](https://github.com/PintaProject/Pinta/issues).
+ - [Feature Requests](https://github.com/PintaProject/Pinta/discussions/categories/ideas).
  - [Pinta Contacts](https://www.pinta-project.com/contact).
 
 ### __User Guide Team__ ###
