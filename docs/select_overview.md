@@ -7,6 +7,7 @@ Pinta provides a number of [**Selection**](select_overview.md#selection-tools) t
 ## Selection Tools
 
 Using a **Selection** tool, you can isolate a specific area and make modifications to one or more objects within an image. You can edit and apply effects to the selected portion of the image, while leaving the unselected areas unchanged. 
+The selected portion of the image can also be [moved, rotated, or resized](move.md).
 
 Pinta provides the following **Selection** tools:
 

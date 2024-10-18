@@ -34,5 +34,7 @@ Use the **Move Selected Pixels** tool to move and rotate a selected portion of y
     ![Move selected image final](img/movepixelsc.png)  
  
     &nbsp;
-!!! Note 
-    The right-click button always controls rotation - regardless of the location of the cursor.  
+    !!! Note 
+        The right-click button always controls rotation - regardless of the location of the cursor.  
+
+5. Hold `Ctrl` and drag the selection to resize it. Hold `Shift` while dragging to preserve the original aspect ratio.
