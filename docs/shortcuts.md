@@ -107,7 +107,6 @@ Name | Shortcut
 **Delete Layer** |		Ctrl + Shift+ Delete
 **Duplicate Layer**	|	Ctrl + Shift + D
 **Merge Layer Down**	|	Ctrl + M
-**Rotate / Zoom**	|	Ctrl + Shift + Z
 **Go to Top Layer**	|	Ctrl + Alt + PgUp
 **Go to Layer Above**	|	Alt + PgUp
 **Go to Layer Below**	|	Alt + PgDn
